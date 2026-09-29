@@ -1,17 +1,17 @@
-# OntoRelMap-review
+= OntoRelMap-review
 PRISMA-ScR for ontology-based mapping processes
 
-## Description
+== Description
 
 This contains the supplementary material for the PRISMA-ScR on ontology-based mapping processes.
 
-Samuel Dussaul, Luc Lavoie, Jean-Fran¸cois Ethier and Christina Khnaisser
+Samuel Dussaul, Luc Lavoie, Jean-François Ethier and Christina Khnaisser
 A scoping review on ontology-driven mapping processes in healthcare and beyond: requirements
 and remaining challenges
 Submitted to BMC Medical Informatics and Decision Making
-Collection on Semantic interoperability\.
+Collection on Semantic interoperability.
 
-## Repository content
+== Repository content
 
 This repository contains:
 
@@ -19,13 +19,13 @@ This repository contains:
 . The scripts and resource files used in the literature review process, including search queries and the results of each database link:search/[search/]
 . The PDV version of the evaluated papers link:selected-papers/[selected-papers/]
 
-## Contact
+== Contact
 For more information please contact :
 
 Christina Khnaisser : Christina.Khnaisser@usherbrooke.ca + 
 Samuel Dussault : Samuel.Dussault@usherbrooke.ca 
 
-## Licenses
+== Licenses
 
 The software is licensed under
 https://forge.gouv.qc.ca/licence/en/liliq-v1-1/#strong-reciprocity-liliq-r[LILIQ-R+ version 1.1]
