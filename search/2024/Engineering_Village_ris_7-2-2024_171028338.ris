@@ -1,0 +1,1026 @@
+TY  - CONF
+TI  - Supporting Practical URI Mappings in Virtual Knowledge Graph-based Relational Data Integration
+AD  - University of Tsukuba, Japan
+BT  - 2023 IEEE International Conference on Big Data (BigData), 2023
+T3  - 2023 IEEE International Conference on Big Data (BigData)
+A1  - Sato, S.
+A1  - Masuda, T.
+A1  - Amagasa, T.
+PY  - 2023//
+U1  - 24502626
+SP  - 2958
+EP  - 64
+CY  - Piscataway, NJ, USA
+PB  - IEEE
+N2  - In this paper, we address the problem of mapping identifiers in non-RDF data to URIs. Virtual knowledge graphs (VKGs), where non-RDF data, such as relational databases, CSV files, etc., are published as RDF data, allowing users to access them using a standard query language (SPARQL), has been gaining much attention to integrating heterogeneous data. There have been several VKG systems, but there has been a problem of assigning an appropriate URI to an entity included in a record, and existing systems only support simple methods to generate a URI by adding a URI prefix to the ID value in a record. However, in practice, more complex mappings are needed to meet the demands of real applications. To address this problem, we proposed to extend the relation-to-RDF mapping rules where users are allowed to specify how entities in relations are mapped to URIs in terms of a user-defined URI function. More precisely, we integrate this method into our relation-to-RDF mapping framework. We conduct a set of experiments to assess the feasibility of the proposed method.
+KW  - data integration
+KW  - data integrity
+KW  - graph theory
+KW  - query languages
+KW  - query processing
+KW  - relational databases
+KW  - semantic networks
+KW  - semantic Web
+U2  - appropriate URI
+U2  - complex mappings
+U2  - integrating heterogeneous data
+U2  - mapping identifiers
+U2  - nonRDF data
+U2  - practical URI mappings
+U2  - RDF data
+U2  - relation-to-RDF mapping framework
+U2  - relation-to-RDF mapping rules
+U2  - relational databases
+U2  - standard query language
+U2  - URI prefix
+U2  - user-defined URI function
+U2  - virtual knowledge graph-based relational data integration
+U2  - virtual knowledge graphs
+DO  - 10.1109/BigData59044.2023.10386274
+L2  - http://dx.doi.org/10.1109/BigData59044.2023.10386274
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Investigating Ontology-Based Data Access with GitHub
+BT  - 20th International Conference on The Semantic Web, ESWC 2023, May 28, 2023  -  June 1, 2023
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Jafta, Yahlieel
+A1  - Leenen, Louise
+A1  - Meyer, Thomas
+AD  - University of the Western Cape, Cape Town, South AfricaUniversity of Cape Town, Cape Town, South AfricaCentre for Artificial Intelligence Research (CAIR), Cape Town, South Africa
+VL  - 13870 LNCS
+PY  - 2023
+U1  - 20232614317593
+SP  - 644
+EP  - 660
+SN  - 03029743
+CY  - Hersonissos, Greece
+PB  - Springer Science and Business Media Deutschland GmbH
+N2  - Data analysis-based decision-making is performed daily by domain experts. As data grows, getting access to relevant data becomes a challenge. In an approach known as Ontology-based data access (OBDA), ontologies are advocated as a suitable formal tool to address complex data access. This technique combines a domain ontology with a data source by using a declarative mapping specification to enable data access using a domain vocabulary. We investigate this approach by studying the theoretical background; conducting a literature review on the implementation of OBDA in production systems; implementing OBDA on a relational dataset using an OBDA tool and; providing results and analysis of query answering. We selected Ontop (https://ontop-vkg.org ) to illustrate how this technique enhances the data usage of the GitHub community. Ontop is an open-source OBDA tool applied in the domain of relational databases. The implementation consists of the GHTorrent dataset and an extended SemanGit ontology. We perform a set of queries to highlight a subset of the features of this data access approach. The results look positive and can assist various use cases related to GitHub data with a semantic approach. OBDA does provide benefits in practice, such as querying in domain vocabulary and making use of reasoning over the axioms in the ontology. However, the practical impediments we observe are in the "manual" development of a domain ontology and the creation of a mapping specification which requires deep knowledge of a domain and the data. Also, implementing OBDA within the practical context of an information system requires careful consideration for a suitable user interface to facilitate the query construction from ontology vocabulary. Finally, we conclude with a summary of the paper and direction for future research. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Ontology
+KW  - Decision making
+KW  - Mapping
+KW  - Query processing
+KW  - Search engines
+KW  - Semantics
+KW  - Specifications
+KW  - User interfaces
+U2  - Access tools
+U2  - Data access
+U2  - Decisions makings
+U2  - Domain ontologies
+U2  - Git
+U2  - Github
+U2  - Mapping specifications
+U2  - Ontology's
+U2  - Ontology-based data access
+U2  - Relational Database
+DO  - 10.1007/978-3-031-33455-9_38
+L2  - http://dx.doi.org/10.1007/978-3-031-33455-9_38
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - On the Use of Virtual Knowledge Graphs to Improve Environmental Sensor Data Accessibility
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+A1  - Wu, Jiantao
+A1  - Orlandi, Fabrizio
+A1  - O'Sullivan, Declan
+A1  - Dev, Soumyabrata
+AD  - University College Dublin, ADAPT SFI Research Centre, School of Computer Science, Dublin; D04 V1W8, IrelandTrinity College Dublin, ADAPT SFI Research Centre, School of Computer Science and Statistics, Dublin; D02 PN40, Ireland
+VL  - 17
+PY  - 2024
+U1  - 20241115715235
+SP  - 6671
+EP  - 6682
+SN  - 19391404
+PB  - Institute of Electrical and Electronics Engineers Inc.
+N2  - The rapid proliferation of environmental sensor networks (ESNs) used for monitoring environmental systems, such as meteorology and air quality, and advances in database technologies [e.g., structured query language (SQL)] has made significant progress in sensor data management. Notwithstanding the strength of these databases, they can inevitably lead to a data heterogeneity problem as a result of isolated databases with distinct data schema, which are expensive to be accessed and preprocessed when the data are consumed spanning multiple databases. Recently, knowledge graphs have been used as one of the most popular integration frameworks to address this data heterogeneity problem from the perspective of establishing an interoperable semantic schema (also known as ontology). However, the majority of the proposed knowledge graphs in this domain are a product of an extraction-transform-load approach with all the data physically stored in a triplestore. In contrast, this article examines an approach of virtualizing knowledge graphs on top of the SQL databases as the means to provide a federated data integration approach for enhanced heterogeneous ESNs' data access, bringing with it the promise of more cost efficiency in terms of input/output, storage, etc. In addition, this work also considers some motivating application scenarios regarding the efficiency of time-series data access. Based on a performance comparison between the proposed integration approach and some popular triplestores, the proposed approach has a significant edge over triplestores in multiple time-series structuring and acquisition. © 2008-2012 IEEE.
+KW  - Semantics
+KW  - Data integration
+KW  - Digital storage
+KW  - Efficiency
+KW  - Environmental technology
+KW  - Graphic methods
+KW  - Information management
+KW  - Ontology
+KW  - Query languages
+KW  - Query processing
+KW  - Sensor networks
+KW  - Time series analysis
+U2  - Environmental sensor networks
+U2  - Knowledge graphs
+U2  - Ontology-based data access
+U2  - SQL database
+U2  - Structured Query Language
+U2  - Time-series analysis
+U2  - Triple (data structure)
+U2  - Virtual knowledge
+U2  - Virtual knowledge graph
+DO  - 10.1109/JSTARS.2024.3370389
+L2  - http://dx.doi.org/10.1109/JSTARS.2024.3370389
+ER  - 
+
+
+TY  - JOUR
+TI  - On the Use of Virtual Knowledge Graphs to Improve Environmental Sensor Data Accessibility
+AD  - University College Dublin, School of Computer Science, Ireland
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+T3  - IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. (USA)
+A1  - Wu, J.
+A1  - Orlandi, F.
+A1  - O'sullivan, D.
+A1  - Dev, S.
+VL  - 17
+PY  - 2024//
+U1  - 24845726
+SP  - 6671
+EP  - 82
+SN  - 2151-1535
+CY  - USA
+PB  - IEEE
+N2  - The rapid proliferation of environmental sensor networks (ESNs) used for monitoring environmental systems, such as meteorology and air quality, and advances in database technologies [e.g., structured query language (SQL)] has made significant progress in sensor data management. Notwithstanding the strength of these databases, they can inevitably lead to a data heterogeneity problem as a result of isolated databases with distinct data schema, which are expensive to be accessed and preprocessed when the data are consumed spanning multiple databases. Recently, knowledge graphs have been used as one of the most popular integration frameworks to address this data heterogeneity problem from the perspective of establishing an interoperable semantic schema (also known as ontology). However, the majority of the proposed knowledge graphs in this domain are a product of an extraction-transform-load approach with all the data physically stored in a triplestore. In contrast, this article examines an approach of virtualizing knowledge graphs on top of the SQL databases as the means to provide a federated data integration approach for enhanced heterogeneous ESNs' data access, bringing with it the promise of more cost efficiency in terms of input/output, storage, etc. In addition, this work also considers some motivating application scenarios regarding the efficiency of time-series data access. Based on a performance comparison between the proposed integration approach and some popular triplestores, the proposed approach has a significant edge over triplestores in multiple time-series structuring and acquisition.
+KW  - data integration
+KW  - data integrity
+KW  - database management systems
+KW  - graph theory
+KW  - ontologies (artificial intelligence)
+KW  - open systems
+KW  - query processing
+KW  - semantic networks
+KW  - semantic Web
+KW  - SQL
+KW  - time series
+U2  - air quality
+U2  - data heterogeneity problem
+U2  - database technologies
+U2  - distinct data schema
+U2  - enhanced heterogeneous ESNs' data access
+U2  - environmental sensor networks
+U2  - environmental systems
+U2  - extraction-transform-load approach
+U2  - federated data integration approach
+U2  - improve environmental sensor data accessibility
+U2  - interoperable semantic schema
+U2  - isolated databases
+U2  - meteorology
+U2  - multiple databases
+U2  - multiple time-series structuring
+U2  - popular integration frameworks
+U2  - rapid proliferation
+U2  - sensor data management
+U2  - SQL databases
+U2  - structured query language
+U2  - time-series data access
+U2  - virtual knowledge graphs
+U2  - virtualizing knowledge graphs
+DO  - 10.1109/JSTARS.2024.3370389
+L2  - http://dx.doi.org/10.1109/JSTARS.2024.3370389
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Using Berlin SPARQL benchmark to evaluate virtual SPARQL endpoints over relational databases
+JO  - Data and Knowledge Engineering
+A1  - Chaloupka, Milos
+A1  - Necasky, Martin
+AD  - Faculty of Mathematics and Physics, Charles University, Czech Republic
+VL  - 152
+PY  - 2024
+U1  - 20241916068913
+SN  - 0169023X
+PB  - Elsevier B.V.
+N2  - The RDF is a popular and well-documented format for publishing structured data on the web. It enables data to be consumed without the knowledge of how the data is internally stored. There are already several native RDF storage solutions that provide a SPARQL endpoint. However, native RDF stores are not widely adopted. It is still more common to store data in a relational database. One of the useful features of native RDF storage solutions is providing a SPARQL endpoint, a web service to query RDF data with SPARQL. To provide this feature also on top of prevalent relational databases, solutions for virtual SPARQL endpoints on top of a relational database have appeared. To benchmark these solutions, a state-of-the-art tool, the Berlin SPARQL Benchmark (BSBM), is used. However, BSBM was designed primarily to benchmark native RDF stores. It can also be used to benchmark solutions for virtual SPARQL endpoints. However, since BSBM was not designed for virtual SPARQL endpoints, each implementation uses that tool differently for evaluation. As a result, the evaluation is not consistent and therefore hardly comparable. In this paper, we demonstrate how this well-defined benchmarking tool for SPARQL endpoints can be used to evaluate virtual endpoints over relational databases, perform the evaluation on the available implementations, and provide instructions on how to repeat the same evaluation in the future. © 2024 Elsevier B.V.
+KW  - Web services
+KW  - Digital storage
+KW  - Petroleum reservoir evaluation
+KW  - Query processing
+KW  - Resource Description Framework (RDF)
+U2  - Berlin SPARQL benchmark
+U2  - R2RML
+U2  - RDB2RDF
+U2  - RDF data
+U2  - RDF storage
+U2  - Relational Database
+U2  - SPARQL
+U2  - Storage solutions
+U2  - Structured data
+U2  - Webs services
+DO  - 10.1016/j.datak.2024.102309
+L2  - http://dx.doi.org/10.1016/j.datak.2024.102309
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Supporting Practical URI Mappings in Virtual Knowledge Graph-based Relational Data Integration
+BT  - 2023 IEEE International Conference on Big Data, BigData 2023, December 15, 2023  -  December 18, 2023
+T3  - Proceedings - 2023 IEEE International Conference on Big Data, BigData 2023
+A1  - Sato, Shogo
+A1  - Masuda, Tadashi
+A1  - Amagasa, Toshiyuki
+AD  - University of Tsukuba, Programs in Engineering Sciences, Tsukuba, JapanUniversity of Tsukuba, Center of Computational Sciences, Tsukuba, Japan
+PY  - 2023
+U1  - 20240715564687
+SP  - 2958
+EP  - 2964
+CY  - Sorrento, Italy
+PB  - Institute of Electrical and Electronics Engineers Inc.
+N2  - In this paper, we address the problem of mapping identifiers in non-RDF data to URIs. Virtual knowledge graphs (VKGs), where non-RDF data, such as relational databases, CSV files, etc., are published as RDF data, allowing users to access them using a standard query language (SPARQL), has been gaining much attention to integrating heterogeneous data. There have been several VKG systems, but there has been a problem of assigning an appropriate URI to an entity included in a record, and existing systems only support simple methods to generate a URI by adding a URI prefix to the ID value in a record. However, in practice, more complex mappings are needed to meet the demands of real applications. To address this problem, we proposed to extend the relation-to-RDF mapping rules where users are allowed to specify how entities in relations are mapped to URIs in terms of a user-defined URI function. More precisely, we integrate this method into our relation-to-RDF mapping framework. We conduct a set of experiments to assess the feasibility of the proposed method. © 2023 IEEE.
+DO  - 10.1109/BigData59044.2023.10386274
+L2  - http://dx.doi.org/10.1109/BigData59044.2023.10386274
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - A New Approach for Ontology Generation from Relational Data Design Patterns
+BT  - 8th International Conference on Data Mining and Big Data, DMBD 2023, December 9, 2023  -  December 12, 2023
+T3  - Communications in Computer and Information Science
+A1  - Li, Xiang
+A1  - Luo, Rui
+A1  - Liu, Kun
+A1  - Li, Fan
+A1  - Wang, Chengjun
+A1  - Wang, Qiang
+AD  - Advanced Institute of Big Data, Beijing, China
+VL  - 2018 CCIS
+PY  - 2024
+U1  - 20241215764589
+SP  - 157
+EP  - 172
+SN  - 18650929
+CY  - Sanya, China
+PB  - Springer Science and Business Media Deutschland GmbH
+N2  - Knowledge graphs can effectively manage domain knowledge such as entities, properties, relations and events. Recent years have witnessed quite a few successful AI applications with the help of knowledge graphs. High-quality knowledge graphs are often built with a domain ontology, which is known to be a tedious and manual intensive task. Well-designed Relational Databases (RDBs) is an important source for obtaining ontologies and knowledge graphs. For this reason, designing automatic algorithms to generate ontologies from data has been a hot research topic. However, existing methods only consider basic ontology elements directly encoded in the RDB metadata, such as table names and foreign keys. This not only leads to erroneous or meaningless ontology classes, but also overlooks a large portion of hidden relations. As we know, database design patterns (DDP) often contain hidden semantics, which should be reconstructed into the ontology. This paper studies how typical DDPs could be recognized and how to extract ontologies from such DDPs. We focus on the JC3IEDM database, a rigorously-designed RDB in the field of joint operation, which is a widely-accepted industrial standard. Through analysis, we summarize 5 representative relational DDPs and identify their metadata characteristics. Based on these characteristics, we propose a new approach to automatically recognize and classify these patterns. Finally, we derive a rule-based method to generate OWL-format ontologies according to the identified DDPs. Empirically, we verify our approach using the whole JC3IEDM database, which contains more than 200 tables and thousands of data columns. The experimental results show that our method can automatically generate the ontology for this large-scale database, and the resultant ontology has improved quality compared to existing methods. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2024.
+KW  - Ontology
+KW  - Domain Knowledge
+KW  - Graphic methods
+KW  - Knowledge graph
+KW  - Metadata
+KW  - Semantics
+U2  - Database design
+U2  - Database design pattern
+U2  - Design Patterns
+U2  - Knowledge graphs
+U2  - New approaches
+U2  - Ontology generation
+U2  - Ontology's
+U2  - Relational Database
+U2  - Semantic integration
+U2  - Semantic integration of database
+DO  - 10.1007/978-981-97-0844-4_12
+L2  - http://dx.doi.org/10.1007/978-981-97-0844-4_12
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Semantic Querying of Integrated Raster and Relational Data: A Virtual Knowledge Graph Approach
+BT  - 17th International Rule Challenge and 7th Doctoral Consortium @ RuleM+RR, RuleML+RR-Companion 2023, September 18, 2023  -  September 20, 2023
+T3  - CEUR Workshop Proceedings
+A1  - Ghosh, Arka
+A1  - imkus, Mantas
+A1  - Calvanese, Diego
+AD  - Department of Computing Science, Umea Universitet, Umea, SwedenResearch Centre for Knowledge and Data, Faculty of Engineering, Free University of Bozen-Bolzano, Bolzano, Italy
+VL  - 3485
+PY  - 2023
+U1  - 20234214915067
+SN  - 16130073
+CY  - Oslo, Norway
+PB  - CEUR-WS
+N2  - Ontology-based data access (OBDA) facilitates access to heterogeneous data sources through the mediation of an ontology (e.g. OWL), which captures the domain of interest and is connected to data sources through a declarative mapping. In our study, large, heterogeneous earth observational (EO) data, known as raster data, and geometrical data, known as vector data, are considered as (heterogeneous) data sources. Raster data represent, e.g., Earth's natural phenomena, such as surface temperature, elevation, or air pollution, as multidimensional arrays. In contrast, vector data depict, e.g., locations, networks, or regions on Earth, using geometries. Domain experts, such as earth scientists and GIS practitioners, still struggle to undertake advanced studies by querying large raster and vector data in an integrated way because, unlike relational data, they come in diverse formats and different data structures. In our approach to integration, we use a geospatial extension of an RDBMS to represent vector data as relational data, and a domain-agnostic array DBMS to handle raster data. Our aim is to extend the OBDA paradigm to effectively deal with relational, vector, and raster data in a combined way, while leveraging the built-in capabilities of data management tools relevant to each type of data. We also plan to develop techniques to calculate on the fly for each user query posed over the ontology an optimal query plan that exploits, at best, the query processing capabilities of each tool, while limiting costly data transfer operations between tools. © 2023 Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0).
+KW  - Semantics
+KW  - Data transfer
+KW  - Information management
+KW  - Knowledge graph
+KW  - Ontology
+KW  - Query processing
+KW  - Vectors
+U2  - Artificial intelligence
+U2  - Knowledge graphs
+U2  - Knowledge-representation
+U2  - Multidimensional arrays
+U2  - Ontology-based data access
+U2  - Raster data
+U2  - Relational data
+U2  - Spatial temporals
+U2  - Spatial-temporal reasoning
+U2  - Temporal reasoning
+U2  - Vector data
+U2  - Virtual knowledge
+U2  - Virtual knowledge graph
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Ontology-based Data Federation - A Framework Proposal
+BT  - 31st Symposium of Advanced Database Systems, SEBD 2023, July 2, 2023  -  July 5, 2023
+T3  - CEUR Workshop Proceedings
+A1  - Gu, Zhenzhen
+A1  - Calvanese, Diego
+A1  - Di Panfilo, Marco
+A1  - Lanti, Davide
+A1  - Mosca, Alessandro
+A1  - Xiao, Guohui
+AD  - Free University of Bozen-Bolzano, Bolzano, ItalyUniversity of Bergen, Bergen, NorwayUmea University, Umea, Sweden
+VL  - 3478
+PY  - 2023
+U1  - 20234114857985
+SP  - 210
+EP  - 219
+SN  - 16130073
+CY  - Galzingano Terme, Italy
+PB  - CEUR-WS
+N2  - Ontology-based data access (OBDA) is a well established approach to information management that facilitates the access to relational data sources through the mediation of a conceptual domain view, given in terms of an ontology, and the use of a declarative mapping between the data layer and the ontology. We formally introduce here the notion of ontology-based data federation (OBDF) to denote a framework that combines OBDA with a data federation layer where multiple heterogeneous sources are virtually exposed as a single relational database. We discuss opportunities and challenges of OBDF, and propose novel techniques to make query answering in the OBDF setting more efficient. Our techniques are validated through an extensive experimental evaluation based on the Berlin SPARQL Benchmark. This work is an abridged version of [1]. © 2023 CEUR-WS. All rights reserved.
+KW  - Ontology
+KW  - Information management
+KW  - Query processing
+KW  - Semantic Web
+U2  - Data federation
+U2  - Data layer
+U2  - Data-source
+U2  - Heterogeneous sources
+U2  - Ontology's
+U2  - Ontology-based
+U2  - Ontology-based data access
+U2  - Queries optimization
+U2  - Relational data
+U2  - Relational Database
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - The RML Ontology: A Community-Driven Modular Redesign After a Decade of Experience in Mapping Heterogeneous Data to RDF
+BT  - 22nd International Semantic Web Conference, ISWC 2023, November 6, 2023  -  November 10, 2023
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Iglesias-Molina, Ana
+A1  - Van Assche, Dylan
+A1  - Arenas-Guerrero, Julian
+A1  - De Meester, Ben
+A1  - Debruyne, Christophe
+A1  - Jozashoori, Samaneh
+A1  - Maria, Pano
+A1  - Michel, Franck
+A1  - Chaves-Fraga, David
+A1  - Dimou, Anastasia
+AD  - Ontology Engineering Group, Universidad Politecnica de Madrid, Madrid, SpainIDLab, Department of Electronics and Information Systems, Ghent University - imec, Ghent, BelgiumMontefiore Institute, University of Liege, Liege, Belgiummetaphacts GmbH, Walldorf, GermanyTIB - Leibniz Information Center for Science and Technology, Hanover, GermanySkemu, Schiedam, NetherlandsUniversity Cote dAzur, CNRS, Inria, I3S, Nice, FranceUniversidade de Santiago de Compostela, Santiago de Compostela, SpainKU Leuven  Flanders Make@KULeuven  Leuven.AI, Leuven, Belgium
+VL  - 14266 LNCS
+PY  - 2023
+U1  - 20234715098378
+SP  - 152
+EP  - 175
+SN  - 03029743
+CY  - Athens, Greece
+PB  - Springer Science and Business Media Deutschland GmbH
+N2  - The Relational to RDF Mapping Language (R2RML) became a W3C Recommendation a decade ago. Despite its wide adoption, its potential applicability beyond relational databases was swiftly explored. As a result, several extensions and new mapping languages were proposed to tackle the limitations that surfaced as R2RML was applied in real-world use cases. Over the years, one of these languages, the RDF Mapping Language (RML), has gathered a large community of contributors, users, and compliant tools. So far, there has been no well-defined set of features for the mapping language, nor was there a consensus-marking ontology. Consequently, it has become challenging for non-experts to fully comprehend and utilize the full range of the language’s capabilities. After three years of work, the W3C Community Group on Knowledge Graph Construction proposes a new specification for RML. This paper presents the new modular RML ontology and the accompanying SHACL shapes that complement the specification. We discuss the motivations and challenges that emerged when extending R2RML, the methodology we followed to design the new ontology while ensuring its backward compatibility with R2RML, and the novel features which increase its expressiveness. The new ontology consolidates the potential of RML, empowers practitioners to define mapping rules for constructing RDF graphs that were previously unattainable, and allows developers to implement systems in adherence with [R2]RML. Resource type: Ontology/License: CC BY 4.0 International DOI: 10.5281/zenodo.7918478 /URL: http://w3id.org/rml/portal/ © The Author(s) 2023.
+KW  - Ontology
+KW  - Knowledge graph
+KW  - Mapping
+KW  - Resource Description Framework (RDF)
+KW  - Specifications
+U2  - Declarative Languages
+U2  - Heterogeneous data
+U2  - Knowledge graphs
+U2  - Mapping Language
+U2  - Modulars
+U2  - Ontology's
+U2  - R2RML
+U2  - RDF mapping
+U2  - RDF mapping language
+U2  - Relational Database
+DO  - 10.1007/978-3-031-47243-5_9
+L2  - http://dx.doi.org/10.1007/978-3-031-47243-5_9
+ER  - 
+
+
+TY  - JOUR
+TI  - Knowledge Graph Construction with a<i>Façade</i>: A Unified Method to Access Heterogeneous Data Sources on the Web
+AD  - University of Bologna, Italy
+JO  - ACM Transactions on Internet Technology
+T3  - ACM Trans. Internet Technol. (USA)
+A1  - Asprino, L.
+A1  - Daga, E.
+A1  - Gangemi, A.
+A1  - Mulholland, P.
+PY  - 2023/02/28
+U1  - 23169001
+SP  - 6 (31 pp.)
+SN  - 1557-6051
+CY  - USA
+PB  - ACM
+N2  - Data integration is the dominant use case for RDF Knowledge Graphs. However, Web resources come in formats with weak semantics (for example, CSV and JSON), or formats specific to a given application (for example, BibTex, HTML, and Markdown). To solve this problem, Knowledge Graph Construction (KGC) is gaining momentum due to its focus on supporting users in transforming data into RDF. However, using existing KGC frameworks result in complex data processing pipelines, which mix structural and semantic mappings, whose development and maintenance constitute a significant bottleneck for KG engineers. Such frameworks force users to rely on different tools, sometimes based on heterogeneous languages, for inspecting sources, designing mappings, and generating triples, thus making the process unnecessarily complicated. We argue that it is possible and desirable to equip KG engineers with the ability of interacting with Web data formats by relying on their expertise in RDF and the well-established SPARQL query language [2]. In this article, we study a unified method for data access to heterogeneous data sources with Facade-X, a meta-model implemented in a new data integration system called SPARQL Anything. We demonstrate that our approach is theoretically sound, since it allows a single meta-model, based on RDF, to represent data from(a)any file format expressible in BNF syntax, as well as(b)any relational database. We compare our method to state-of-the-art approaches in terms of usability (cognitive complexity of the mappings) and general performance. Finally, we discuss the benefits and challenges of this novel approach by engaging with the reference user community.
+KW  - data integration
+KW  - graph theory
+KW  - Internet
+KW  - Linked Data
+KW  - query languages
+KW  - query processing
+KW  - relational databases
+KW  - semantic networks
+U2  - access heterogeneous data sources
+U2  - BNF syntax
+U2  - complex data processing pipelines
+U2  - data access
+U2  - data integration system
+U2  - Facade-X
+U2  - frameworks force users
+U2  - heterogeneous languages
+U2  - inspecting sources
+U2  - KG engineers
+U2  - KGC frameworks
+U2  - knowledge graph construction
+U2  - meta-model
+U2  - RDF Knowledge Graphs
+U2  - semantic mappings
+U2  - SPARQL query language
+U2  - unified method
+U2  - Web data formats
+U2  - Web resources
+U2  - well-established SPARQL query language
+DO  - 10.1145/3555312
+L2  - http://dx.doi.org/10.1145/3555312
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - BIM and ontology-based knowledge management for dam safety monitoring
+JO  - Automation in Construction
+A1  - Zhou, Yuhang
+A1  - Bao, Tengfei
+A1  - Shu, Xiaosong
+A1  - Li, Yueyang
+A1  - Li, Yangtao
+AD  - State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering, Hohai University, Nanjing; 210098, ChinaCollege of Water-conservancy and Hydropower, Hohai University, Nanjing; 210098, ChinaCollege of Hydraulic & Environmental Engineering, China Three Gorges University, Yichang; 443002, ChinaBuilt Environment, The University of New South Wales, Sydney; NSW; 2052, Australia
+VL  - 145
+PY  - 2023
+U1  - 20224513070451
+SN  - 09265805
+PB  - Elsevier B.V.
+N2  - Dam Safety Monitoring Systems (DSMSs) are crucial in evaluating the operational state of dams. However, heterogeneous monitoring data distributed from multiple sources during the dam operation lacks a unified data integration method and prohibits knowledge extraction and intelligent analysis, which currently poses a labor-intensive task. To address this issue, a solution relying on Building Information Modeling (BIM) and domain ontologies is proposed. Specifically, a DSMS domain ontology (OntoDSMS) is developed by comprehensively collecting domain knowledge and extracting context information from the dam information model. Furthermore, a rule-based reasoner and SPARQL queries are implemented. The proposed approach facilitates the effective integration of dam safety monitoring information while reducing retrieval time effectively compared with traditional databases. A case is illustrated to demonstrate the feasibility and practicality of the proposed approach. © 2022 Elsevier B.V.
+KW  - Ontology
+KW  - Architectural design
+KW  - Dams
+KW  - Data integration
+KW  - Data mining
+KW  - Domain Knowledge
+KW  - Information retrieval
+KW  - Information theory
+KW  - Knowledge management
+KW  - Monitoring
+U2  - Building Information Modelling
+U2  - Dam safety
+U2  - Dam safety monitoring system
+U2  - Domain ontologies
+U2  - Information extraction
+U2  - Ontology's
+U2  - Reasoning
+U2  - Relational Database
+U2  - Safety monitoring
+U2  - Safety monitoring system
+DO  - 10.1016/j.autcon.2022.104649
+L2  - http://dx.doi.org/10.1016/j.autcon.2022.104649
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Knowledge Graph Construction with a Façade: A Unified Method to Access Heterogeneous Data Sources on the Web
+JO  - ACM Transactions on Internet Technology
+A1  - Asprino, Luigi
+A1  - Daga, Enrico
+A1  - Gangemi, Aldo
+A1  - Mulholland, Paul
+AD  - University of Bologna, ItalyThe Open University, United KingdomConsiglio Nazionale delle Ricerche (CNR), University of Bologna, Italy
+VL  - 23
+IS  - 1
+PY  - 2023
+U1  - 20231613940681
+SN  - 15335399
+PB  - Association for Computing Machinery
+N2  - Data integration is the dominant use case for RDF Knowledge Graphs. However, Web resources come in formats with weak semantics (for example, CSV and JSON), or formats specific to a given application (for example, BibTex, HTML, and Markdown). To solve this problem, Knowledge Graph Construction (KGC) is gaining momentum due to its focus on supporting users in transforming data into RDF. However, using existing KGC frameworks result in complex data processing pipelines, which mix structural and semantic mappings, whose development and maintenance constitute a significant bottleneck for KG engineers. Such frameworks force users to rely on different tools, sometimes based on heterogeneous languages, for inspecting sources, designing mappings, and generating triples, thus making the process unnecessarily complicated. We argue that it is possible and desirable to equip KG engineers with the ability of interacting with Web data formats by relying on their expertise in RDF and the well-established SPARQL query language [2]. In this article, we study a unified method for data access to heterogeneous data sources with Facade-X, a meta-model implemented in a new data integration system called SPARQL Anything. We demonstrate that our approach is theoretically sound, since it allows a single meta-model, based on RDF, to represent data from (a) any file format expressible in BNF syntax, as well as (b) any relational database. We compare our method to state-of-the-art approaches in terms of usability (cognitive complexity of the mappings) and general performance. Finally, we discuss the benefits and challenges of this novel approach by engaging with the reference user community. © 2023 Copyright held by the owner/author(s).
+KW  - Mapping
+KW  - Data integration
+KW  - Knowledge graph
+KW  - Metadata
+KW  - Query languages
+KW  - Query processing
+KW  - Resource Description Framework (RDF)
+KW  - Semantics
+U2  - Graph construction
+U2  - Heterogeneous data sources
+U2  - Knowledge graphs
+U2  - Meta model
+U2  - Metamodeling
+U2  - RDF
+U2  - Re-engineering
+U2  - SPARQL
+U2  - Unified method
+U2  - Web resources
+DO  - 10.1145/3555312
+L2  - http://dx.doi.org/10.1145/3555312
+ER  - 
+
+
+TY  - UNPB
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Towards Practicable Algorithms for Rewriting Graph Queries beyond DL-Lite
+T3  - arXiv
+A1  - Lohnert, Bianca
+A1  - Augsten, Nikolaus
+A1  - Okulmus, Cem
+A1  - Ortiz, Magdalena
+AD  - Paris-Lodron University of Salzburg, AustriaUmea University, SwedenTU Wien, Austria
+PY  - 2024
+U1  - 20240240983
+SN  - 23318422
+PB  - arXiv
+N2  - Despite the many advantages that ontology-based data access (OBDA) has brought to a range of application domains, state-of-the-art OBDA systems still do not support popular graph database management systems such as Neo4j. Algorithms for query rewriting focus on languages like conjunctive queries and their unions, which are fragments of first-order logic and were developed for relational data. Such query languages are poorly suited for querying graph data. Moreover, they also limit the expressiveness of the ontology languages that admit rewritings, restricting them to those where the data complexity of reasoning is not higher than it is in first-order logic. In this paper, we propose a technique for rewriting a family of navigational queries for a suitably restricted fragment of ELHℐ that extends DL-Lite and that is NL-complete in data complexity. We implemented a proof-of-concept prototype that rewrites into Cypher queries, and tested it on a real-world cognitive neuroscience use case with promising results. © 2024, CC BY.
+KW  - Query languages
+KW  - Computer circuits
+KW  - Formal logic
+KW  - Graph Databases
+KW  - Information management
+KW  - Ontology
+KW  - Query processing
+U2  - Access system
+U2  - Applications domains
+U2  - Data complexity
+U2  - Domain state
+U2  - First order logic
+U2  - Graph database
+U2  - Graph queries
+U2  - Ontology-based data access
+U2  - Query rewritings
+U2  - State of the art
+DO  - 10.48550/arXiv.2405.18181
+L2  - http://dx.doi.org/10.48550/arXiv.2405.18181
+ER  - 
+
+
+TY  - CONF
+TI  - Boosting knowledge graph generation from tabular data with RML views
+AD  - Universidad Politecnica de Madrid, Ontology Engineering Group, Spain
+BT  - European Semantic Web Conference, 28 May-1 June 2023
+T3  - The Semantic Web: 20th International Conference, ESWC 2023, Proceedings. Lecture Notes in Computer Science (13870)
+A1  - Arenas-Guerrero, J.
+A1  - Alobaid, A.
+A1  - Navas-Loro, M.
+A1  - Perez, M.S.
+A1  - Corcho, O.
+PY  - 2023//
+U1  - 23539675
+SP  - 484
+EP  - 501
+CY  - Berlin, Germany
+PB  - Springer Nature
+N2  - A large amount of data is available in tabular form. RML is commonly used to declare how such data can be transformed into RDF. However, RML presents limitations that lead, in many cases, to the need for additional preprocessing using scripting. Although some proposed extensions (e.g., FnO or RML fields) address some of these limitations, they are verbose, unfamiliar to most data engineers, and implemented in systems that do not scale up when large volumes of data need to be processed. In this work, we expand RML views to tabular sources so as to address the limitations of this mapping language. In this way, transformation functions, complex joins, or mixed syntax can be defined directly in SQL queries. We present our extension of Morph-KGC to efficiently support RML views for tabular sources. We validate our implementation adapting R2RML test cases with views and compare it against state-of-the-art RML+FnO systems showing that our system is significantly more scalable. Moreover, we present specific examples of a real use case in the public procurement domain where basic RML mappings could not be used without additional preprocessing.
+KW  - graph theory
+KW  - Linked Data
+KW  - procurement
+KW  - query processing
+KW  - relational databases
+KW  - semantic networks
+KW  - SQL
+U2  - additional preprocessing
+U2  - basic RML mappings
+U2  - data engineers
+U2  - knowledge graph generation
+U2  - R2RML test cases
+U2  - RML fields
+U2  - RML views
+U2  - state-of-the-art RML+FnO systems
+U2  - tabular data
+U2  - tabular form
+U2  - tabular sources
+DO  - 10.1007/978-3-031-33455-9_29
+L2  - http://dx.doi.org/10.1007/978-3-031-33455-9_29
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - A Methodology for Integrating Hierarchical VMAP-Data Structures into an Ontology Using Semantically Represented Analyses
+JO  - Information (Switzerland)
+A1  - Spelten, Philipp
+A1  - Meyer, Morten-Christian
+A1  - Wagner, Anna
+A1  - Wolf, Klaus
+A1  - Reith, Dirk
+AD  - IST, Instituto Superior Tecnico, Universidade de Lisboa, Lisboa; 1049-001, PortugalPROSTEP AG, Dolivostr. 11, Darmstadt; 64293, GermanyInstitute of Technology, Resource and Energy-Efficient Engineering (TREE), Bonn-Rhein-Sieg University of Applied Sciences, Grantham-Allee 20, Sankt Augustin; 53757, Germany
+VL  - 15
+IS  - 1
+PY  - 2024
+U1  - 20240515450197
+SN  - 20782489
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+N2  - Integrating physical simulation data into data ecosystems challenges the compatibility and interoperability of data management tools. Semantic web technologies and relational databases mostly use other data types, such as measurement or manufacturing design data. Standardizing simulation data storage and harmonizing the data structures with other domains is still a challenge, as current standards such as the ISO standard STEP (ISO 10303 "Standard for the Exchange of Product model data") fail to bridge the gap between design and simulation data. This challenge requires new methods, such as ontologies, to rethink simulation results integration. This research describes a new software architecture and application methodology based on the industrial standard "Virtual Material Modelling in Manufacturing" (VMAP). The architecture integrates large quantities of structured simulation data and their analyses into a semantic data structure. It is capable of providing data permeability from the global digital twin level to the detailed numerical values of data entries and even new key indicators in a three-step approach: It represents a file as an instance in a knowledge graph, queries the file’s metadata, and finds a semantically represented process that enables new metadata to be created and instantiated. © 2023 by the authors.
+KW  - Ontology
+KW  - Application programs
+KW  - Bridges
+KW  - Data integration
+KW  - Data structures
+KW  - Digital storage
+KW  - Industrial research
+KW  - Information management
+KW  - ISO Standards
+KW  - Metadata
+KW  - Product design
+KW  - Semantic Web
+U2  - CAE metadatum structure
+U2  - Data management tools
+U2  - Design data
+U2  - Ontology's
+U2  - Physical simulation
+U2  - Relational Database
+U2  - Semantic technologies
+U2  - Semantic Web technology
+U2  - Simulation data
+U2  - Simulation process
+DO  - 10.3390/info15010021
+L2  - http://dx.doi.org/10.3390/info15010021
+ER  - 
+
+
+TY  - JOUR
+TI  - BIM-Enabled Infrastructure Asset Management Using Information Containers and Semantic Web
+AD  - Ruhr Univ. Bochum, Dept. of Civil and Environmental Engineering, Universitaetsstrasse 150, Germany
+JO  - Journal of Computing in Civil Engineering
+T3  - J. Comput. Civ. Eng. (USA)
+A1  - Hagedorn, P.
+A1  - Liu, L.
+A1  - Konig, M.
+A1  - Hajdin, R.
+A1  - Blumenfeld, T.
+A1  - Stockner, M.
+A1  - Billmaier, M.
+A1  - Grossauer, K.
+A1  - Gavin, K.
+PY  - 2023//
+U1  - 22611312
+SP  - 04022041 (17 pp.)
+SN  - 1943-5487
+CY  - USA
+PB  - American Society of Civil Engineers
+N2  - The paper proposes a solution for a Building Information Modeling (BIM)-enabled Infrastructure Asset Management System (AMS) for road owners. The approach provides asset managers with a strategy for the dynamic use of Information Containers for Linked Document Delivery (ICDDs), considering the requirements of stakeholders across domains in the operational phase. The state of the art shows how information management can be carried out utilizing information containers employing Semantic Web technologies Resource Description Framework (RDF), SPARQL, and R2RML. The key output is developing a web-based platform that implements ICDD containers for asset management. Existing AMS are integrated by using SQL data mapped to RDF-based ontology data in the container. The use of existing domain-specific ontologies for infrastructure in combination with the linkage of domain knowledge to a three-dimensional BIM model is a step beyond the state of the art and practice in the construction industry. Linking inside the container allows for querying data across several information models and ontology-based data to create stakeholder-specific data views. The approach was demonstrated in two use cases. The first was related to the visual inspection of a concrete bridge. The detection of damage and the process of communicating the damage to a contractor charged with the repair were described. The second use case was related to a road pavement and demonstrated how decision-making about maintenance activities can be supported using cross-domain information containers.
+KW  - asset management
+KW  - construction industry
+KW  - information management
+KW  - ontologies (artificial intelligence)
+KW  - project management
+KW  - roads
+KW  - semantic Web
+KW  - SQL
+U2  - AMS
+U2  - asset managers
+U2  - BIM-enabled Infrastructure Asset Management
+U2  - Building Information Modeling-enabled Infrastructure Asset Management System
+U2  - container
+U2  - cross-domain information containers
+U2  - existing domain-specific ontologies
+U2  - information management
+U2  - information models
+U2  - Linked Document Delivery
+U2  - ontology-based data
+U2  - RDF-based
+U2  - Semantic Web
+U2  - SQL data
+U2  - stakeholder-specific data views
+U2  - three-dimensional BIM model
+U2  - utilizing information containers
+U2  - web-based platform
+DO  - 10.1061/(ASCE)CP.1943-5487.0001051
+L2  - http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0001051
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Query Transformation for Processing Streams in Decision-making Agents
+BT  - 36th International Florida Artificial Intelligence Research Society Conference, FLAIRS-36 2023, May 14, 2023  -  May 17, 2023
+T3  - Proceedings of the International Florida Artificial Intelligence Research Society Conference, FLAIRS
+A1  - Schiff, Simon
+A1  - Leemhuist, Mena
+A1  - Ozcept, Ozgur L.
+A1  - Moller, Ralf
+AD  - Institute of Information Systems (IFIS), University of LUbeck, LUbeck, Germany
+VL  - 36
+PY  - 2023
+U1  - 20232414218064
+SN  - 23340754
+CY  - Clearwater Beach, FL, United states
+PB  - Florida Online Journals, University of Florida
+N2  - An agent in pursuit of a task repeatedly perceives its environ-ment through sensors, updates its state based on observations, and then decides which action to take, given the current state of the environment. Observations have in common that they are made at a given time point and thus referred to as temporal data. Usually, such temporal data is provided as stream data if the agent continuously receives the data, or it is provided as historic data if the stream data is stored in, for instance, a database the agent has access to. DBMSs are especially designed to process static data (i.e. non-temporal data) given a declarative query language such as SQL. However, if the aim is to exploit temporal data as required in time series analysis, SQL has its limits because it does not provide useful abstractions such as a window operator. Hence high-level declarative stream query languages, equipped with time-based window operators were designed. A challenge of those abstractions is the additional overhead of the algorithms that automatically transform high-level queries into low-level queries executable over DBMSs. If not handled properly those transformation algorithms may result in low-level queries with processing times too long for agents to make decisions. We describe a robust and optimized transformation algorithm for a high-level declarative stream query language and show that it leads to low-level queries with feasible processing times on real-world data. © 2023 by the authors. All rights reserved.
+KW  - Query languages
+KW  - Abstracting
+KW  - Computer hardware description languages
+KW  - Decision making
+KW  - Metadata
+KW  - Ontology
+KW  - Query processing
+KW  - Time series analysis
+U2  - Continuous queries
+U2  - Decision making agents
+U2  - Ontology-based data access
+U2  - Processing time
+U2  - Query transformations
+U2  - State based
+U2  - Stream
+U2  - Stream data
+U2  - Temporal Data
+U2  - Transformation algorithm
+DO  - 10.32473/flairs.36.133104
+L2  - http://dx.doi.org/10.32473/flairs.36.133104
+ER  - 
+
+
+TY  - UNPB
+TI  - Towards practicable algorithms for rewriting graph queries beyond dl-lite
+T3  - arXiv
+A1  - Lohnert, B.
+A1  - Augsten, N.
+A1  - Okulmus, C.
+A1  - Ortiz, M.
+PY  - 2024/05/28
+U1  - 25145943
+CY  - USA
+UR  - https://arxiv.org/abs/2405.18181
+N2  - Despite the many advantages that ontology-based data access (OBDA) has brought to a range of application domains, state-of-the-art OBDA systems still do not support popular graph database management systems such as Neo4j. Algorithms for query rewriting focus on languages like conjunctive queries and their unions, which are fragments of first-order logic and were developed for relational data. Such query languages are poorly suited for querying graph data. Moreover, they also limit the expressiveness of the ontology languages that admit rewritings, restricting them to those where the data complexity of reasoning is not higher than it is in first-order logic. In this paper, we propose a technique for rewriting a family of navigational queries for a suitably restricted fragment of ELHI that extends DL-Lite and that is NL-complete in data complexity. We implemented a proof-of-concept prototype that rewrites into Cypher queries, and tested it on a real-world cognitive neuroscience use case with promising results.
+KW  - database management systems
+KW  - graph theory
+KW  - inference mechanisms
+KW  - knowledge representation languages
+KW  - ontologies (artificial intelligence)
+KW  - query languages
+KW  - query processing
+KW  - relational databases
+KW  - rewriting systems
+U2  - application domains
+U2  - conjunctive queries
+U2  - Cypher queries
+U2  - data complexity
+U2  - graph data
+U2  - graph queries
+U2  - navigational queries
+U2  - Neo4j
+U2  - ontology languages
+U2  - popular graph database management systems
+U2  - practicable algorithms
+U2  - query languages
+U2  - query rewriting focus
+U2  - relational data
+U2  - rewritings
+DO  - 10.48550/arXiv.2405.18181
+L2  - http://dx.doi.org/10.48550/arXiv.2405.18181
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Library Information Resources Integration Based on Linked Data and Intelligent Recommendation
+BT  - 16th th International Conference on Intelligent Computing Technology and Automation, ICICTA 2023, October 24, 2023  -  October 25, 2023
+T3  - Advances in Transdisciplinary Engineering
+A1  - Mao, Mao
+AD  - Nanyang Institute of Technology Library, Nanyang Institute of Technology, Nanyang; 473000, China
+VL  - 47
+PY  - 2024
+U1  - 20241515863867
+SP  - 559
+EP  - 566
+SN  - 2352751X
+CY  - Xian, China
+PB  - IOS Press BV
+N2  - To improve the disorder, sophistication, and lack of unified management of existing library resources, this paper proposes an information resource integration model based on linked data. We introduce the concept of relational data and its implementation conditions in the resource integration of digital library, by applying distributed comprehensive recommendation model and web mining model based on Agent technology to book information service system. Then, integrated with ontology and linked data technology, the library digital resources are organized hierarchically. In this method, the functions of user oriented information resource integration, query and recommendation are realized through RDF integration. The system test results show that the resource integration framework proposed by us can realize the full sharing of network resources by linked data technology, which effectively improves the quality of information service, and also realizes distributed intelligent search and personalized recommendation of book information resources. © 2024 The Authors.
+KW  - Linked data
+KW  - Data integration
+KW  - Digital libraries
+KW  - Information management
+KW  - Information services
+KW  - Integration
+KW  - Ontology
+KW  - Resource Description Framework (RDF)
+KW  - Search engines
+U2  - Data technologies
+U2  - Information resource integrations
+U2  - Library information
+U2  - Library resources
+U2  - Linked datum
+U2  - Model-based OPC
+U2  - Ontology's
+U2  - RD
+U2  - Resource integration model
+U2  - Resources integrations
+DO  - 10.3233/ATDE231230
+L2  - http://dx.doi.org/10.3233/ATDE231230
+ER  - 
+
+
+TY  - UNPB
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Integrating 3D City Data through Knowledge Graphs
+T3  - arXiv
+A1  - Ding, Linfang
+A1  - Xiao, Guohui
+A1  - Pano, Albulen
+A1  - Fumagalli, Mattia
+A1  - Chen, Dongsheng
+A1  - Feng, Yu
+A1  - Calvanese, Diego
+A1  - Fan, Hongchao
+A1  - Meng, Liqiu
+AD  - Norwegian University of Science and Technology, Trondheim; 7491, NorwayUniversity of Bergen, Bergen; 5007, NorwayUniversity of Oslo, Oslo; 0373, NorwayOntopic S.r.l., Bolzano; 39100, ItalyFree University of Bozen-Bolzano, Bolzano; 39100, ItalyUmea University, Umea; 90187, SwedenTechnical University of Munich, Munich; 80333, Germany
+PY  - 2023
+U1  - 20230381009
+SN  - 23318422
+PB  - arXiv
+N2  - CityGML is a widely adopted standard by the Open Geospatial Consortium (OGC) for representing and exchanging 3D city models. The representation of semantic and topological properties in CityGML makes it possible to query such 3D city data to perform analysis in various applications, e.g., security management and emergency response, energy consumption and estimation, and occupancy measurement. However, the potential of querying CityGML data has not been fully exploited. The official GML/XML encoding of CityGML is only intended as an exchange format but is not suitable for query answering. The most common way of dealing with CityGML data is to store them in the 3DCityDB system as relational tables and then query them with the standard SQL query language. Nevertheless, for end users, it remains a challenging task to formulate queries over 3DCityDB directly for their ad-hoc analytical tasks, because there is a gap between the conceptual semantics of CityGML and the relational schema adopted in 3DCityDB. In fact, the semantics of CityGML itself can be modeled as a suitable ontology. The technology of Knowledge Graphs (KGs), where an ontology is at the core, is a good solution to bridge such a gap. Moreover, embracing KGs makes it easier to integrate with other spatial data sources, e.g., OpenStreetMap and existing (Geo)KGs (e.g., Wikidata, DBPedia, and GeoNames), and to perform queries combining information from multiple data sources. In this work, we describe a CityGML KG framework to populate the concepts in the CityGML ontology using declarative mappings to 3DCityDB, thus exposing the CityGML data therein as a KG. To demonstrate the feasibility of our approach, we use CityGML data from the city of Munich as test data and integrate OpenStreeMap data in the same area. Finally, we collect real-world geospatial analytical tasks and show that they can be formulated as intuitive GeoSPARQL queries. We test three state-art-of-art KG systems, Ontop, Apache Jena, and GraphDB, and confirm that the queries can be evaluated efficiently over the generated KG. © 2023, CC BY-SA.
+KW  - Ontology
+KW  - Data integration
+KW  - Energy utilization
+KW  - Query languages
+KW  - Query processing
+KW  - Search engines
+KW  - Semantics
+KW  - Topology
+U2  - City model
+U2  - CityGML
+U2  - Knowledge graphs
+U2  - Ontology's
+U2  - Open geospatial consortium
+U2  - Openstreetmap
+U2  - Query answering
+U2  - Security management
+U2  - Semantic properties
+U2  - Topological properties
+DO  - 10.48550/arXiv.2310.11555
+L2  - http://dx.doi.org/10.48550/arXiv.2310.11555
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - BIM-Enabled Infrastructure Asset Management Using Information Containers and Semantic Web
+JO  - Journal of Computing in Civil Engineering
+A1  - Hagedorn, Philipp
+A1  - Liu, Liu
+A1  - Konig, Markus
+A1  - Hajdin, Rade
+A1  - Blumenfeld, Tim
+A1  - Stockner, Markus
+A1  - Billmaier, Maximilian
+A1  - Grossauer, Karl
+A1  - Gavin, Kenneth
+AD  - Chair of Computing in Engineering, Dept. of Civil and Environmental Engineering, Ruhr Univ. Bochum, Universitaetsstrasse 150, Bochum; 44801, GermanyInfrastructure Management Consultants GmbH, Bellerivestrasse 209, Zurich; 8008, SwitzerlandInfrastructure Management Consultants GmbH, Landsknechtweg 28, Mannheim; 68163, GermanySteinbeis Transfer Center (IMV), Willy-Andreas-Allee 19, Karlsruhe; 76131, GermanyIC Consulenten, Schonbrunner Strasse 297, Vienna; 1120, AustriaInGEO Consulting, Bastiaanpoort 8, Delft; 2611MC, Netherlands
+VL  - 37
+IS  - 1
+PY  - 2023
+U1  - 20224212901639
+SN  - 08873801
+PB  - American Society of Civil Engineers (ASCE)
+N2  - The paper proposes a solution for a Building Information Modeling (BIM)-enabled Infrastructure Asset Management System (AMS) for road owners. The approach provides asset managers with a strategy for the dynamic use of Information Containers for Linked Document Delivery (ICDDs), considering the requirements of stakeholders across domains in the operational phase. The state of the art shows how information management can be carried out utilizing information containers employing Semantic Web technologies Resource Description Framework (RDF), SPARQL, and R2RML. The key output is developing a web-based platform that implements ICDD containers for asset management. Existing AMS are integrated by using SQL data mapped to RDF-based ontology data in the container. The use of existing domain-specific ontologies for infrastructure in combination with the linkage of domain knowledge to a three-dimensional BIM model is a step beyond the state of the art and practice in the construction industry. Linking inside the container allows for querying data across several information models and ontology-based data to create stakeholder-specific data views. The approach was demonstrated in two use cases. The first was related to the visual inspection of a concrete bridge. The detection of damage and the process of communicating the damage to a contractor charged with the repair were described. The second use case was related to a road pavement and demonstrated how decision-making about maintenance activities can be supported using cross-domain information containers. © 2022 This work is made available under the terms of the Creative Commons Attribution 4.0 International license,.
+KW  - Containers
+KW  - Architectural design
+KW  - Asset management
+KW  - Construction industry
+KW  - Damage detection
+KW  - Decision making
+KW  - Information management
+KW  - Information services
+KW  - Information theory
+KW  - Information use
+KW  - Ontology
+KW  - Resource Description Framework (RDF)
+KW  - Roads and streets
+U2  - Asset management systems
+U2  - Asset managers
+U2  - Building Information Modelling
+U2  - Document delivery
+U2  - Infrastructure asset management
+U2  - Operational phasis
+U2  - Resources description frameworks
+U2  - Semantic Web technology
+U2  - Semantic-Web
+U2  - State of the art
+DO  - 10.1061/(ASCE)CP.1943-5487.0001051
+L2  - http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0001051
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - RuleML+RR-Companion 2023 - Proceedings of the 17th International Rule Challenge and 7th Doctoral Consortium @ RuleM+RR 2023, co-located with 19th Reasoning Web Summer School, RW 2023 and 15th DecisionCAMP 2023 as part of Declarative AI 2023
+BT  - 17th International Rule Challenge and 7th Doctoral Consortium @ RuleM+RR, RuleML+RR-Companion 2023, September 18, 2023  -  September 20, 2023
+T3  - CEUR Workshop Proceedings
+VL  - 3485
+PY  - 2023
+U1  - 20234214915072
+SN  - 16130073
+CY  - Oslo, Norway
+PB  - CEUR-WS
+N2  - The proceedings contain 12 papers. The topics discussed include: explainable game strategy rule learning from video; towards complex event processing for clinical decision support using FHIR; GPT-3 for decision logic modeling; multi-agent online planning architecture for real-time compliance; an ontology-based approach for detecting and classifying inappropriate prescribing; reasoning about ingredient substitutions with ontologies and rules; reasoning over health records with Vadalog: a rule-based approach to patient pathways; towards a human-centered framework for the assessment of subjective social values in buildings; semantic querying of integrated raster and relational data: a virtual knowledge graph approach; and towards techniques for updating virtual knowledge graphs.
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - 25th International Conference on Information Integration and Web Intelligence, iiWAS 2023
+BT  - 25th International Conference on Information Integration and Web Intelligence, iiWAS 2023, December 4, 2023  -  December 6, 2023
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14416 LNCS
+PY  - 2023
+U1  - 20234915177471
+SN  - 03029743
+CY  - Denpasar, Indonesia
+PB  - Springer Science and Business Media Deutschland GmbH
+N2  - The proceedings contain 48 papers. The special focus in this conference is on Information Integration and Web Intelligence. The topics include: Towards a Unified Symbolic AI Framework for Mining High Utility Itemsets; RDF Data Partitioning for Efficient SPARQL Query Processing with Spark SQL; a Comparative Evaluation of Additive Separability Tests for Physics-Informed Machine Learning; data Integration in a Multi-model Environment; character Entity Recognition Using Hybrid Binary-Particle Swarm Optimization and Conditional Random Field on Balinese Folklore Text; on Observing Patterns of Correlations During Drill-Down; Unsupervised Clustering and Explainable AI for Unveiling Behavioral Variations Across Time in Home-Appliance Generated Data; A Deep Learning-Based Technique to Determine Various Stages of Alzheimer’s Disease from 3D Brain MRI Images; churn Prediction in Enterprises with High Customer Turnover; Enhancing AI Adoption in Healthcare: A Data Strategy for Improved Heart Disease Prediction Accuracy Through Deep Learning Techniques; data Fusion Performance Prophecy: A Random Forest Revelation; Celestial Machine Learning: Discovering the Planarity, Heliocentricity, and Orbital Equation of Mars with AI Feynman; Deep Learning Based Emotion Recognition Using EEG Signal; generating Fine-Grained Aspect Names from Movie Review Sentences Using Generative Language Model; reducing Human Effort in Keyphrase-Based Human-in-the-Loop Topic Models: A Method for Keyphrase Recommendations; movie Keyword Search Using Large-Scale Language Model with User-Generated Rankings and Reviews; extraction News Components Methods for Fake News Correction; buy Eye-Mask Instead of Alarm Clock!: Graph-Based Approach to Identify Functionally Equal Alternative Products; deep Image Analysis for Microalgae Identification; provenance-Aware Data Integration and Summarization Querying for Knowledge Graphs; WISHFUL - Website Extraction of Institutional Sources with Heterogeneous Factors and User-Driven Linkage; integration of Knowledge Bases and External Information Sources via Magic Properties and Query-Driven Entity Linking; efficient Maximum k-plex Search via Selective Branch-and-Bound.
+ER  - 
+
+
+TY  - CONF
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Boosting Knowledge Graph Generation from Tabular Data with RML Views
+BT  - 20th International Conference on The Semantic Web, ESWC 2023, May 28, 2023  -  June 1, 2023
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+A1  - Arenas-Guerrero, Julian
+A1  - Alobaid, Ahmad
+A1  - Navas-Loro, Maria
+A1  - Perez, Maria S.
+A1  - Corcho, Oscar
+AD  - Ontology Engineering Group, Universidad Politecnica de Madrid, Madrid, Spain
+VL  - 13870 LNCS
+PY  - 2023
+U1  - 20232614317583
+SP  - 484
+EP  - 501
+SN  - 03029743
+CY  - Hersonissos, Greece
+PB  - Springer Science and Business Media Deutschland GmbH
+N2  - A large amount of data is available in tabular form. RML is commonly used to declare how such data can be transformed into RDF. However, RML presents limitations that lead, in many cases, to the need for additional preprocessing using scripting. Although some proposed extensions (e.g., FnO or RML fields) address some of these limitations, they are verbose, unfamiliar to most data engineers, and implemented in systems that do not scale up when large volumes of data need to be processed. In this work, we expand RML views to tabular sources so as to address the limitations of this mapping language. In this way, transformation functions, complex joins, or mixed syntax can be defined directly in SQL queries. We present our extension of Morph-KGC to efficiently support RML views for tabular sources. We validate our implementation adapting R2RML test cases with views and compare it against state-of-the-art RML+FnO systems showing that our system is significantly more scalable. Moreover, we present specific examples of a real use case in the public procurement domain where basic RML mappings could not be used without additional preprocessing. Resource type: Software framework License: Apache 2.0 DOI: 10.5281/zenodo.7385488 URL: https://github.com/morph-kgc/morph-kgc © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Data integration
+KW  - HTTP
+KW  - Knowledge graph
+KW  - Mapping
+KW  - Resource Description Framework (RDF)
+U2  - CSV
+U2  - Graph generation
+U2  - Knowledge graphs
+U2  - Large amounts of data
+U2  - Large volumes
+U2  - Mapping Language
+U2  - RML
+U2  - Scale-up
+U2  - Tabular data
+U2  - Transformation functions
+DO  - 10.1007/978-3-031-33455-9_29
+L2  - http://dx.doi.org/10.1007/978-3-031-33455-9_29
+ER  - 
+
+
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2024 Elsevier Inc.
+TI  - Integrating 3D city data through knowledge graphs
+T3  - Geo-Spatial Information Science
+A1  - Ding, Linfang
+A1  - Xiao, Guohui
+A1  - Pano, Albulen
+A1  - Fumagalli, Mattia
+A1  - Chen, Dongsheng
+A1  - Feng, Yu
+A1  - Calvanese, Diego
+A1  - Fan, Hongchao
+A1  - Meng, Liqiu
+AD  - Department of Civil and Environmental Engineering, Norwegian University of Science and Technology, Trondheim, NorwayDepartment of Information Science and Media Studies, University of Bergen, Bergen, NorwayOntopic S.r.l, Bolzano, ItalyFaculty of Engineering, Free University of Bozen-Bolzano, Bolzano, ItalyChair of Cartography and Visual Analytics, Technical University of Munich, Munich, GermanyDepartment of Computing Science, Umea University, Umea, Sweden
+PY  - 2024
+U1  - 20241715978655
+SN  - 10095020
+PB  - Taylor and Francis Ltd.
+N2  - CityGML is a widely adopted standard for representing and exchanging 3D city models. The representation of semantic and topological properties in CityGML makes it possible to query such 3D city data for analysis in various applications. Nevertheless, the potential of querying CityGML data has not been fully exploited. The official GML encoding of CityGML is mainly an information model used for data storage and exchange, but not suitable for performing complex queries. The most common way of dealing with CityGML data is to store them as tables in the 3DCityDB system. However, it remains a challenging task for end users to formulate SQL queries over 3DCityDB directly for their ad-hoc analytical tasks because of the gap between the semantics of CityGML and the relational schema adopted in 3DCityDB. The technology of Knowledge Graphs (KGs), where an ontology is at the core, is a good solution to bridge such a gap. Moreover, embracing KGs makes it easier to integrate with other spatial data sources, e.g. OpenStreetMap, and to perform queries combining information from multiple data sources. In this work, we describe a CityGML-KG framework to expose the CityGML data in 3DCityDB as a KG. To evaluate our approach, we use CityGML data from the city of Munich as a test area and integrate OpenStreetMap data. © 2024 Wuhan University. Published by Informa UK Limited, trading as Taylor & Francis Group.
+KW  - Data integration
+KW  - Digital storage
+KW  - Knowledge graph
+KW  - Ontology
+KW  - Semantics
+KW  - Topology
+U2  - City model
+U2  - CityGML
+U2  - Geo-spatial
+U2  - Geospatial knowledge graph
+U2  - Knowledge graphs
+U2  - Ontology's
+U2  - Openstreetmap
+U2  - Query answering
+U2  - Semantic properties
+U2  - Topological properties
+DO  - 10.1080/10095020.2024.2337360
+L2  - http://dx.doi.org/10.1080/10095020.2024.2337360
+ER  - 
+
+
+

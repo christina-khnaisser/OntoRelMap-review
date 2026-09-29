@@ -1,0 +1,2190 @@
+PMID- 28982381
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180716
+LR  - 20181113
+IS  - 2041-1480 (Electronic)
+VI  - 8
+IP  - 1
+DP  - 2017 Oct 5
+TI  - Querying clinical data in HL7 RIM based relational model with morph-RDB.
+PG  - 49
+LID - 10.1186/s13326-017-0155-8 [doi]
+LID - 49
+AB  - BACKGROUND: Semantic interoperability is essential when carrying out post-genomic 
+      clinical trials where several institutions collaborate, since researchers and 
+      developers need to have an integrated view and access to heterogeneous data 
+      sources. One possible approach to accommodate this need is to use RDB2RDF systems 
+      that provide RDF datasets as the unified view. These RDF datasets may be 
+      materialized and stored in a triple store, or transformed into RDF in real time, 
+      as virtual RDF data sources. Our previous efforts involved materialized RDF 
+      datasets, hence losing data freshness. RESULTS: In this paper we present a 
+      solution that uses an ontology based on the HL7 v3 Reference Information Model 
+      and a set of R2RML mappings that relate this ontology to an underlying relational 
+      database implementation, and where morph-RDB is used to expose a virtual, 
+      non-materialized SPARQL endpoint over the data. CONCLUSIONS: By applying a set of 
+      optimization techniques on the SPARQL-to-SQL query translation algorithm, we can 
+      now issue SPARQL queries to the underlying relational data with generally 
+      acceptable performance.
+FAU - Priyatna, Freddy
+AU  - Priyatna F
+AUID- ORCID: 0000-0002-9292-4010
+AD  - Ontology Engineering Group, Universidad Politécnica de Madrid, Madrid, Spain. 
+      fpriyatna@fi.upm.es.
+FAU - Alonso-Calvo, Raul
+AU  - Alonso-Calvo R
+AD  - Biomedical Informatics Group, Universidad Politécnica de Madrid, Madrid, Spain.
+FAU - Paraiso-Medina, Sergio
+AU  - Paraiso-Medina S
+AD  - Biomedical Informatics Group, Universidad Politécnica de Madrid, Madrid, Spain.
+FAU - Corcho, Oscar
+AU  - Corcho O
+AD  - Ontology Engineering Group, Universidad Politécnica de Madrid, Madrid, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20171005
+PL  - England
+TA  - J Biomed Semantics
+JT  - Journal of biomedical semantics
+JID - 101531992
+SB  - IM
+MH  - Algorithms
+MH  - *Biological Ontologies
+MH  - *Databases, Factual
+MH  - Humans
+MH  - Information Storage and Retrieval/*methods
+MH  - Internet
+MH  - Semantics
+MH  - *Software
+PMC - PMC5629785
+OTO - NOTNLM
+OT  - Clinical data
+OT  - R2RML
+OT  - SPARQL
+COIS- ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not applicable. CONSENT FOR 
+      PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare that they 
+      have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral 
+      with regard to jurisdictional claims in published maps and institutional 
+      affiliations.
+EDAT- 2017/10/07 06:00
+MHDA- 2018/07/17 06:00
+CRDT- 2017/10/07 06:00
+PHST- 2016/05/18 00:00 [received]
+PHST- 2017/09/19 00:00 [accepted]
+PHST- 2017/10/07 06:00 [entrez]
+PHST- 2017/10/07 06:00 [pubmed]
+PHST- 2018/07/17 06:00 [medline]
+AID - 10.1186/s13326-017-0155-8 [pii]
+AID - 155 [pii]
+AID - 10.1186/s13326-017-0155-8 [doi]
+PST - epublish
+SO  - J Biomed Semantics. 2017 Oct 5;8(1):49. doi: 10.1186/s13326-017-0155-8.
+
+PMID- 28423769
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171017
+LR  - 20171017
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 235
+DP  - 2017
+TI  - Linked Data Applications Through Ontology Based Data Access in Clinical Research.
+PG  - 131-135
+AB  - Clinical care and research data are widely dispersed in isolated systems based on 
+      heterogeneous data models. Biomedicine predominantly makes use of connected 
+      datasets based on the Semantic Web paradigm. Initiatives like Bio2RDF created 
+      Resource Description Framework (RDF) versions of Omics resources, enabling 
+      sophisticated Linked Data applications. In contrast, electronic healthcare 
+      records (EHR) data are generated and processed in diverse clinical subsystems 
+      within hospital information systems (HIS). Usually, each of them utilizes a 
+      relational database system with a different proprietary schema. Semantic 
+      integration and access to the data is hardly possible. This paper describes ways 
+      of using Ontology Based Data Access (OBDA) for bridging the semantic gap between 
+      existing raw data and user-oriented views supported by ontology-based queries. 
+      Based on mappings between entities of data schemas and ontologies data can be 
+      made available as materialized or virtualized RDF triples ready for querying and 
+      processing. Our experiments based on CentraXX for biobank and study management 
+      demonstrate the advantages of abstracting away from low level details and 
+      semantic mediation. Furthermore, it becomes clear that using a professional 
+      platform for Linked Data applications is recommended due to the inherent 
+      complexity, the inconvenience to confront end users with SPARQL, and scalability 
+      and performance issues.
+FAU - Kock-Schoppenhauer, Ann-Kristin
+AU  - Kock-Schoppenhauer AK
+AD  - IT for Clinical Research, Lübeck (ITCR-L), University of Lübeck, Germany.
+FAU - Kamann, Christian
+AU  - Kamann C
+AD  - IT for Clinical Research, Lübeck (ITCR-L), University of Lübeck, Germany.
+FAU - Ulrich, Hannes
+AU  - Ulrich H
+AD  - IT for Clinical Research, Lübeck (ITCR-L), University of Lübeck, Germany.
+FAU - Duhm-Harbeck, Petra
+AU  - Duhm-Harbeck P
+AD  - IT for Clinical Research, Lübeck (ITCR-L), University of Lübeck, Germany.
+FAU - Ingenerf, Josef
+AU  - Ingenerf J
+AD  - IT for Clinical Research, Lübeck (ITCR-L), University of Lübeck, Germany.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Biological Ontologies
+MH  - Biomedical Research/methods
+MH  - Electronic Health Records
+MH  - Information Storage and Retrieval/*methods
+MH  - Internet
+MH  - Semantics
+OTO - NOTNLM
+OT  - Linked Data
+OT  - Semantic Querying and Data Integration
+OT  - Semantic Web
+EDAT- 2017/04/21 06:00
+MHDA- 2017/10/19 06:00
+CRDT- 2017/04/21 06:00
+PHST- 2017/04/21 06:00 [entrez]
+PHST- 2017/04/21 06:00 [pubmed]
+PHST- 2017/10/19 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2017;235:131-135.
+
+PMID- 34433410
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210827
+LR  - 20210829
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 22
+IP  - Suppl 9
+DP  - 2021 Aug 25
+TI  - LinkedImm: a linked data graph database for integrating immunological data.
+PG  - 105
+LID - 10.1186/s12859-021-04031-9 [doi]
+LID - 105
+AB  - BACKGROUND: Many systems biology studies leverage the integration of multiple 
+      data types (across different data sources) to offer a more comprehensive view of 
+      the biological system being studied. While SQL (Structured Query Language) 
+      databases are popular in the biomedical domain, NoSQL database technologies have 
+      been used as a more relationship-based, flexible and scalable method of data 
+      integration. RESULTS: We have created a graph database integrating data from 
+      multiple sources. In addition to using a graph-based query language (Cypher) for 
+      data retrieval, we have developed a web-based dashboard that allows users to 
+      easily browse and plot data without the need to learn Cypher. We have also 
+      implemented a visual graph query interface for users to browse graph data. 
+      Finally, we have built a prototype to allow the user to query the graph database 
+      in natural language. CONCLUSION: We have demonstrated the feasibility and 
+      flexibility of using a graph database for storing and querying immunological data 
+      with complex biological relationships. Querying a graph database through such 
+      relationships has the potential to discover novel relationships among 
+      heterogeneous biological data and metadata.
+CI  - © 2021. The Author(s).
+FAU - Bukhari, Syed Ahmad Chan
+AU  - Bukhari SAC
+AD  - Division of Computer Science, Mathematics and Science, Collins College of 
+      Professional Studies, St. John's University, New York, NY, USA.
+FAU - Pawar, Shrikant
+AU  - Pawar S
+AD  - Department of Genetics, Yale School of Medicine, New Haven, CT, USA.
+FAU - Mandell, Jeff
+AU  - Mandell J
+AD  - Program in Computational Biology and Bioinformatics, Yale School of Medicine, New 
+      Haven, CT, USA.
+FAU - Kleinstein, Steven H
+AU  - Kleinstein SH
+AD  - Program in Computational Biology and Bioinformatics, Yale School of Medicine, New 
+      Haven, CT, USA.
+AD  - Department of Pathology, Yale School of Medicine, New Haven, CT, USA.
+FAU - Cheung, Kei-Hoi
+AU  - Cheung KH
+AD  - Program in Computational Biology and Bioinformatics, Yale School of Medicine, New 
+      Haven, CT, USA. kei.cheung@yale.edu.
+AD  - Department of Emergency Medicine, Yale School of Medicine, New Haven, CT, USA. 
+      kei.cheung@yale.edu.
+AD  - Yale Center for Medical Informatics, Yale School of Medicine, New Haven, CT, USA. 
+      kei.cheung@yale.edu.
+LA  - eng
+GR  - UH2 AI132341/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+DEP - 20210825
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - Databases, Factual
+MH  - *Information Storage and Retrieval
+MH  - Language
+MH  - *Semantic Web
+MH  - Systems Biology
+PMC - PMC8385794
+OTO - NOTNLM
+OT  - Graph database
+OT  - Immunology
+OT  - Influenza vaccine
+OT  - Knowledgebase
+OT  - Ontology
+COIS- S.H.K. receives consulting fees from Northrop Grumman.
+EDAT- 2021/08/27 06:00
+MHDA- 2021/08/28 06:00
+CRDT- 2021/08/26 05:29
+PHST- 2021/02/15 00:00 [received]
+PHST- 2021/02/16 00:00 [accepted]
+PHST- 2021/08/26 05:29 [entrez]
+PHST- 2021/08/27 06:00 [pubmed]
+PHST- 2021/08/28 06:00 [medline]
+AID - 10.1186/s12859-021-04031-9 [pii]
+AID - 4031 [pii]
+AID - 10.1186/s12859-021-04031-9 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2021 Aug 25;22(Suppl 9):105. doi: 10.1186/s12859-021-04031-9.
+
+PMID- 35965952
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220816
+IS  - 2661-8907 (Electronic)
+IS  - 2662-995X (Print)
+IS  - 2661-8907 (Linking)
+VI  - 3
+IP  - 6
+DP  - 2022
+TI  - Semantic Integration of Heterogeneous Data Sources Using Ontology-Based Domain 
+      Knowledge Modeling for Early Detection of COVID-19.
+PG  - 428
+LID - 10.1007/s42979-022-01298-4 [doi]
+LID - 428
+AB  - The enormous outbreak of biomedical knowledge, the aim of reducing computation 
+      and processing costs and the widespread availability of internet connection have 
+      created a profuse amount of electronic data. Such data are stored across the 
+      globe in various data sources that are semantically, structurally and 
+      syntactically different. This decentralized nature of biomedical data has made it 
+      difficult to obtain a unified view of the data. Data integration plays a crucial 
+      role in enhancing access to heterogeneous data making the retrieval easier and 
+      faster. A variety of ontology, machine learning, deep learning and fuzzy 
+      logic-based solutions are being developed for heterogeneous data integration. The 
+      proposed model concentrates on the automatic ontology-based data integration 
+      method that can be effectively deployed and used in the healthcare domain. The 
+      proposed model is divided into three phases. The first phase includes the 
+      automatic mapping of data and generation of local ontology across heterogeneous 
+      data sources, the second phase combines the local ontology models developed in 
+      the first phase to create a root global schema mapping and the third phase 
+      queries diverse databases to retrieve semantically analogous records. The model 
+      is created based on the medical records, chest X-ray details and COVID-19 symptom 
+      questionnaire data of various patients distributed across three data sources 
+      (SQL, mongodb and excel). Based on the data, the patients who have 
+      moderate/higher risk of developing serious illness from COVID-19 are retrieved.
+CI  - © The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd 
+      2022, Springer Nature or its licensor holds exclusive rights to this article 
+      under a publishing agreement with the author(s) or other rightsholder(s); author 
+      self-archiving of the accepted manuscript version of this article is solely 
+      governed by the terms of such publishing agreement and applicable law.
+FAU - Thirumahal, R
+AU  - Thirumahal R
+AUID- ORCID: 0000-0002-1053-8301
+AD  - Department of Computer Science and Engineering, P.S.G College of Technology, 
+      Coimbatore, India. GRID: grid.252262.3. ISNI: 0000 0001 0613 6919
+FAU - Sudha Sadasivam, G
+AU  - Sudha Sadasivam G
+AD  - Department of Computer Science and Engineering, P.S.G College of Technology, 
+      Coimbatore, India. GRID: grid.252262.3. ISNI: 0000 0001 0613 6919
+FAU - Shruti, P
+AU  - Shruti P
+AD  - Department of Computer Science and Engineering, P.S.G College of Technology, 
+      Coimbatore, India. GRID: grid.252262.3. ISNI: 0000 0001 0613 6919
+LA  - eng
+PT  - Journal Article
+DEP - 20220806
+PL  - Singapore
+TA  - SN Comput Sci
+JT  - SN computer science
+JID - 101772308
+PMC - PMC9362348
+OTO - NOTNLM
+OT  - Attribute mapping
+OT  - Data heterogeneity
+OT  - Global and local schemas
+OT  - Healthcare domain
+OT  - Ontology based data retrieval
+COIS- Conflict of interestThe authors declare that they have no conflict of interest.
+EDAT- 2022/08/16 06:00
+MHDA- 2022/08/16 06:01
+CRDT- 2022/08/15 03:31
+PHST- 2022/05/11 00:00 [received]
+PHST- 2022/07/01 00:00 [accepted]
+PHST- 2022/08/15 03:31 [entrez]
+PHST- 2022/08/16 06:00 [pubmed]
+PHST- 2022/08/16 06:01 [medline]
+AID - 1298 [pii]
+AID - 10.1007/s42979-022-01298-4 [doi]
+PST - ppublish
+SO  - SN Comput Sci. 2022;3(6):428. doi: 10.1007/s42979-022-01298-4. Epub 2022 Aug 6.
+
+PMID- 25588043
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151214
+LR  - 20190223
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2015
+TI  - Ontology-based data integration between clinical and research systems.
+PG  - e0116656
+LID - 10.1371/journal.pone.0116656 [doi]
+LID - e0116656
+AB  - Data from the electronic medical record comprise numerous structured but uncoded 
+      elements, which are not linked to standard terminologies. Reuse of such data for 
+      secondary research purposes has gained in importance recently. However, the 
+      identification of relevant data elements and the creation of database jobs for 
+      extraction, transformation and loading (ETL) are challenging: With current 
+      methods such as data warehousing, it is not feasible to efficiently maintain and 
+      reuse semantically complex data extraction and trans-formation routines. We 
+      present an ontology-supported approach to overcome this challenge by making use 
+      of abstraction: Instead of defining ETL procedures at the database level, we use 
+      ontologies to organize and describe the medical concepts of both the source 
+      system and the target system. Instead of using unique, specifically developed SQL 
+      statements or ETL jobs, we define declarative transformation rules within 
+      ontologies and illustrate how these constructs can then be used to automatically 
+      generate SQL code to perform the desired ETL procedures. This demonstrates how a 
+      suitable level of abstraction may not only aid the interpretation of clinical 
+      data, but can also foster the reutilization of methods for un-locking it.
+FAU - Mate, Sebastian
+AU  - Mate S
+AD  - Institute for Medical Informatics, University Erlangen-Nuremberg, Erlangen, 
+      Germany.
+FAU - Köpcke, Felix
+AU  - Köpcke F
+AD  - Center for Medical Information and Communication, Erlangen University Hospital, 
+      Erlangen, Germany.
+FAU - Toddenroth, Dennis
+AU  - Toddenroth D
+AD  - Institute for Medical Informatics, University Erlangen-Nuremberg, Erlangen, 
+      Germany.
+FAU - Martin, Marcus
+AU  - Martin M
+AD  - Tumor Centre, Erlangen University Hospital, Erlangen, Germany.
+FAU - Prokosch, Hans-Ulrich
+AU  - Prokosch HU
+AD  - Institute for Medical Informatics, University Erlangen-Nuremberg, Erlangen, 
+      Germany; Center for Medical Information and Communication, Erlangen University 
+      Hospital, Erlangen, Germany.
+FAU - Bürkle, Thomas
+AU  - Bürkle T
+AD  - Institute for Medical Informatics, Bern University of Applied Sciences, Bern, 
+      Switzerland.
+FAU - Ganslandt, Thomas
+AU  - Ganslandt T
+AD  - Center for Medical Information and Communication, Erlangen University Hospital, 
+      Erlangen, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150114
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+EIN - PLoS One. 2015;10(3):e0122172. PMID: 25799545
+MH  - Algorithms
+MH  - *Biological Ontologies
+MH  - *Databases, Factual
+MH  - *Electronic Health Records
+MH  - Humans
+MH  - Research
+MH  - Semantics
+MH  - Software
+PMC - PMC4294641
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2015/01/15 06:00
+MHDA- 2015/12/15 06:00
+CRDT- 2015/01/15 06:00
+PHST- 2014/04/07 00:00 [received]
+PHST- 2014/12/06 00:00 [accepted]
+PHST- 2015/01/15 06:00 [entrez]
+PHST- 2015/01/15 06:00 [pubmed]
+PHST- 2015/12/15 06:00 [medline]
+AID - PONE-D-14-15176 [pii]
+AID - 10.1371/journal.pone.0116656 [doi]
+PST - epublish
+SO  - PLoS One. 2015 Jan 14;10(1):e0116656. doi: 10.1371/journal.pone.0116656. 
+      eCollection 2015.
+
+PMID- 34707915
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211030
+IS  - 2156-1125 (Print)
+IS  - 2156-1125 (Linking)
+VI  - 2019
+DP  - 2019 Nov
+TI  - A linked data graph approach to integration of immunological data.
+PG  - 1742-1749
+LID - 10.1109/bibm47256.2019.8982986 [doi]
+AB  - Systems biology involves the integration of multiple data types (across different 
+      data sources) to offer a more complete picture of the biological system being 
+      studied. While many existing biological databases are implemented using the 
+      traditional SQL (Structured Query Language) database technology, NoSQL database 
+      technologies have been explored as a more relationship-based, flexible and 
+      scalable method of data integration. In this paper, we describe how to use the 
+      Neo4J graph database to integrate a variety of types of data sets in the context 
+      of systems vaccinology. Specifically, we have converted into a common graph model 
+      diverse types of vaccine response measurement data from the NIH/NIAID ImmPort 
+      data repository, pathway data from Reactome, influenza virus strains from WHO, 
+      and taxonomic data from NCBI Taxon. While Neo4J provides a graph-based query 
+      language (Cypher) for data retrieval, we develop a web-based dashboard for users 
+      to easily browse and visualize data without the need to learn Cypher. In 
+      addition, we have prototyped a natural language query interface for users to 
+      interact with our system. In conclusion, we demonstrate the feasibility of using 
+      a graph-based database for storing and querying immunological data with complex 
+      biological relationships. Querying a graph database through such relationships 
+      has the potential to reveal novel relationships among heterogeneous biological 
+      data.
+FAU - Bukhari, Syed Ahmad Chan
+AU  - Bukhari SAC
+AD  - Division of Computer Science, Mathematics and Science Lesley H. & William L. 
+      Collins College of Professional Studies, St. John's University, New York, NY, 
+      USA.
+FAU - Mandell, Jeff
+AU  - Mandell J
+AD  - Interdepartmental Program in Computational Biology and Bioinformatics, Yale 
+      University, New Haven, CT, USA.
+FAU - Kleinstein, Steven H
+AU  - Kleinstein SH
+AD  - Department of Pathology, Interdepartmental Program in Computational Biology and 
+      Bioinformatics, Yale University, New Haven, CT, USA.
+FAU - Cheung, Kei-Hoi
+AU  - Cheung KH
+AD  - Department of Emergency Medicine and Yale Center for Medical Informatics 
+      Computationa Biology and Bioinformaticcs, Yale University, New Haven, CT, USA.
+LA  - eng
+GR  - UH2 AI132341/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+DEP - 20200206
+PL  - United States
+TA  - Proceedings (IEEE Int Conf Bioinformatics Biomed)
+JT  - Proceedings. IEEE International Conference on Bioinformatics and Biomedicine
+JID - 101525347
+PMC - PMC8547546
+MID - NIHMS1650506
+OTO - NOTNLM
+OT  - graph database
+OT  - immunology
+OT  - influenza vaccine
+OT  - knowledgebase
+OT  - ontology
+EDAT- 2019/11/01 00:00
+MHDA- 2019/11/01 00:01
+CRDT- 2021/10/28 06:40
+PHST- 2021/10/28 06:40 [entrez]
+PHST- 2019/11/01 00:00 [pubmed]
+PHST- 2019/11/01 00:01 [medline]
+AID - 10.1109/bibm47256.2019.8982986 [doi]
+PST - ppublish
+SO  - Proceedings (IEEE Int Conf Bioinformatics Biomed). 2019 Nov;2019:1742-1749. doi: 
+      10.1109/bibm47256.2019.8982986. Epub 2020 Feb 6.
+
+PMID- 36089199
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221013
+LR  - 20231002
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Print)
+IS  - 1532-0464 (Linking)
+VI  - 134
+DP  - 2022 Oct
+TI  - FHIR-Ontop-OMOP: Building clinical knowledge graphs in FHIR RDF with the OMOP 
+      Common data Model.
+PG  - 104201
+LID - S1532-0464(22)00206-4 [pii]
+LID - 10.1016/j.jbi.2022.104201 [doi]
+AB  - BACKGROUND: Knowledge graphs (KGs) play a key role to enable explainable 
+      artificial intelligence (AI) applications in healthcare. Constructing clinical 
+      knowledge graphs (CKGs) against heterogeneous electronic health records (EHRs) 
+      has been desired by the research and healthcare AI communities. From the 
+      standardization perspective, community-based standards such as the Fast 
+      Healthcare Interoperability Resources (FHIR) and the Observational Medical 
+      Outcomes Partnership (OMOP) Common Data Model (CDM) are increasingly used to 
+      represent and standardize EHR data for clinical data analytics, however, the 
+      potential of such a standard on building CKG has not been well investigated. 
+      OBJECTIVE: To develop and evaluate methods and tools that expose the OMOP 
+      CDM-based clinical data repositories into virtual clinical KGs that are compliant 
+      with FHIR Resource Description Framework (RDF) specification. METHODS: We 
+      developed a system called FHIR-Ontop-OMOP to generate virtual clinical KGs from 
+      the OMOP relational databases. We leveraged an OMOP CDM-based Medical Information 
+      Mart for Intensive Care (MIMIC-III) data repository to evaluate the 
+      FHIR-Ontop-OMOP system in terms of the faithfulness of data transformation and 
+      the conformance of the generated CKGs to the FHIR RDF specification. RESULTS: A 
+      beta version of the system has been released. A total of more than 100 data 
+      element mappings from 11 OMOP CDM clinical data, health system and vocabulary 
+      tables were implemented in the system, covering 11 FHIR resources. The generated 
+      virtual CKG from MIMIC-III contains 46,520 instances of FHIR Patient, 716,595 
+      instances of Condition, 1,063,525 instances of Procedure, 24,934,751 instances of 
+      MedicationStatement, 365,181,104 instances of Observations, and 4,779,672 
+      instances of CodeableConcept. Patient counts identified by five pairs of SQL 
+      (over the MIMIC database) and SPARQL (over the virtual CKG) queries were 
+      identical, ensuring the faithfulness of the data transformation. Generated CKG in 
+      RDF triples for 100 patients were fully conformant with the FHIR RDF 
+      specification. CONCLUSION: The FHIR-Ontop-OMOP system can expose OMOP database as 
+      a FHIR-compliant RDF graph. It provides a meaningful use case demonstrating the 
+      potentials that can be enabled by the interoperability between FHIR and OMOP CDM. 
+      Generated clinical KGs in FHIR RDF provide a semantic foundation to enable 
+      explainable AI applications in healthcare.
+CI  - Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Xiao, Guohui
+AU  - Xiao G
+AD  - University of Bergen, Norway; University of Oslo, Norway; Ontopic S.r.l., Italy. 
+      Electronic address: guohui.xiao@uib.no.
+FAU - Pfaff, Emily
+AU  - Pfaff E
+AD  - University of North Carolina, Chapel Hill, NC, USA.
+FAU - Prud'hommeaux, Eric
+AU  - Prud'hommeaux E
+AD  - Janeiro Digital, Boston, MA, USA.
+FAU - Booth, David
+AU  - Booth D
+AD  - Yosemite Project, Somerville, MA, USA.
+FAU - Sharma, Deepak K
+AU  - Sharma DK
+AD  - Mayo Clinic, Rochester, MN, USA.
+FAU - Huo, Nan
+AU  - Huo N
+AD  - Mayo Clinic, Rochester, MN, USA.
+FAU - Yu, Yue
+AU  - Yu Y
+AD  - Mayo Clinic, Rochester, MN, USA.
+FAU - Zong, Nansu
+AU  - Zong N
+AD  - Mayo Clinic, Rochester, MN, USA.
+FAU - Ruddy, Kathryn J
+AU  - Ruddy KJ
+AD  - Mayo Clinic, Rochester, MN, USA.
+FAU - Chute, Christopher G
+AU  - Chute CG
+AD  - Johns Hopkins University, Baltimore, MD, USA.
+FAU - Jiang, Guoqian
+AU  - Jiang G
+AD  - Mayo Clinic, Rochester, MN, USA. Electronic address: jiang.guoqian@mayo.edu.
+LA  - eng
+GR  - R01 EB030529/EB/NIBIB NIH HHS/United States
+GR  - U24 TR002306/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220909
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - Data Warehousing
+MH  - Delivery of Health Care
+MH  - Electronic Health Records
+MH  - Humans
+MH  - *Pattern Recognition, Automated
+PMC - PMC9561043
+MID - NIHMS1839711
+OTO - NOTNLM
+OT  - Clinical Knowledge Graphs
+OT  - Data Standards
+OT  - Fast Healthcare Interoperability Resources (FHIR)
+OT  - Semantic Web
+OT  - Shape Expressions (ShEx)
+OT  - Virtual Knowledge Graphs
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2022/09/12 06:00
+MHDA- 2022/10/14 06:00
+CRDT- 2022/09/11 19:36
+PHST- 2022/05/23 00:00 [received]
+PHST- 2022/08/04 00:00 [revised]
+PHST- 2022/09/04 00:00 [accepted]
+PHST- 2022/09/12 06:00 [pubmed]
+PHST- 2022/10/14 06:00 [medline]
+PHST- 2022/09/11 19:36 [entrez]
+AID - S1532-0464(22)00206-4 [pii]
+AID - 10.1016/j.jbi.2022.104201 [doi]
+PST - ppublish
+SO  - J Biomed Inform. 2022 Oct;134:104201. doi: 10.1016/j.jbi.2022.104201. Epub 2022 
+      Sep 9.
+
+PMID- 31697362
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200325
+LR  - 20200325
+IS  - 1758-0463 (Electronic)
+IS  - 1758-0463 (Linking)
+VI  - 2019
+DP  - 2019 Jan 1
+TI  - Enabling semantic queries across federated bioinformatics databases.
+LID - 10.1093/database/baz106 [doi]
+LID - baz106
+AB  - MOTIVATION: Data integration promises to be one of the main catalysts in enabling 
+      new insights to be drawn from the wealth of biological data available publicly. 
+      However, the heterogeneity of the different data sources, both at the syntactic 
+      and the semantic level, still poses significant challenges for achieving 
+      interoperability among biological databases. RESULTS: We introduce an 
+      ontology-based federated approach for data integration. We applied this approach 
+      to three heterogeneous data stores that span different areas of biological 
+      knowledge: (i) Bgee, a gene expression relational database; (ii) Orthologous 
+      Matrix (OMA), a Hierarchical Data Format 5 orthology DS; and (iii) UniProtKB, a 
+      Resource Description Framework (RDF) store containing protein sequence and 
+      functional information. To enable federated queries across these sources, we 
+      first defined a new semantic model for gene expression called GenEx. We then show 
+      how the relational data in Bgee can be expressed as a virtual RDF graph, 
+      instantiating GenEx, through dedicated relational-to-RDF mappings. By applying 
+      these mappings, Bgee data are now accessible through a public SPARQL endpoint. 
+      Similarly, the materialized RDF data of OMA, expressed in terms of the Orthology 
+      ontology, is made available in a public SPARQL endpoint. We identified and 
+      formally described intersection points (i.e. virtual links) among the three data 
+      sources. These allow performing joint queries across the data stores. Finally, we 
+      lay the groundwork to enable nontechnical users to benefit from the integrated 
+      data, by providing a natural language template-based search interface.
+CI  - © The authors 2019. Published by Oxford University Press on behalf of the 
+      Institute of Mathematics and its Applications.
+FAU - Sima, Ana Claudia
+AU  - Sima AC
+AD  - ZHAW Zurich University of Applied Sciences, Obere Kirchgasse 2, 8400 Winterthur 
+      Switzerland.
+AD  - Department of Computational Biology, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+AD  - Center for Integrative Genomics, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+FAU - Mendes de Farias, Tarcisio
+AU  - Mendes de Farias T
+AD  - Department of Computational Biology, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+AD  - Center for Integrative Genomics, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+AD  - Department of Ecology and Evolution, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+FAU - Zbinden, Erich
+AU  - Zbinden E
+AD  - ZHAW Zurich University of Applied Sciences, Obere Kirchgasse 2, 8400 Winterthur 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+FAU - Anisimova, Maria
+AU  - Anisimova M
+AD  - ZHAW Zurich University of Applied Sciences, Obere Kirchgasse 2, 8400 Winterthur 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+FAU - Gil, Manuel
+AU  - Gil M
+AD  - ZHAW Zurich University of Applied Sciences, Obere Kirchgasse 2, 8400 Winterthur 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+FAU - Stockinger, Heinz
+AU  - Stockinger H
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+FAU - Stockinger, Kurt
+AU  - Stockinger K
+AD  - ZHAW Zurich University of Applied Sciences, Obere Kirchgasse 2, 8400 Winterthur 
+      Switzerland.
+FAU - Robinson-Rechavi, Marc
+AU  - Robinson-Rechavi M
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+AD  - Department of Ecology and Evolution, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+FAU - Dessimoz, Christophe
+AU  - Dessimoz C
+AD  - Department of Computational Biology, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+AD  - Center for Integrative Genomics, University of Lausanne, 1015 Lausanne, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland.
+AD  - Department of Genetics, Evolution, and Environment, University College London, 
+      Gower St, London WC1E 6BT, UK.
+AD  - Department of Computer Science, University College London, Gower St, London WC1E 
+      6BT, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Database (Oxford)
+JT  - Database : the journal of biological databases and curation
+JID - 101517697
+SB  - IM
+MH  - *Biological Ontologies
+MH  - *Computational Biology
+MH  - *Databases, Factual
+MH  - *Semantic Web
+PMC - PMC6836710
+EDAT- 2019/11/08 06:00
+MHDA- 2020/03/26 06:00
+CRDT- 2019/11/08 06:00
+PHST- 2019/06/28 00:00 [received]
+PHST- 2019/08/01 00:00 [revised]
+PHST- 2019/08/02 00:00 [accepted]
+PHST- 2019/11/08 06:00 [entrez]
+PHST- 2019/11/08 06:00 [pubmed]
+PHST- 2020/03/26 06:00 [medline]
+AID - 5614223 [pii]
+AID - baz106 [pii]
+AID - 10.1093/database/baz106 [doi]
+PST - ppublish
+SO  - Database (Oxford). 2019 Jan 1;2019:baz106. doi: 10.1093/database/baz106.
+
+PMID- 35709746
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221227
+LR  - 20230406
+IS  - 2511-705X (Electronic)
+IS  - 0026-1270 (Print)
+IS  - 0026-1270 (Linking)
+VI  - 61
+IP  - S 02
+DP  - 2022 Dec
+TI  - Using an Ontology to Derive a Sharable and Interoperable Relational Data Model 
+      for Heterogeneous Healthcare Data and Various Applications.
+PG  - e73-e88
+LID - 10.1055/a-1877-9498 [doi]
+AB  - BACKGROUND: A large volume of heavily fragmented data is generated daily in 
+      different healthcare contexts and is stored using various structures with 
+      different semantics. This fragmentation and heterogeneity make secondary use of 
+      data a challenge. Data integration approaches that derive a common data model 
+      from sources or requirements have some advantages. However, these approaches are 
+      often built for a specific application where the research questions are known. 
+      Thus, the semantic and structural reconciliation is often not reusable nor 
+      reproducible. A recent integration approach using knowledge models has been 
+      developed with ontologies that provide a strong semantic foundation. Nonetheless, 
+      deriving a data model that captures the richness of the ontology to store data 
+      with their full semantic remains a challenging task. OBJECTIVES: This article 
+      addresses the following question: How to design a sharable and interoperable data 
+      model for storing heterogeneous healthcare data and their semantic to support 
+      various applications? METHOD: This article describes a method using an 
+      ontological knowledge model to automatically generate a data model for a domain 
+      of interest. The model can then be implemented in a relational database which 
+      efficiently enables the collection, storage, and retrieval of data while keeping 
+      semantic ontological annotations so that the same data can be extracted for 
+      various applications for further processing. RESULTS: This article (1) presents a 
+      comparison of existing methods for generating a relational data model from an 
+      ontology using 23 criteria, (2) describes standard conversion rules, and (3) 
+      presents O n t o R e l a , a prototype developed to demonstrate the conversion 
+      rules. CONCLUSION: This work is a first step toward automating and refining the 
+      generation of sharable and interoperable relational data models using ontologies 
+      with a freely available tool. The remaining challenges to cover all the ontology 
+      richness in the relational model are pointed out.
+CI  - The Author(s). This is an open access article published by Thieme under the terms 
+      of the Creative Commons Attribution License, permitting unrestricted use, 
+      distribution, and reproduction so long as the original work is properly cited. 
+      (https://creativecommons.org/licenses/by/4.0/).
+FAU - Khnaisser, Christina
+AU  - Khnaisser C
+AUID- ORCID: 0000-0002-1186-0300
+AD  - GRIIS, Université de Sherbrooke, Sherbrooke, Canada.
+FAU - Lavoie, Luc
+AU  - Lavoie L
+AD  - GRIIS, Université de Sherbrooke, Sherbrooke, Canada.
+FAU - Fraikin, Benoit
+AU  - Fraikin B
+AD  - GRIIS, Université de Sherbrooke, Sherbrooke, Canada.
+FAU - Barton, Adrien
+AU  - Barton A
+AUID- ORCID: 0000-0001-5500-6539
+AD  - IRIT-MELODI, CNRS, Toulouse, France.
+FAU - Dussault, Samuel
+AU  - Dussault S
+AUID- ORCID: 0000-0002-7475-7933
+AD  - GRIIS, Université de Sherbrooke, Sherbrooke, Canada.
+FAU - Burgun, Anita
+AU  - Burgun A
+AUID- ORCID: 0000-0001-6855-4366
+AD  - INSERM UMRS 1138 Team 22, Université de Paris, Paris, France.
+FAU - Ethier, Jean-François
+AU  - Ethier JF
+AUID- ORCID: 0000-0001-9408-0109
+AD  - GRIIS, Université de Sherbrooke, Sherbrooke, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220616
+PL  - Germany
+TA  - Methods Inf Med
+JT  - Methods of information in medicine
+JID - 0210453
+SB  - IM
+MH  - Databases, Factual
+MH  - *Delivery of Health Care
+MH  - *Semantics
+PMC - PMC9788910
+COIS- None.
+EDAT- 2022/06/17 06:00
+MHDA- 2022/12/28 06:00
+CRDT- 2022/06/16 18:42
+PHST- 2022/06/17 06:00 [pubmed]
+PHST- 2022/12/28 06:00 [medline]
+PHST- 2022/06/16 18:42 [entrez]
+AID - ME-22-0009 [pii]
+AID - 10.1055/a-1877-9498 [doi]
+PST - ppublish
+SO  - Methods Inf Med. 2022 Dec;61(S 02):e73-e88. doi: 10.1055/a-1877-9498. Epub 2022 
+      Jun 16.
+
+PMID- 12542408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030717
+LR  - 20030128
+IS  - 1386-6338 (Print)
+IS  - 1386-6338 (Linking)
+VI  - 2
+IP  - 3
+DP  - 2002
+TI  - The semantic metadatabase (SEMEDA): ontology based integration of federated 
+      molecular biological data sources.
+PG  - 219-31
+AB  - A system for "intelligent" semantic integration and querying of federated 
+      databases is being implemented by using three main components: A component which 
+      enables SQL access to integrated databases by database federation (MARGBench), an 
+      ontology based semantic metadatabase (SEMEDA) and an ontology based query 
+      interface (SEMEDA-query). In this publication we explain and demonstrate the 
+      principles, architecture and the use of SEMEDA. Since SEMEDA is implemented as 3 
+      tiered web application database providers can enter all relevant semantic and 
+      technical information about their databases by themselves via a web browser. 
+      SEMEDA' s collaborative ontology editing feature is not restricted to database 
+      integration, and might also be useful for ongoing ontology developments, such as 
+      the "Gene Ontology" [2]. SEMEDA can be found at 
+      http://www-bm.cs.uni-magdeburg.de/semeda/. We explain how this ontologically 
+      structured information can be used for semantic database integration. In 
+      addition, requirements to ontologies for molecular biological database 
+      integration are discussed and relevant existing ontologies are evaluated. We 
+      further discuss how ontologies and structured knowledge sources can be used in 
+      SEMEDA and whether they can be merged supplemented or updated to meet the 
+      requirements for semantic database integration.
+FAU - Köhler, Jacob
+AU  - Köhler J
+AD  - University Bielefeld, Germany. jacob.koehler@uni-bielefeld.de
+FAU - Schulze-Kremer, Steffen
+AU  - Schulze-Kremer S
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - In Silico Biol
+JT  - In silico biology
+JID - 9815902
+SB  - IM
+MH  - *Databases, Genetic
+MH  - *Molecular Biology
+MH  - *Systems Integration
+EDAT- 2003/01/25 04:00
+MHDA- 2003/07/18 05:00
+CRDT- 2003/01/25 04:00
+PHST- 2003/01/25 04:00 [pubmed]
+PHST- 2003/07/18 05:00 [medline]
+PHST- 2003/01/25 04:00 [entrez]
+AID - 2002020021 [pii]
+PST - ppublish
+SO  - In Silico Biol. 2002;2(3):219-31.
+
+PMID- 23742129
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140206
+LR  - 20211203
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 14
+DP  - 2013 Jun 6
+TI  - Computational framework to support integration of biomolecular and clinical data 
+      within a translational approach.
+PG  - 180
+LID - 10.1186/1471-2105-14-180 [doi]
+AB  - BACKGROUND: The use of the knowledge produced by sciences to promote human health 
+      is the main goal of translational medicine. To make it feasible we need 
+      computational methods to handle the large amount of information that arises from 
+      bench to bedside and to deal with its heterogeneity. A computational challenge 
+      that must be faced is to promote the integration of clinical, socio-demographic 
+      and biological data. In this effort, ontologies play an essential role as a 
+      powerful artifact for knowledge representation. Chado is a modular 
+      ontology-oriented database model that gained popularity due to its robustness and 
+      flexibility as a generic platform to store biological data; however it lacks 
+      supporting representation of clinical and socio-demographic information. RESULTS: 
+      We have implemented an extension of Chado - the Clinical Module - to allow the 
+      representation of this kind of information. Our approach consists of a framework 
+      for data integration through the use of a common reference ontology. The design 
+      of this framework has four levels: data level, to store the data; semantic level, 
+      to integrate and standardize the data by the use of ontologies; application 
+      level, to manage clinical databases, ontologies and data integration process; and 
+      web interface level, to allow interaction between the user and the system. The 
+      clinical module was built based on the Entity-Attribute-Value (EAV) model. We 
+      also proposed a methodology to migrate data from legacy clinical databases to the 
+      integrative framework. A Chado instance was initialized using a relational 
+      database management system. The Clinical Module was implemented and the framework 
+      was loaded using data from a factual clinical research database. Clinical and 
+      demographic data as well as biomaterial data were obtained from patients with 
+      tumors of head and neck. We implemented the IPTrans tool that is a complete 
+      environment for data migration, which comprises: the construction of a model to 
+      describe the legacy clinical data, based on an ontology; the Extraction, 
+      Transformation and Load (ETL) process to extract the data from the source 
+      clinical database and load it in the Clinical Module of Chado; the development of 
+      a web tool and a Bridge Layer to adapt the web tool to Chado, as well as other 
+      applications. CONCLUSIONS: Open-source computational solutions currently 
+      available for translational science does not have a model to represent 
+      biomolecular information and also are not integrated with the existing 
+      bioinformatics tools. On the other hand, existing genomic data models do not 
+      represent clinical patient data. A framework was developed to support 
+      translational research by integrating biomolecular information coming from 
+      different "omics" technologies with patient's clinical and socio-demographic 
+      data. This framework should present some features: flexibility, compression and 
+      robustness. The experiments accomplished from a use case demonstrated that the 
+      proposed system meets requirements of flexibility and robustness, leading to the 
+      desired integration. The Clinical Module can be accessed in 
+      http://dcm.ffclrp.usp.br/caib/pg=iptrans.
+FAU - Miyoshi, Newton Shydeo Brandão
+AU  - Miyoshi NS
+AD  - Department of Computing and Mathematics, Faculty of Philosophy, Sciences and 
+      Languages of Ribeirão Preto, University of São Paulo, São Paulo, Brazil.
+FAU - Pinheiro, Daniel Guariz
+AU  - Pinheiro DG
+FAU - Silva, Wilson Araújo Jr
+AU  - Silva WA Jr
+FAU - Felipe, Joaquim Cezar
+AU  - Felipe JC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130606
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - *Biomedical Research
+MH  - Carcinoma/genetics/therapy
+MH  - Computational Biology/methods
+MH  - Databases, Factual
+MH  - Genome, Human
+MH  - Genomics
+MH  - Head and Neck Neoplasms/genetics/therapy
+MH  - Humans
+MH  - Software
+MH  - Translational Research, Biomedical/*methods
+PMC - PMC3688149
+EDAT- 2013/06/08 06:00
+MHDA- 2014/02/07 06:00
+CRDT- 2013/06/08 06:00
+PHST- 2012/12/11 00:00 [received]
+PHST- 2013/05/24 00:00 [accepted]
+PHST- 2013/06/08 06:00 [entrez]
+PHST- 2013/06/08 06:00 [pubmed]
+PHST- 2014/02/07 06:00 [medline]
+AID - 1471-2105-14-180 [pii]
+AID - 10.1186/1471-2105-14-180 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2013 Jun 6;14:180. doi: 10.1186/1471-2105-14-180.
+
+PMID- 27605099
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171116
+LR  - 20181202
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 33
+IP  - 1
+DP  - 2017 Jan 1
+TI  - OntoBrowser: a collaborative tool for curation of ontologies by subject matter 
+      experts.
+PG  - 148-149
+LID - 10.1093/bioinformatics/btw579 [doi]
+AB  - The lack of controlled terminology and ontology usage leads to incomplete search 
+      results and poor interoperability between databases. One of the major underlying 
+      challenges of data integration is curating data to adhere to controlled 
+      terminologies and/or ontologies. Finding subject matter experts with the time and 
+      skills required to perform data curation is often problematic. In addition, 
+      existing tools are not designed for continuous data integration and collaborative 
+      curation. This results in time-consuming curation workflows that often become 
+      unsustainable. The primary objective of OntoBrowser is to provide an easy-to-use 
+      online collaborative solution for subject matter experts to map reported terms to 
+      preferred ontology (or code list) terms and facilitate ontology evolution. 
+      Additional features include web service access to data, visualization of 
+      ontologies in hierarchical/graph format and a peer review/approval workflow with 
+      alerting. AVAILABILITY AND IMPLEMENTATION: The source code is freely available 
+      under the Apache v2.0 license. Source code and installation instructions are 
+      available at http://opensource.nibr.com This software is designed to run on a 
+      Java EE application server and store data in a relational database. CONTACT: 
+      philippe.marc@novartis.com.
+CI  - © The Author 2016. Published by Oxford University Press.
+FAU - Ravagli, Carlo
+AU  - Ravagli C
+AD  - PreClinical Safety, Translational Sciences, Novartis Institute for Biomedical 
+      Research, Basel, CH-4002, Switzerland.
+FAU - Pognan, Francois
+AU  - Pognan F
+AD  - PreClinical Safety, Translational Sciences, Novartis Institute for Biomedical 
+      Research, Basel, CH-4002, Switzerland.
+FAU - Marc, Philippe
+AU  - Marc P
+AD  - PreClinical Safety, Translational Sciences, Novartis Institute for Biomedical 
+      Research, Basel, CH-4002, Switzerland.
+LA  - eng
+PT  - Journal Article
+DEP - 20160906
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - *Biological Ontologies
+MH  - Data Curation/*methods
+MH  - Databases, Factual/*standards
+MH  - Peer Review/*methods
+MH  - *Software
+MH  - Vocabulary, Controlled
+PMC - PMC5408772
+EDAT- 2016/09/09 06:00
+MHDA- 2017/11/29 06:00
+CRDT- 2016/09/09 06:00
+PHST- 2015/11/05 00:00 [received]
+PHST- 2016/07/08 00:00 [revised]
+PHST- 2016/09/02 00:00 [accepted]
+PHST- 2016/09/09 06:00 [pubmed]
+PHST- 2017/11/29 06:00 [medline]
+PHST- 2016/09/09 06:00 [entrez]
+AID - btw579 [pii]
+AID - 10.1093/bioinformatics/btw579 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2017 Jan 1;33(1):148-149. doi: 10.1093/bioinformatics/btw579. 
+      Epub 2016 Sep 6.
+
+PMID- 17238664
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070928
+LR  - 20181113
+IS  - 1942-597X (Electronic)
+IS  - 1559-4076 (Linking)
+VI  - 2006
+DP  - 2006
+TI  - Ontology-driven mapping of temporal data in biomedical databases.
+PG  - 1045
+AB  - Biomedical databases contain considerable amounts of time-oriented data, which 
+      are not typically in a format suitable for querying complex temporal patterns. We 
+      address this problem in implementing Synchronus, a tool for ontology-driven 
+      mapping of data from an existing relational database to a database schema with a 
+      uniform temporal representation. We discuss the design of Synchronus, which 
+      consists of a schema-mapping ontology and a data-mapping algorithm that together 
+      provide general capabilities for database transformation.
+FAU - Narayanan, Preetha S
+AU  - Narayanan PS
+AD  - Stanford Medical Informatics, MSOB X233, Stanford University, Stanford, CA 94305, 
+      USA.
+FAU - O'Connor, Martin J
+AU  - O'Connor MJ
+FAU - Das, Amar K
+AU  - Das AK
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - AMIA Annu Symp Proc
+JT  - AMIA ... Annual Symposium proceedings. AMIA Symposium
+JID - 101209213
+SB  - IM
+MH  - Algorithms
+MH  - *Databases as Topic
+MH  - Medical Informatics
+MH  - *Software
+MH  - Time
+MH  - *Vocabulary, Controlled
+PMC - PMC1839378
+EDAT- 2007/01/24 09:00
+MHDA- 2007/09/29 09:00
+CRDT- 2007/01/24 09:00
+PHST- 2007/01/24 09:00 [pubmed]
+PHST- 2007/09/29 09:00 [medline]
+PHST- 2007/01/24 09:00 [entrez]
+AID - 86398 [pii]
+AID - amia2006_1045 [pii]
+PST - ppublish
+SO  - AMIA Annu Symp Proc. 2006;2006:1045.
+
+PMID- 32647404
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 0219-1377 (Print)
+IS  - 0219-3116 (Electronic)
+IS  - 0219-3116 (Linking)
+VI  - 62
+IP  - 9
+DP  - 2020
+TI  - "Just-in-time" generation of datasets by considering structured representations 
+      of given consent for GDPR compliance.
+PG  - 3615-3640
+LID - 10.1007/s10115-020-01468-x [doi]
+AB  - Data processing is increasingly becoming the subject of various policies and 
+      regulations, such as the European General Data Protection Regulation (GDPR) that 
+      came into effect in May 2018. One important aspect of GDPR is informed consent, 
+      which captures one's permission for using one's personal information for specific 
+      data processing purposes. Organizations must demonstrate that they comply with 
+      these policies. The fines that come with non-compliance are of such importance 
+      that it has driven research in facilitating compliance verification. The 
+      state-of-the-art primarily focuses on, for instance, the analysis of prescriptive 
+      models and posthoc analysis on logs to check whether data processing is compliant 
+      to GDPR. We argue that GDPR compliance can be facilitated by ensuring datasets 
+      used in processing activities are compliant with consent from the very start. The 
+      problem addressed in this paper is how we can generate datasets that comply with 
+      given consent "just-in-time". We propose RDF and OWL ontologies to represent the 
+      consent that an organization has collected and its relationship with data 
+      processing purposes. We use this ontology to annotate schemas, allowing us to 
+      generate declarative mappings that transform (relational) data into RDF driven by 
+      the annotations. We furthermore demonstrate how we can create compliant datasets 
+      by altering the results of the mapping. The use of RDF and OWL allows us to 
+      implement the entire process in a declarative manner using SPARQL. We have 
+      integrated all components in a service that furthermore captures provenance 
+      information for each step, further contributing to the transparency that is 
+      needed towards facilitating compliance verification. We demonstrate the approach 
+      with a synthetic dataset simulating users (re-)giving, withdrawing, and rejecting 
+      their consent on data processing purposes of systems. In summary, it is argued 
+      that the approach facilitates transparency and compliance verification from the 
+      start, reducing the need for posthoc compliance analysis common in the 
+      state-of-the-art.
+CI  - © The Author(s) 2020.
+FAU - Debruyne, Christophe
+AU  - Debruyne C
+AUID- ORCID: 0000-0003-4734-3847
+AD  - ADAPT Centre, Trinity College Dublin, Dublin 2, Ireland. GRID: grid.8217.c. ISNI: 
+      0000 0004 1936 9705
+FAU - Pandit, Harshvardhan J
+AU  - Pandit HJ
+AUID- ORCID: 0000-0002-5068-3714
+AD  - ADAPT Centre, Trinity College Dublin, Dublin 2, Ireland. GRID: grid.8217.c. ISNI: 
+      0000 0004 1936 9705
+FAU - Lewis, Dave
+AU  - Lewis D
+AUID- ORCID: 0000-0002-3503-4644
+AD  - ADAPT Centre, Trinity College Dublin, Dublin 2, Ireland. GRID: grid.8217.c. ISNI: 
+      0000 0004 1936 9705
+FAU - O'Sullivan, Declan
+AU  - O'Sullivan D
+AUID- ORCID: 0000-0003-1090-3548
+AD  - ADAPT Centre, Trinity College Dublin, Dublin 2, Ireland. GRID: grid.8217.c. ISNI: 
+      0000 0004 1936 9705
+LA  - eng
+SI  - figshare/10.6084/m9.figshare.11925942
+PT  - Journal Article
+DEP - 20200415
+PL  - England
+TA  - Knowl Inf Syst
+JT  - Knowledge and information systems
+JID - 101511283
+PMC - PMC7327958
+OTO - NOTNLM
+OT  - Consent
+OT  - Data integration
+OT  - GDPR
+EDAT- 2020/07/11 06:00
+MHDA- 2020/07/11 06:01
+CRDT- 2020/07/11 06:00
+PHST- 2020/01/25 00:00 [received]
+PHST- 2020/03/24 00:00 [revised]
+PHST- 2020/03/29 00:00 [accepted]
+PHST- 2020/07/11 06:00 [entrez]
+PHST- 2020/07/11 06:00 [pubmed]
+PHST- 2020/07/11 06:01 [medline]
+AID - 1468 [pii]
+AID - 10.1007/s10115-020-01468-x [doi]
+PST - ppublish
+SO  - Knowl Inf Syst. 2020;62(9):3615-3640. doi: 10.1007/s10115-020-01468-x. Epub 2020 
+      Apr 15.
+
+PMID- 18789876
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090529
+LR  - 20090324
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 78 Suppl 1
+DP  - 2009 Apr
+TI  - Knowledge-data integration for temporal reasoning in a clinical trial system.
+PG  - S77-85
+LID - 10.1016/j.ijmedinf.2008.07.013 [doi]
+AB  - Managing time-stamped data is essential to clinical research activities and often 
+      requires the use of considerable domain knowledge. Adequately representing and 
+      integrating temporal data and domain knowledge is difficult with the database 
+      technologies used in most clinical research systems. There is often a disconnect 
+      between the database representation of research data and corresponding domain 
+      knowledge of clinical research concepts. In this paper, we present a set of 
+      methodologies for undertaking ontology-based specification of temporal 
+      information, and discuss their application to the verification of 
+      protocol-specific temporal constraints among clinical trial activities. Our 
+      approach allows knowledge-level temporal constraints to be evaluated against 
+      operational trial data stored in relational databases. We show how the Semantic 
+      Web ontology and rule languages OWL and SWRL, respectively, can support tools for 
+      research data management that automatically integrate low-level representations 
+      of relational data with high-level domain concepts used in study design.
+FAU - O'Connor, Martin J
+AU  - O'Connor MJ
+AD  - Stanford Center for Biomedical Informatics Research, Stanford University, 251 
+      Campus Drive, MSOB X275, Stanford, CA 94305, USA. martin.oconnor@stanford.edu
+FAU - Shankar, Ravi D
+AU  - Shankar RD
+FAU - Parrish, David B
+AU  - Parrish DB
+FAU - Das, Amar K
+AU  - Das AK
+LA  - eng
+GR  - N01-AI-15416/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080913
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - *Clinical Trials as Topic
+MH  - Models, Theoretical
+MH  - *Systems Integration
+EDAT- 2008/09/16 09:00
+MHDA- 2009/05/30 09:00
+CRDT- 2008/09/16 09:00
+PHST- 2008/02/26 00:00 [received]
+PHST- 2008/07/16 00:00 [revised]
+PHST- 2008/07/23 00:00 [accepted]
+PHST- 2008/09/16 09:00 [pubmed]
+PHST- 2009/05/30 09:00 [medline]
+PHST- 2008/09/16 09:00 [entrez]
+AID - S1386-5056(08)00131-7 [pii]
+AID - 10.1016/j.ijmedinf.2008.07.013 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2009 Apr;78 Suppl 1:S77-85. doi: 
+      10.1016/j.ijmedinf.2008.07.013. Epub 2008 Sep 13.
+
+PMID- 16753052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060905
+LR  - 20230415
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 7
+DP  - 2006 Jun 5
+TI  - MeMo: a hybrid SQL/XML approach to metabolomic data management for functional 
+      genomics.
+PG  - 281
+AB  - BACKGROUND: The genome sequencing projects have shown our limited knowledge 
+      regarding gene function, e.g. S. cerevisiae has 5-6,000 genes of which nearly 
+      1,000 have an uncertain function. Their gross influence on the behaviour of the 
+      cell can be observed using large-scale metabolomic studies. The metabolomic data 
+      produced need to be structured and annotated in a machine-usable form to 
+      facilitate the exploration of the hidden links between the genes and their 
+      functions. DESCRIPTION: MeMo is a formal model for representing metabolomic data 
+      and the associated metadata. Two predominant platforms (SQL and XML) are used to 
+      encode the model. MeMo has been implemented as a relational database using a 
+      hybrid approach combining the advantages of the two technologies. It represents a 
+      practical solution for handling the sheer volume and complexity of the 
+      metabolomic data effectively and efficiently. The MeMo model and the associated 
+      software are available at http://dbkgroup.org/memo/. CONCLUSION: The maturity of 
+      relational database technology is used to support efficient data processing. The 
+      scalability and self-descriptiveness of XML are used to simplify the relational 
+      schema and facilitate the extensibility of the model necessitated by the creation 
+      of new experimental techniques. Special consideration is given to data 
+      integration issues as part of the systems biology agenda. MeMo has been 
+      physically integrated and cross-linked to related metabolomic and genomic 
+      databases. Semantic integration with other relevant databases has been supported 
+      through ontological annotation. Compatibility with other data formats is 
+      supported by automatic conversion.
+FAU - Spasić, Irena
+AU  - Spasić I
+AD  - School of Chemistry, Faraday Building, The University of Manchester, Manchester, 
+      M60 1QD, UK. i.spasic@manchester.ac.uk
+FAU - Dunn, Warwick B
+AU  - Dunn WB
+FAU - Velarde, Giles
+AU  - Velarde G
+FAU - Tseng, Andy
+AU  - Tseng A
+FAU - Jenkins, Helen
+AU  - Jenkins H
+FAU - Hardy, Nigel
+AU  - Hardy N
+FAU - Oliver, Stephen G
+AU  - Oliver SG
+FAU - Kell, Douglas B
+AU  - Kell DB
+LA  - eng
+GR  - E19354/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+GR  - E19355/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+GR  - G18886/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+GR  - MET20484/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20060605
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+RN  - 0 (Proteome)
+SB  - IM
+MH  - Computer Simulation
+MH  - *Database Management Systems
+MH  - Genomics/*methods
+MH  - Information Storage and Retrieval/*methods
+MH  - Metabolism/*physiology
+MH  - *Models, Biological
+MH  - Proteome/*metabolism
+MH  - Signal Transduction/*physiology
+MH  - Systems Integration
+MH  - User-Computer Interface
+PMC - PMC1522028
+EDAT- 2006/06/07 09:00
+MHDA- 2006/09/06 09:00
+CRDT- 2006/06/07 09:00
+PHST- 2005/11/28 00:00 [received]
+PHST- 2006/06/05 00:00 [accepted]
+PHST- 2006/06/07 09:00 [pubmed]
+PHST- 2006/09/06 09:00 [medline]
+PHST- 2006/06/07 09:00 [entrez]
+AID - 1471-2105-7-281 [pii]
+AID - 10.1186/1471-2105-7-281 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2006 Jun 5;7:281. doi: 10.1186/1471-2105-7-281.
+
+PMID- 23616864
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20130426
+LR  - 20211021
+IS  - 1869-0327 (Print)
+IS  - 1869-0327 (Electronic)
+IS  - 1869-0327 (Linking)
+VI  - 2
+IP  - 1
+DP  - 2011
+TI  - Unlocking Data for Clinical Research - The German i2b2 Experience.
+PG  - 116-27
+LID - 10.4338/ACI-2010-09-CR-0051 [doi]
+AB  - OBJECTIVE: Data from clinical care is increasingly being used for research 
+      purposes. The i2b2 platform has been introduced in some US research communities 
+      as a tool for data integration and querying by clinical users. The purpose of 
+      this project was to assess the applicability of i2b2 in Germany regarding use 
+      cases, functionality and integration with privacy enhancing tools. METHODS: A set 
+      of four research usage scenarios was chosen, including the transformation and 
+      import of ontology and fact data from existing clinical data collections into 
+      i2b2 v1.4 instances. Query performance was measured in comparison to native SQL 
+      queries. A setup and administration tool for i2b2 was developed. An extraction 
+      tool for CDISC ODM data was programmed. Interfaces for the TMF privacy enhancing 
+      tools (PID Generator, Pseudonymization Service) were implemented. RESULTS: Data 
+      could be imported in all tested scenarios from various source systems, including 
+      the generation of i2b2 ontology definitions. The integration of TMF privacy 
+      enhancing tools was possible without modification of the platform. Limitations 
+      were found regarding query performance in comparison to native SQL and certain 
+      temporal queries. CONCLUSIONS: i2b2 is a viable platform for data query tasks in 
+      use cases typical for networked medical research in Germany. The integration of 
+      privacy enhancing tools facilitates the use of i2b2 within established data 
+      protection concepts. Entry barriers should be lowered by providing tools for 
+      simplified setup and import of medical standard formats like CDISC ODM.
+FAU - Ganslandt, T
+AU  - Ganslandt T
+AD  - Center for Medical Information and Communication, Erlangen University Hospital , 
+      Erlangen, Germany.
+FAU - Mate, S
+AU  - Mate S
+FAU - Helbing, K
+AU  - Helbing K
+FAU - Sax, U
+AU  - Sax U
+FAU - Prokosch, H U
+AU  - Prokosch HU
+LA  - eng
+PT  - Journal Article
+DEP - 20110330
+PL  - Germany
+TA  - Appl Clin Inform
+JT  - Applied clinical informatics
+JID - 101537732
+PMC - PMC3631913
+OTO - NOTNLM
+OT  - Information Storage and Retrieval
+OT  - Medical Record Systems
+OT  - Single-Source
+EDAT- 2011/01/01 00:00
+MHDA- 2011/01/01 00:01
+CRDT- 2013/04/26 06:00
+PHST- 2010/09/10 00:00 [received]
+PHST- 2011/01/19 00:00 [accepted]
+PHST- 2013/04/26 06:00 [entrez]
+PHST- 2011/01/01 00:00 [pubmed]
+PHST- 2011/01/01 00:01 [medline]
+AID - 10.4338/ACI-2010-09-CR-0051 [doi]
+PST - epublish
+SO  - Appl Clin Inform. 2011 Mar 30;2(1):116-27. doi: 10.4338/ACI-2010-09-CR-0051. 
+      Print 2011.
+
+PMID- 12066842
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030227
+LR  - 20061115
+IS  - 1386-6338 (Print)
+IS  - 1386-6338 (Linking)
+VI  - 2
+IP  - 2
+DP  - 2002
+TI  - A database system for the analysis of biochemical pathways.
+PG  - 75-86
+AB  - To provide support for the analysis of biochemical pathways a database system 
+      based on a model that represents the characteristics of the domain is needed. 
+      This domain has proven to be difficult to model by using conventional data 
+      modelling techniques. We are building an ontology for biochemical pathways, which 
+      acts as the basis for the generation of a database on the same domain, allowing 
+      the definition of complex queries and complex data representation. The ontology 
+      is used as a modelling and analysis tool which allows the expression of complex 
+      semantics based on a first-order logic representation language. The induction 
+      capabilities of the system can help the scientist in formulating and testing 
+      research hypotheses that are difficult to express with the standard relational 
+      database mechanisms. An ontology representing the shared formalisation of the 
+      knowledge in a scientific domain can also be used as data integration tool 
+      clarifying the mapping of concepts to the developers of different databases. In 
+      this paper we describe the general structure of our system, concentrating on the 
+      ontology-based database as the key component of the system.
+FAU - Rojas, Isabel
+AU  - Rojas I
+AD  - European Media Laboratory, Heidelberg, Germany. Rojas@eml.villa-bosch.de
+FAU - Bernardi, Luca
+AU  - Bernardi L
+FAU - Ratsch, Esther
+AU  - Ratsch E
+FAU - Kania, Renate
+AU  - Kania R
+FAU - Wittig, Ulrike
+AU  - Wittig U
+FAU - Saric, Jasmin
+AU  - Saric J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - In Silico Biol
+JT  - In silico biology
+JID - 9815902
+SB  - IM
+MH  - *Biochemical Phenomena
+MH  - Database Management Systems
+MH  - *Databases, Factual
+MH  - Humans
+MH  - Information Storage and Retrieval/*methods
+MH  - *Information Systems
+MH  - Software
+MH  - User-Computer Interface
+EDAT- 2002/06/18 10:00
+MHDA- 2003/02/28 04:00
+CRDT- 2002/06/18 10:00
+PHST- 2002/06/18 10:00 [pubmed]
+PHST- 2003/02/28 04:00 [medline]
+PHST- 2002/06/18 10:00 [entrez]
+AID - 2002020007 [pii]
+PST - ppublish
+SO  - In Silico Biol. 2002;2(2):75-86.
+
+PMID- 26534843
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170109
+LR  - 20211203
+IS  - 2511-705X (Electronic)
+IS  - 0026-1270 (Linking)
+VI  - 55
+IP  - 2
+DP  - 2016
+TI  - Integrated Data Repository Toolkit (IDRT). A Suite of Programs to Facilitate 
+      Health Analytics on Heterogeneous Medical Data.
+PG  - 125-35
+LID - 10.3414/ME15-01-0082 [doi]
+AB  - BACKGROUND: In recent years, research data warehouses moved increasingly into the 
+      focus of interest of medical research. Nevertheless, there are only a few 
+      center-independent infrastructure solutions available. They aim to provide a 
+      consolidated view on medical data from various sources such as clinical trials, 
+      electronic health records, epidemiological registries or longitudinal cohorts. 
+      The i2b2 framework is a well-established solution for such repositories, but it 
+      lacks support for importing and integrating clinical data and metadata. 
+      OBJECTIVES: The goal of this project was to develop a platform for easy 
+      integration and administration of data from heterogeneous sources, to provide 
+      capabilities for linking them to medical terminologies and to allow for 
+      transforming and mapping of data streams for user-specific views. METHODS: A 
+      suite of three tools has been developed: the i2b2 Wizard for simplifying 
+      administration of i2b2, the IDRT Import and Mapping Tool for loading clinical 
+      data from various formats like CSV, SQL, CDISC ODM or biobanks and the IDRT i2b2 
+      Web Client Plugin for advanced export options. The Import and Mapping Tool also 
+      includes an ontology editor for rearranging and mapping patient data and 
+      structures as well as annotating clinical data with medical terminologies, 
+      primarily those used in Germany (ICD-10-GM, OPS, ICD-O, etc.). RESULTS: With the 
+      three tools functional, new i2b2-based research projects can be created, 
+      populated and customized to researcher's needs in a few hours. Amalgamating data 
+      and metadata from different databases can be managed easily. With regards to data 
+      privacy a pseudonymization service can be plugged in. Using common ontologies and 
+      reference terminologies rather than project-specific ones leads to a consistent 
+      understanding of the data semantics. CONCLUSIONS: i2b2's promise is to enable 
+      clinical researchers to devise and test new hypothesis even without a deep 
+      knowledge in statistical programing. The approach presented here has been tested 
+      in a number of scenarios with millions of observations and tens of thousands of 
+      patients. Initially mostly observant, trained researchers were able to construct 
+      new analyses on their own. Early feedback indicates that timely and extensive 
+      access to their "own" data is appreciated most, but it is also lowering the 
+      barrier for other tasks, for instance checking data quality and completeness 
+      (missing data, wrong coding).
+FAU - Bauer, C R K D
+AU  - Bauer CR
+AD  - Christian Bauer, University Medical Center Göttingen, University of Göttingen, 
+      Robert-Koch-Straße 40, 37075 Göttingen, Germany, E-mail: 
+      christian.bauer@med.uni-goettingen.de.
+FAU - Ganslandt, T
+AU  - Ganslandt T
+FAU - Baum, B
+AU  - Baum B
+FAU - Christoph, J
+AU  - Christoph J
+FAU - Engel, I
+AU  - Engel I
+FAU - Löbe, M
+AU  - Löbe M
+FAU - Mate, S
+AU  - Mate S
+FAU - Stäubert, S
+AU  - Stäubert S
+FAU - Drepper, J
+AU  - Drepper J
+FAU - Prokosch, H-U
+AU  - Prokosch HU
+FAU - Winter, A
+AU  - Winter A
+FAU - Sax, U
+AU  - Sax U
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151104
+PL  - Germany
+TA  - Methods Inf Med
+JT  - Methods of information in medicine
+JID - 0210453
+SB  - IM
+MH  - *Database Management Systems
+MH  - *Health Information Systems
+MH  - Internet
+MH  - Translational Research, Biomedical
+OTO - NOTNLM
+OT  - Clinical data warehouse
+OT  - controlled vocabularies
+OT  - data integration
+OT  - information storage and retrieval
+OT  - secondary use
+EDAT- 2015/11/05 06:00
+MHDA- 2017/01/10 06:00
+CRDT- 2015/11/05 06:00
+PHST- 2015/07/03 00:00 [received]
+PHST- 2015/09/15 00:00 [accepted]
+PHST- 2015/11/05 06:00 [entrez]
+PHST- 2015/11/05 06:00 [pubmed]
+PHST- 2017/01/10 06:00 [medline]
+AID - 15-01-0082 [pii]
+AID - 10.3414/ME15-01-0082 [doi]
+PST - ppublish
+SO  - Methods Inf Med. 2016;55(2):125-35. doi: 10.3414/ME15-01-0082. Epub 2015 Nov 4.
+
+PMID- 31592524
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210304
+LR  - 20211204
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Print)
+IS  - 1067-5027 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2020 Jan 1
+TI  - Leaf: an open-source, model-agnostic, data-driven web application for cohort 
+      discovery and translational biomedical research.
+PG  - 109-118
+LID - 10.1093/jamia/ocz165 [doi]
+AB  - OBJECTIVE: Academic medical centers and health systems are increasingly 
+      challenged with supporting appropriate secondary use of clinical data. Enterprise 
+      data warehouses have emerged as central resources for these data, but often 
+      require an informatician to extract meaningful information, limiting direct 
+      access by end users. To overcome this challenge, we have developed Leaf, a 
+      lightweight self-service web application for querying clinical data from 
+      heterogeneous data models and sources. MATERIALS AND METHODS: Leaf utilizes a 
+      flexible biomedical concept system to define hierarchical concepts and 
+      ontologies. Each Leaf concept contains both textual representations and SQL query 
+      building blocks, exposed by a simple drag-and-drop user interface. Leaf generates 
+      abstract syntax trees which are compiled into dynamic SQL queries. RESULTS: Leaf 
+      is a successful production-supported tool at the University of Washington, which 
+      hosts a central Leaf instance querying an enterprise data warehouse with over 300 
+      active users. Through the support of UW Medicine (https://uwmedicine.org), the 
+      Institute of Translational Health Sciences (https://www.iths.org), and the 
+      National Center for Data to Health (https://ctsa.ncats.nih.gov/cd2h/), Leaf 
+      source code has been released into the public domain at 
+      https://github.com/uwrit/leaf. DISCUSSION: Leaf allows the querying of single or 
+      multiple clinical databases simultaneously, even those of different data models. 
+      This enables fast installation without costly extraction or duplication. 
+      CONCLUSIONS: Leaf differs from existing cohort discovery tools because it does 
+      not specify a required data model and is designed to seamlessly leverage existing 
+      user authentication systems and clinical databases in situ. We believe Leaf to be 
+      useful for health system analytics, clinical research data warehouses, precision 
+      medicine biobanks, and clinical studies involving large patient cohorts.
+CI  - © The Author(s) 2019. Published by Oxford University Press on behalf of the 
+      American Medical Informatics Association.
+FAU - Dobbins, Nicholas J
+AU  - Dobbins NJ
+AD  - Department of Biomedical Informatics and Medical Education, UW Medicine Research 
+      IT, University of Washington, Seattle, Washington, USA.
+FAU - Spital, Clifford H
+AU  - Spital CH
+AD  - UW Medicine Research IT, University of Washington, Seattle, Washington, USA.
+FAU - Black, Robert A
+AU  - Black RA
+AD  - Population Health Analytics, University of Washington, Seattle, Washington, USA.
+FAU - Morrison, Jason M
+AU  - Morrison JM
+AD  - Clinical Research Informatics, St. Jude's Children's Research Hospital, Memphis, 
+      Tennessee, USA.
+FAU - de Veer, Bas
+AU  - de Veer B
+AD  - UW Medicine Research IT, University of Washington, Seattle, Washington, USA.
+FAU - Zampino, Elizabeth
+AU  - Zampino E
+AD  - UW Medicine Research IT, University of Washington, Seattle, Washington, USA.
+FAU - Harrington, Robert D
+AU  - Harrington RD
+AD  - Department of Medicine, Division of Infectious Disease, University of Washington, 
+      Seattle, Washington, USA.
+FAU - Britt, Bethene D
+AU  - Britt BD
+AD  - UW Medicine Analytics, University of Washington, Seattle, Washington, USA.
+FAU - Stephens, Kari A
+AU  - Stephens KA
+AD  - Department of Psychiatry and Behavioral Sciences, University of Washington, 
+      Seattle, Washington, USA.
+FAU - Wilcox, Adam B
+AU  - Wilcox AB
+AD  - Department of Biomedical Informatics and Medical Education, University of 
+      Washington, Seattle, Washington, USA.
+FAU - Tarczy-Hornoch, Peter
+AU  - Tarczy-Hornoch P
+AD  - Department of Biomedical Informatics and Medical Education, University of 
+      Washington, Seattle, Washington, USA.
+FAU - Mooney, Sean D
+AU  - Mooney SD
+AD  - Department of Biomedical Informatics and Medical Education, University of 
+      Washington, Seattle, Washington, USA.
+LA  - eng
+GR  - U24 TR002306/TR/NCATS NIH HHS/United States
+GR  - UL1 TR002319/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - *Data Warehousing
+MH  - Databases as Topic
+MH  - Humans
+MH  - Information Storage and Retrieval/*methods
+MH  - Internet
+MH  - *Translational Research, Biomedical
+MH  - Unified Medical Language System
+MH  - *User-Computer Interface
+MH  - *Vocabulary, Controlled
+PMC - PMC6913227
+OTO - NOTNLM
+OT  - biomedical informatics
+OT  - cloud computing
+OT  - cohort discovery
+OT  - data integration
+OT  - leaf
+OT  - observational health data sciences and informatics
+EDAT- 2019/10/09 06:00
+MHDA- 2021/03/05 06:00
+CRDT- 2019/10/09 06:00
+PHST- 2019/05/08 00:00 [received]
+PHST- 2019/08/20 00:00 [revised]
+PHST- 2019/08/28 00:00 [accepted]
+PHST- 2019/10/09 06:00 [pubmed]
+PHST- 2021/03/05 06:00 [medline]
+PHST- 2019/10/09 06:00 [entrez]
+AID - 5583724 [pii]
+AID - ocz165 [pii]
+AID - 10.1093/jamia/ocz165 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2020 Jan 1;27(1):109-118. doi: 10.1093/jamia/ocz165.
+
+PMID- 14668226
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040817
+LR  - 20191210
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 19
+IP  - 18
+DP  - 2003 Dec 12
+TI  - SEMEDA: ontology based semantic integration of biological databases.
+PG  - 2420-7
+AB  - MOTIVATION: Many molecular biological databases are implemented on relational 
+      Database Management Systems, which provide standard interfaces like JDBC and ODBC 
+      for data and metadata exchange. By using these interfaces, many technical 
+      problems of database integration vanish and issues related to semantics remain, 
+      e.g. the use of different terms for the same things, different names for 
+      equivalent database attributes and missing links between relevant entries in 
+      different databases. RESULTS: In this publication, principles and methods that 
+      were used to implement SEMEDA (Semantic Meta Database) are described. Database 
+      owners can use SEMEDA to provide semantically integrated access to their 
+      databases as well as to collaboratively edit and maintain ontologies and 
+      controlled vocabularies. Biologists can use SEMEDA to query the integrated 
+      databases in real time without having to know the structure or any technical 
+      details of the underlying databases. AVAILABILITY: SEMEDA is available at 
+      http://www-bm.ipk-gatersleben.de/semeda/. Database providers who intend to grant 
+      access to their databases via SEMEDA are encouraged to contact the authors.
+FAU - Köhler, Jacob
+AU  - Köhler J
+AD  - AG Bioinformatics, Technical Faculty, Bielefeld University, Germany. 
+      jacob.koehler@uni-bielefeld.de
+FAU - Philippi, Stephan
+AU  - Philippi S
+FAU - Lange, Matthias
+AU  - Lange M
+LA  - eng
+PT  - Comparative Study
+PT  - Evaluation Study
+PT  - Journal Article
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - Computational Biology/methods
+MH  - *Database Management Systems
+MH  - *Databases, Factual
+MH  - Information Storage and Retrieval/*methods
+MH  - *Natural Language Processing
+MH  - Semantics
+MH  - Systems Integration
+MH  - *Terminology as Topic
+MH  - User-Computer Interface
+MH  - *Vocabulary, Controlled
+EDAT- 2003/12/12 05:00
+MHDA- 2004/08/18 05:00
+CRDT- 2003/12/12 05:00
+PHST- 2003/12/12 05:00 [pubmed]
+PHST- 2004/08/18 05:00 [medline]
+PHST- 2003/12/12 05:00 [entrez]
+AID - 10.1093/bioinformatics/btg340 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2003 Dec 12;19(18):2420-7. doi: 10.1093/bioinformatics/btg340.
+
+PMID- 22163378
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211021
+IS  - 0925-9902 (Print)
+IS  - 1573-7675 (Electronic)
+IS  - 0925-9902 (Linking)
+VI  - 37
+IP  - 2
+DP  - 2011 Oct
+TI  - Using ontology databases for scalable query answering, inconsistency detection, 
+      and data integration.
+PG  - 217-244
+AB  - An ontology database is a basic relational database management system that models 
+      an ontology plus its instances. To reason over the transitive closure of 
+      instances in the subsumption hierarchy, for example, an ontology database can 
+      either unfold views at query time or propagate assertions using triggers at load 
+      time. In this paper, we use existing benchmarks to evaluate our method-using 
+      triggers-and we demonstrate that by forward computing inferences, we not only 
+      improve query time, but the improvement appears to cost only more space (not 
+      time). However, we go on to show that the true penalties were simply opaque to 
+      the benchmark, i.e., the benchmark inadequately captures load-time costs. We have 
+      applied our methods to two case studies in biomedicine, using ontologies and data 
+      from genetics and neuroscience to illustrate two important applications: first, 
+      ontology databases answer ontology-based queries effectively; second, using 
+      triggers, ontology databases detect instance-based inconsistencies-something not 
+      possible using views. Finally, we demonstrate how to extend our methods to 
+      perform data integration across multiple, distributed ontology databases.
+FAU - Lependu, Paea
+AU  - Lependu P
+AD  - Computer and Information Science Department, University of Oregon, Eugene, OR 
+      97403, USA.
+FAU - Dou, Dejing
+AU  - Dou D
+LA  - eng
+GR  - R01 EB007684/EB/NIBIB NIH HHS/United States
+GR  - R01 EB007684-02/EB/NIBIB NIH HHS/United States
+GR  - R01 EB007684-03/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - J Intell Inf Syst
+JT  - Journal of intelligent information systems
+JID - 101529504
+PMC - PMC3230227
+MID - NIHMS280528
+EDAT- 2011/12/14 06:00
+MHDA- 2011/12/14 06:01
+CRDT- 2011/12/14 06:00
+PHST- 2011/12/14 06:00 [entrez]
+PHST- 2011/12/14 06:00 [pubmed]
+PHST- 2011/12/14 06:01 [medline]
+AID - 10.1007/s10844-010-0133-4 [doi]
+PST - ppublish
+SO  - J Intell Inf Syst. 2011 Oct;37(2):217-244. doi: 10.1007/s10844-010-0133-4.
+
+PMID- 23244467
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20130128
+LR  - 20211021
+IS  - 2041-1480 (Electronic)
+VI  - 3
+IP  - 1
+DP  - 2012 Dec 17
+TI  - COEUS: "semantic web in a box" for biomedical applications.
+PG  - 11
+LID - 10.1186/2041-1480-3-11 [doi]
+AB  - BACKGROUND: As the "omics" revolution unfolds, the growth in data quantity and 
+      diversity is bringing about the need for pioneering bioinformatics software, 
+      capable of significantly improving the research workflow. To cope with these 
+      computer science demands, biomedical software engineers are adopting emerging 
+      semantic web technologies that better suit the life sciences domain. The latter's 
+      complex relationships are easily mapped into semantic web graphs, enabling a 
+      superior understanding of collected knowledge. Despite increased awareness of 
+      semantic web technologies in bioinformatics, their use is still limited. RESULTS: 
+      COEUS is a new semantic web framework, aiming at a streamlined application 
+      development cycle and following a "semantic web in a box" approach. The framework 
+      provides a single package including advanced data integration and triplification 
+      tools, base ontologies, a web-oriented engine and a flexible exploration API. 
+      Resources can be integrated from heterogeneous sources, including CSV and XML 
+      files or SQL and SPARQL query results, and mapped directly to one or more 
+      ontologies. Advanced interoperability features include REST services, a SPARQL 
+      endpoint and LinkedData publication. These enable the creation of multiple 
+      applications for web, desktop or mobile environments, and empower a new knowledge 
+      federation layer. CONCLUSIONS: The platform, targeted at biomedical application 
+      developers, provides a complete skeleton ready for rapid application deployment, 
+      enhancing the creation of new semantic information systems. COEUS is available as 
+      open source at http://bioinformatics.ua.pt/coeus/.
+FAU - Lopes, Pedro
+AU  - Lopes P
+AD  - DETI/IEETA, Universidade de Aveiro, Campus Universitário de Santiago, Aveiro, 
+      3810 - 193, Portugal. pedrolopes@ua.pt.
+FAU - Oliveira, José Luís
+AU  - Oliveira JL
+LA  - eng
+PT  - Journal Article
+DEP - 20121217
+PL  - England
+TA  - J Biomed Semantics
+JT  - Journal of biomedical semantics
+JID - 101531992
+PMC - PMC3554586
+EDAT- 2012/12/19 06:00
+MHDA- 2012/12/19 06:01
+CRDT- 2012/12/19 06:00
+PHST- 2012/03/21 00:00 [received]
+PHST- 2012/11/05 00:00 [accepted]
+PHST- 2012/12/19 06:00 [entrez]
+PHST- 2012/12/19 06:00 [pubmed]
+PHST- 2012/12/19 06:01 [medline]
+AID - 2041-1480-3-11 [pii]
+AID - 10.1186/2041-1480-3-11 [doi]
+PST - epublish
+SO  - J Biomed Semantics. 2012 Dec 17;3(1):11. doi: 10.1186/2041-1480-3-11.
+
+PMID- 19796394
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100212
+LR  - 20230107
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 10 Suppl 10
+IP  - Suppl 10
+DP  - 2009 Oct 1
+TI  - A journey to Semantic Web query federation in the life sciences.
+PG  - S10
+LID - 10.1186/1471-2105-10-S10-S10 [doi]
+LID - S10
+AB  - BACKGROUND: As interest in adopting the Semantic Web in the biomedical domain 
+      continues to grow, Semantic Web technology has been evolving and maturing. A 
+      variety of technological approaches including triplestore technologies, SPARQL 
+      endpoints, Linked Data, and Vocabulary of Interlinked Datasets have emerged in 
+      recent years. In addition to the data warehouse construction, these technological 
+      approaches can be used to support dynamic query federation. As a community 
+      effort, the BioRDF task force, within the Semantic Web for Health Care and Life 
+      Sciences Interest Group, is exploring how these emerging approaches can be 
+      utilized to execute distributed queries across different neuroscience data 
+      sources. METHODS AND RESULTS: We have created two health care and life science 
+      knowledge bases. We have explored a variety of Semantic Web approaches to 
+      describe, map, and dynamically query multiple datasets. We have demonstrated 
+      several federation approaches that integrate diverse types of information about 
+      neurons and receptors that play an important role in basic, clinical, and 
+      translational neuroscience research. Particularly, we have created a prototype 
+      receptor explorer which uses OWL mappings to provide an integrated list of 
+      receptors and executes individual queries against different SPARQL endpoints. We 
+      have also employed the AIDA Toolkit, which is directed at groups of knowledge 
+      workers who cooperatively search, annotate, interpret, and enrich large 
+      collections of heterogeneous documents from diverse locations. We have explored a 
+      tool called "FeDeRate", which enables a global SPARQL query to be decomposed into 
+      subqueries against the remote databases offering either SPARQL or SQL query 
+      interfaces. Finally, we have explored how to use the vocabulary of interlinked 
+      Datasets (voiD) to create metadata for describing datasets exposed as Linked Data 
+      URIs or SPARQL endpoints. CONCLUSION: We have demonstrated the use of a set of 
+      novel and state-of-the-art Semantic Web technologies in support of a neuroscience 
+      query federation scenario. We have identified both the strengths and weaknesses 
+      of these technologies. While Semantic Web offers a global data model including 
+      the use of Uniform Resource Identifiers (URI's), the proliferation of 
+      semantically-equivalent URI's hinders large scale data integration. Our work 
+      helps direct research and tool development, which will be of benefit to this 
+      community.
+FAU - Cheung, Kei-Hoi
+AU  - Cheung KH
+AD  - Center for Medical Informatics, Yale University School of Medicine, New Haven, CT 
+      06511, USA. kei.cheung@yale.edu
+FAU - Frost, H Robert
+AU  - Frost HR
+FAU - Marshall, M Scott
+AU  - Marshall MS
+FAU - Prud'hommeaux, Eric
+AU  - Prud'hommeaux E
+FAU - Samwald, Matthias
+AU  - Samwald M
+FAU - Zhao, Jun
+AU  - Zhao J
+FAU - Paschke, Adrian
+AU  - Paschke A
+LA  - eng
+GR  - P01 DC004732/DC/NIDCD NIH HHS/United States
+GR  - U24 NS051869/NS/NINDS NIH HHS/United States
+GR  - P01 DC04732/DC/NIDCD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20091001
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - Biological Science Disciplines
+MH  - Computational Biology/*methods
+MH  - Databases, Factual
+MH  - Information Dissemination/*methods
+MH  - Information Storage and Retrieval
+MH  - *Internet
+MH  - *Semantics
+PMC - PMC2755818
+EDAT- 2009/10/07 06:00
+MHDA- 2010/02/13 06:00
+CRDT- 2009/10/03 06:00
+PHST- 2009/10/03 06:00 [entrez]
+PHST- 2009/10/07 06:00 [pubmed]
+PHST- 2010/02/13 06:00 [medline]
+AID - 1471-2105-10-S10-S10 [pii]
+AID - 3378 [pii]
+AID - 10.1186/1471-2105-10-S10-S10 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2009 Oct 1;10 Suppl 10(Suppl 10):S10. doi: 
+      10.1186/1471-2105-10-S10-S10.
+
+PMID- 12520030
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030314
+LR  - 20190501
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 31
+IP  - 1
+DP  - 2003 Jan 1
+TI  - iProClass: an integrated database of protein family, function and structure 
+      information.
+PG  - 390-2
+AB  - The iProClass database provides comprehensive, value-added descriptions of 
+      proteins and serves as a framework for data integration in a distributed 
+      networking environment. The protein information in iProClass includes family 
+      relationships as well as structural and functional classifications and features. 
+      The current version consists of about 830 000 non-redundant PIR-PSD, SWISS-PROT, 
+      and TrEMBL proteins organized with more than 36 000 PIR superfamilies, 145 000 
+      families, 4000 domains, 1300 motifs and 550 000 FASTA similarity clusters. It 
+      provides rich links to over 50 database of protein sequences, families, functions 
+      and pathways, protein-protein interactions, post-translational modifications, 
+      protein expressions, structures and structural classifications, genes and 
+      genomes, ontologies, literature and taxonomy. Protein and superfamily summary 
+      reports present extensive annotation information and include membership 
+      statistics and graphical display of domains and motifs. iProClass employs an open 
+      and modular architecture for interoperability and scalability. It is implemented 
+      in the Oracle object-relational database system and is updated biweekly. The 
+      database is freely accessible from the web site at 
+      http://pir.georgetown.edu/iproclass/ and searchable by sequence or text string. 
+      The data integration in iProClass supports exploration of protein relationships. 
+      Such knowledge is fundamental to the understanding of protein evolution, 
+      structure and function and crucial to functional genomic and proteomic research.
+FAU - Huang, Hongzhan
+AU  - Huang H
+AD  - Department of Biochemistry and Molecular Biology, Georgetown University Medical 
+      Center, 3900 Reservoir Road, NW, Box 571414, Washington, DC 20057-1414, USA.
+FAU - Barker, Winona C
+AU  - Barker WC
+FAU - Chen, Yongxing
+AU  - Chen Y
+FAU - Wu, Cathy H
+AU  - Wu CH
+LA  - eng
+GR  - P41 LM05798/LM/NLM NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Amino Acid Motifs
+MH  - Animals
+MH  - *Databases, Protein
+MH  - Humans
+MH  - Information Storage and Retrieval
+MH  - Protein Structure, Tertiary
+MH  - *Proteins/chemistry/classification/physiology
+MH  - Sequence Homology, Amino Acid
+PMC - PMC165491
+EDAT- 2003/01/10 04:00
+MHDA- 2003/03/15 04:00
+CRDT- 2003/01/10 04:00
+PHST- 2003/01/10 04:00 [pubmed]
+PHST- 2003/03/15 04:00 [medline]
+PHST- 2003/01/10 04:00 [entrez]
+AID - gkg044 [pii]
+AID - 10.1093/nar/gkg044 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2003 Jan 1;31(1):390-2. doi: 10.1093/nar/gkg044.
+
+PMID- 15853268
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050526
+LR  - 20061115
+IS  - 0926-9630 (Print)
+IS  - 0926-9630 (Linking)
+VI  - 102
+DP  - 2004
+TI  - Evolving from standard vocabularies to formal ontology for an information system 
+      dedicated to organ transplantation.
+PG  - 132-44
+AB  - Semantic heterogeneity is a key issue in the deployment of medical applications. 
+      In this paper, we examine solutions to address semantic heterogeneity for a 
+      complex organ transplantation information system. The information system that has 
+      been developed by the French agency for transplantation (EfG) has to gather 
+      medical information concerning patients and donors for organ allocation, 
+      epidemiological studies, and public health decisions. We analyze in this context 
+      the limits of the traditional approach based on a standard vocabulary and a 
+      relational database for the transplantation domain. We present its evolution 
+      towards a system that combines a terminology server and a data warehouse. The 
+      perspective is now to build a formal ontology that may support semantic 
+      integration in an advanced transplantation information system. Two open issues in 
+      formal ontology design are discussed. First, providing definitions of all medical 
+      concepts is not an obvious task if we want those definitions be meaningful, 
+      formal, and compatible with other ontologies. Second, propagation of properties 
+      along relations raises the needs for extending description logics with rules.
+FAU - Burgun, Anita
+AU  - Burgun A
+AD  - Laboratoire d'lnformatique Médicale, Faculté de Médecine, 2 avenue du Pr Léon 
+      Bernard, Rennes, France. Anita.Burgun@univ-rennes1.fr
+FAU - Golbreich, Christine
+AU  - Golbreich C
+FAU - Jacquelinet, Christian
+AU  - Jacquelinet C
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - France
+MH  - Humans
+MH  - Information Storage and Retrieval
+MH  - *Information Systems
+MH  - *Organ Transplantation
+MH  - Systems Integration
+MH  - *Vocabulary, Controlled
+EDAT- 2005/04/28 09:00
+MHDA- 2005/05/27 09:00
+CRDT- 2005/04/28 09:00
+PHST- 2005/04/28 09:00 [pubmed]
+PHST- 2005/05/27 09:00 [medline]
+PHST- 2005/04/28 09:00 [entrez]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2004;102:132-44.
+
+PMID- 18048193
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080103
+LR  - 20190805
+IS  - 1744-5485 (Print)
+IS  - 1744-5485 (Linking)
+VI  - 3
+IP  - 3
+DP  - 2007
+TI  - A case study of integrating protein interaction data using semantic web 
+      technology.
+PG  - 286-302
+AB  - We describe a new ontology-driven semantic data integration approach for 
+      post-genome biology studies. Here, a view-based global schema can be 
+      automatically generated by merging RDF schemas from local databases. The semantic 
+      inconsistency of the merged schema is resolved by the creation of 'RDF ontology 
+      maps'. Data querying capability is accomplished with a virtual data repository, 
+      in which a D2RQ-based 'relational-to-RDF' map is developed to link schema to the 
+      relational database backend. With sample RDQL queries, we demonstrate that our 
+      approach significantly simplifies the retrieval of human protein interaction data 
+      from different databases containing hundreds of thousands of records.
+FAU - Dhanapalan, Lavanya
+AU  - Dhanapalan L
+AD  - Department of Computer and Information Science, Purdue University School of 
+      Science, Indiana University, Purdue University Indianapolis, Indianapolis, 
+      Indiana 46202-5132, USA. ldhanapa@iupui.edu
+FAU - Chen, Jake Yue
+AU  - Chen JY
+LA  - eng
+PT  - Journal Article
+PL  - Switzerland
+TA  - Int J Bioinform Res Appl
+JT  - International journal of bioinformatics research and applications
+JID - 101253758
+SB  - IM
+MH  - Computational Biology
+MH  - Databases, Protein
+MH  - Internet
+MH  - Protein Interaction Mapping/*statistics & numerical data
+MH  - Semantics
+MH  - Software
+MH  - User-Computer Interface
+EDAT- 2007/12/01 09:00
+MHDA- 2008/01/04 09:00
+CRDT- 2007/12/01 09:00
+PHST- 2007/12/01 09:00 [pubmed]
+PHST- 2008/01/04 09:00 [medline]
+PHST- 2007/12/01 09:00 [entrez]
+AID - K667221H24685802 [pii]
+AID - 10.1504/IJBRA.2007.015004 [doi]
+PST - ppublish
+SO  - Int J Bioinform Res Appl. 2007;3(3):286-302. doi: 10.1504/IJBRA.2007.015004.

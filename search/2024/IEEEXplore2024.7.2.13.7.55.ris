@@ -1,0 +1,356 @@
+TY  - CONF
+TI  - OBDF: OBDA + Data Federation – Extended Abstract
+T2  - 2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW)
+SP  - 381
+EP  - 383
+AU  - Z. Gu
+AU  - D. Calvanese
+AU  - M. D. Panfilo
+AU  - D. Lanti
+AU  - A. Mosca
+AU  - G. Xiao
+PY  - 2024
+KW  - Soft sensors
+KW  - Conferences
+KW  - Merging
+KW  - Relational databases
+KW  - Ontologies
+KW  - Big Data
+KW  - Data engineering
+KW  - OBDA
+KW  - VKG
+KW  - OBDF
+KW  - Data Federation
+KW  - Query Optimization
+DO  - 10.1109/ICDEW61823.2024.00060
+JO  - 2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW)
+IS  - 
+SN  - 2473-3490
+VO  - 
+VL  - 
+JA  - 2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW)
+Y1  - 13-16 May 2024
+AB  - Ontology-Based Data Access (OBDA) has emerged as a well-established approach to information management, facilitating access to a sole relational relational database via a high-level ontology and declarative mappings. In response to the challenges posed by Big Data, we propose the Ontology-Based Data Federation (OBDF) framework, which merges OBDA with Data Federation. This merging allows for the integration of numerous, distributed, and heterogeneous data sources in a virtual, uniform, and semantically coherent fashion.
+ER  - 
+
+TY  - JOUR
+TI  - On the Use of Virtual Knowledge Graphs to Improve Environmental Sensor Data Accessibility
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 6671
+EP  - 6682
+AU  - J. Wu
+AU  - F. Orlandi
+AU  - D. O'Sullivan
+AU  - S. Dev
+PY  - 2024
+KW  - Knowledge graphs
+KW  - Semantics
+KW  - Triples (Data structure)
+KW  - Data models
+KW  - Interoperability
+KW  - Time series analysis
+KW  - Structured Query Language
+KW  - Environmental sensor networks (ESNs)
+KW  - ontology-based data access
+KW  - structured query language (SQL) databases
+KW  - virtual knowledge graphs (VKGs)
+DO  - 10.1109/JSTARS.2024.3370389
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 
+SN  - 2151-1535
+VO  - 17
+VL  - 17
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - 2024
+AB  - The rapid proliferation of environmental sensor networks (ESNs) used for monitoring environmental systems, such as meteorology and air quality, and advances in database technologies [e.g., structured query language (SQL)] has made significant progress in sensor data management. Notwithstanding the strength of these databases, they can inevitably lead to a data heterogeneity problem as a result of isolated databases with distinct data schema, which are expensive to be accessed and preprocessed when the data are consumed spanning multiple databases. Recently, knowledge graphs have been used as one of the most popular integration frameworks to address this data heterogeneity problem from the perspective of establishing an interoperable semantic schema (also known as ontology). However, the majority of the proposed knowledge graphs in this domain are a product of an extraction–transform–load approach with all the data physically stored in a triplestore. In contrast, this article examines an approach of virtualizing knowledge graphs on top of the SQL databases as the means to provide a federated data integration approach for enhanced heterogeneous ESNs' data access, bringing with it the promise of more cost efficiency in terms of input/output, storage, etc. In addition, this work also considers some motivating application scenarios regarding the efficiency of time-series data access. Based on a performance comparison between the proposed integration approach and some popular triplestores, the proposed approach has a significant edge over triplestores in multiple time-series structuring and acquisition.
+ER  - 
+
+TY  - CONF
+TI  - Transforming Relational Databases into OWL Ontology: Methods and Perspectives
+T2  - 2023 IEEE 3rd International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)
+SP  - 452
+EP  - 456
+AU  - M. F. Gebril
+AU  - A. M. Maatuk
+AU  - A. A. Alamrouni
+AU  - E. K. Elberkawi
+PY  - 2023
+KW  - Computers
+KW  - Conferences
+KW  - Computational modeling
+KW  - OWL
+KW  - Semantics
+KW  - Relational databases
+KW  - Ontologies
+KW  - Semantic Web
+KW  - Relational Database
+KW  - Web Ontology Language (OWL)
+KW  - Ontologies
+KW  - Ontology Mapping
+KW  - Big Data
+DO  - 10.1109/MI-STA57575.2023.10169181
+JO  - 2023 IEEE 3rd International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE 3rd International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)
+Y1  - 21-23 May 2023
+AB  - In recent years, the amount of data has become steadily larger than it used to be, resulting in the emergence of so-called big data, which makes it very difficult to handle and query data stored in traditional database systems such as relational databases. This led to the need for ontology to simplify and facilitate compliance with data models and querying them both for humans to make them meaningful and for computers to make the process easier. This paper aims to review and discuss methods for mapping an immigrating relational database to OWL ontologies. The results showed that ontology is still unable to produce the data required by a single ontology mapping. Rather, each case needs different rules that can be combined in the future to make a better ontology model along with the help of artificial intelligence and data mining to collect the required data.
+ER  - 
+
+TY  - CONF
+TI  - Ontological Modeling of Climate Data to Improve Climate Analytics
+T2  - IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium
+SP  - 2317
+EP  - 2320
+AU  - J. Wu
+AU  - F. Orlandi
+AU  - D. O’Sullivan
+AU  - S. Dev
+PY  - 2023
+KW  - Data analysis
+KW  - Linked data
+KW  - W3C
+KW  - Geoscience and remote sensing
+KW  - Knowledge graphs
+KW  - Ontologies
+KW  - Metadata
+KW  - Climate Data Analytics
+KW  - Virtual Knowledge Graphs
+KW  - Linked Geospatial Data
+KW  - GeoSPARQL
+DO  - 10.1109/IGARSS52108.2023.10282269
+JO  - IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-7003
+VO  - 
+VL  - 
+JA  - IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium
+Y1  - 16-21 July 2023
+AB  - Climate data is a valuable resource for understanding past weather patterns, assessing long-term climate trends, and conducting climate-related research. However, most existing knowledge graphs for climate data rely heavily on the standardized (per W3C recommendations) SOSA/SSN ontology, which can help improve general data accessibility, but typically overlooks the analytical applications of multisource climate data. To further enhance the accessibility of heterogeneous data for climate data analytics, this paper extends the CA ontology and implements a virtual knowledge graph for analytical applications. We emphasize the importance of incorporating observation metadata and geospatial representation into analytical applications. Through our study, we demonstrate the applicability of the proposed ontological model in deriving the ETCCDI indices. An example of the formation of the annual maximum daily temperature is given. Furthermore, we showcase the potential of LinkedGeoData in providing a more comprehensive geographical context for accessing climate data within the knowledge graph, leveraging the proposed ontological modeling and linked data principles.
+ER  - 
+
+TY  - CONF
+TI  - Supporting Practical URI Mappings in Virtual Knowledge Graph-based Relational Data Integration
+T2  - 2023 IEEE International Conference on Big Data (BigData)
+SP  - 2958
+EP  - 2964
+AU  - S. Sato
+AU  - T. Masuda
+AU  - T. Amagasa
+PY  - 2023
+KW  - Query processing
+KW  - Data integration
+KW  - Relational databases
+KW  - Knowledge graphs
+KW  - Big Data
+KW  - Resource description framework
+KW  - Database languages
+KW  - query rewriting
+KW  - RDF
+KW  - SPARQL
+KW  - data integration
+DO  - 10.1109/BigData59044.2023.10386274
+JO  - 2023 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2023
+AB  - In this paper, we address the problem of mapping identifiers in non-RDF data to URIs. Virtual knowledge graphs (VKGs), where non-RDF data, such as relational databases, CSV files, etc., are published as RDF data, allowing users to access them using a standard query language (SPARQL), has been gaining much attention to integrating heterogeneous data. There have been several VKG systems, but there has been a problem of assigning an appropriate URI to an entity included in a record, and existing systems only support simple methods to generate a URI by adding a URI prefix to the ID value in a record. However, in practice, more complex mappings are needed to meet the demands of real applications. To address this problem, we proposed to extend the relation-to-RDF mapping rules where users are allowed to specify how entities in relations are mapped to URIs in terms of a user-defined URI function. More precisely, we integrate this method into our relation-to-RDF mapping framework. We conduct a set of experiments to assess the feasibility of the proposed method.
+ER  - 
+
+TY  - CONF
+TI  - An Improved Data Management Approach for IoT-Enabled Smart Healthcare: Integrating Semantic Web and Reinforcement Learning
+T2  - 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 1471
+EP  - 1475
+AU  - A. Turkmen
+AU  - O. Can
+PY  - 2023
+KW  - Semantic Web
+KW  - Soft sensors
+KW  - Data integration
+KW  - Medical services
+KW  - Reinforcement learning
+KW  - Ontologies
+KW  - Real-time systems
+KW  - Ontology
+KW  - Data Access
+KW  - Semantic Web
+KW  - Query
+KW  - Reinforcement Learning
+KW  - Internet of Things (IoT)
+KW  - Healthcare
+DO  - 10.1109/COMPSAC57700.2023.00226
+JO  - 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 0730-3157
+VO  - 
+VL  - 
+JA  - 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 26-30 June 2023
+AB  - Smart healthcare systems that are able to monitor and manage patients' health in real-time have emerged as a result of the Internet of Things (IoT)-enabled healthcare systems. However, the volume of data created by IoT devices makes data management more challenging in the healthcare industry. Thus, Reinforcement Learning (RL) and Ontology-Based Data Access (OBDA) have been suggested as approaches to address these issues. RL enables computers to learn from their surroundings by making mistakes. Hence, it is used to enhance data management procedures by recognizing patterns in the data and automatically adapting to changes in the data environment. OBDA provides interoperability and data integration through the usage of ontologies that offer a common language and shared understanding of data. Moreover, OBDA allows effective query processing and the smooth integration of several heterogeneous data sources. Ontologies provide formal representations for concepts and their relationships and facilitate the integration of data from multiple sources by overcoming the variety and variability of data. In this study, an OBDA-based approach for IoT-enabled smart healthcare systems is proposed. The proposed approach integrates OBDA with RL to enhance data management and leverages OBDA to offer a common understanding of data across various healthcare applications by supporting effective data integration and interoperability. Therefore, the paper investigates the usage of OBDA and RL to integrate diverse data sources, adjust index architectures, learn from query patterns, and enhance query performance. Thus, the proposed approach offers a promising solution for handling the vast amounts of data produced by IoT-enabled smart healthcare systems. Besides, the query performance will be optimized and query response time will be decreased.
+ER  - 
+
+TY  - JOUR
+TI  - LUBM4OBDA: Benchmarking OBDA Systems with Inference and Meta Knowledge
+T2  - Journal of Web Engineering
+SP  - 1163
+EP  - 1185
+AU  - J. Arenas-Guerrero
+AU  - M. S. Pérez
+AU  - O. Corcho
+PY  - 2023
+KW  - Relational databases
+KW  - Benchmark testing
+KW  - Ontologies
+KW  - Resource description framework
+KW  - Data models
+KW  - Proposals
+KW  - Virtualization
+KW  - OBDA
+KW  - semantic web
+KW  - ontology
+KW  - data integration
+DO  - 10.13052/jwe1540-9589.2284
+JO  - Journal of Web Engineering
+IS  - 8
+SN  - 1544-5976
+VO  - 22
+VL  - 22
+JA  - Journal of Web Engineering
+Y1  - November 2023
+AB  - Ontology-based data access focuses on enabling query evaluation over heterogeneous relational databases according to the model represented by an ontology. The relationships between the ontology and the data sources are commonly defined with declarative mappings, which are used by systems to perform SPARQL-to-SQL query translation or to generate RDF dumps from the relational databases. Besides the potential homogenization of data because of using an ontology, some additional advantages of this paradigm are that it may allow applying reasoning thanks to the ontology, as well as querying for meta knowledge, which describes statements with information such as provenance or certainty. In this paper, (i) we adapt a widely used RDF graph store benchmark, namely LUBM, for ontology-based data access, (ii) extend the benchmark for the evaluation of queries that exploit meta knowledge, and (iii) apply it for performance evaluation of state-of-the-art declarative mapping systems. Our proposal, the LUBM4OBDA Benchmark, considers inference capabilities that are not covered by previous ontology-based data access benchmarks, and it is the first one for the evaluation of meta knowledge and the RDF-star data model. The experimental evaluation shows that current virtualization systems cannot handle some advanced inference tasks, and that optimizations are needed to scale RDF-star materialization.
+ER  - 
+
+TY  - CONF
+TI  - Semantic Facilitation and Integration Layer for Process and Automation Engineering
+T2  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 1
+EP  - 9
+AU  - N. Schoch
+AU  - M. Hoernicke
+AU  - K. Stark
+PY  - 2023
+KW  - Semantics
+KW  - Process control
+KW  - Computer architecture
+KW  - Software systems
+KW  - Control systems
+KW  - Manufacturing automation
+KW  - Interoperability
+KW  - process & automation engineering
+KW  - ontology
+KW  - semantic interoperability
+KW  - tool integration
+DO  - 10.1109/ETFA54631.2023.10275675
+JO  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 12-15 Sept. 2023
+AB  - Looking at Process and Automation Engineering (P&AE) today, there are many different tools available to support the engineer in his work from translating engineering intentions, via describing modules, to defining entire process plant setups, for export to a control system. As of today, the tools to support these steps are rarely linked to each other and hence do not allow to communicate with each other or exchange knowledge or data. Therefore, we came up with the idea of the Semantic Facilitation & Integration Layer, SemFIL, an ontology-based software system and architecture, to overcome tool, knowledge, and data silos, and to facilitate integration of and interoperability between applications, especially in P&AE. In this work, we present and evaluate the concept of SemFIL, and how it allows to connect and integrate all P&AE tools into a powerful, comprehensive, integrated workflow. We conclude with a discussion of the proposed SemFIL, and list required efforts for as well as advantages from its implementation. Lastly, we give an outlook on the most relevant future research questions and directions.
+ER  - 
+
+TY  - JOUR
+TI  - Applications of Knowledge Graphs in Telecommunication Systems Management
+T2  - IEEE Internet Computing
+SP  - 29
+EP  - 34
+AU  - F. Javier Zorzano Mier
+AU  - C. Á. Iglesias
+PY  - 2023
+KW  - Ontologies
+KW  - Data models
+KW  - Monitoring
+KW  - Cloud computing
+KW  - Knowledge graphs
+KW  - Decision making
+KW  - Automation
+KW  - Telecommunication network management
+KW  - Systems engineering and theory
+DO  - 10.1109/MIC.2023.3253305
+JO  - IEEE Internet Computing
+IS  - 3
+SN  - 1941-0131
+VO  - 27
+VL  - 27
+JA  - IEEE Internet Computing
+Y1  - May-June 2023
+AB  - Telecommunications systems management represents a technical challenge with profound economic implications. Many different sources of information must be integrated, and complex decisions must be automatically taken and executed. In this article, we review the usage of knowledge graphs in this domain since they are a powerful tool for dealing with data integration and complex knowledge representation. The main insights are that they have been applied in several areas of telecommunications management, such as resource/service discovery and monitoring, with a particular focus on software-defined networks. Their main advantages are their extensibility and interoperability. However, data quality and graph performance are still challenges, and work is yet to be done for its application to the rest of the telecommunication management areas.
+ER  - 
+
+TY  - CONF
+TI  - Integrating Multi-Source Heterogeneous Fuzzy Spatiotemporal Data
+T2  - 2023 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC)
+SP  - 1
+EP  - 6
+AU  - L. Liu
+AU  - L. Huang
+AU  - D. Dai
+AU  - X. Zhang
+AU  - Y. Tian
+AU  - L. Ma
+AU  - Y. Liu
+AU  - Y. Li
+PY  - 2023
+KW  - Wireless communication
+KW  - Soft sensors
+KW  - Semantics
+KW  - XML
+KW  - Resource description framework
+KW  - Data models
+KW  - Spatiotemporal phenomena
+KW  - Data Integration
+KW  - DTD file
+KW  - XML Schema
+KW  - RDF Semantic Model
+KW  - Ontology
+DO  - 10.1109/ICMNWC60182.2023.10435732
+JO  - 2023 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC)
+Y1  - 4-5 Dec. 2023
+AB  - The fuzzy spatiotemporal data has obtained increasing attention with the high-speed development of seismic meteorological, and environmental data management. A lot of significant results has been achieved in integrating multi-source fuzzy heterogeneous data. However, there are some aspects could be improved. There are some inaccurate or redundant results due to semantic heterogeneity between different data sources. This paper defines a new fuzzy spatiotemporal semantic model and constructs an RDF global semantic model to solve it. This semantic model elaborates on the relationship between temporal, spatial, and fuzzy attributes of meteorological data. The accuracy of user queries has been improved through this model, which solves the problem of incomplete results caused by unclear query intentions. The existing integration process mainly converts relational data directly into RDF Schema, which cannot solve the problem of structural heterogeneity between different data sources. Our method utilizes the semi structured nature of XML Schema to solve this problem. Firstly, convert the relational data source into an XML Schema, then map the data from these two data sources to the RDF local semantic model, and then convert it into an RDF schema. Therefore, when the underlying structure is from different data sources, the global query view can be performed.
+ER  - 
+
+TY  - JOUR
+TI  - Data Lakes: A Survey of Functions and Systems
+T2  - IEEE Transactions on Knowledge and Data Engineering
+SP  - 12571
+EP  - 12590
+AU  - R. Hai
+AU  - C. Koutras
+AU  - C. Quix
+AU  - M. Jarke
+PY  - 2023
+KW  - Big Data applications
+KW  - Metadata
+KW  - Lakes
+KW  - Proposals
+KW  - Memory
+KW  - Semantics
+KW  - Maintenance engineering
+KW  - Data discovery
+KW  - data lake
+KW  - metadata management
+DO  - 10.1109/TKDE.2023.3270101
+JO  - IEEE Transactions on Knowledge and Data Engineering
+IS  - 12
+SN  - 1558-2191
+VO  - 35
+VL  - 35
+JA  - IEEE Transactions on Knowledge and Data Engineering
+Y1  - 1 Dec. 2023
+AB  - Data lakes are becoming increasingly prevalent for Big Data management and data analytics. In contrast to traditional ‘schema-on-write’ approaches such as data warehouses, data lakes are repositories storing raw data in its original formats and providing a common access interface. Despite the strong interest raised from both academia and industry, there is a large body of ambiguity regarding the definition, functions and available technologies for data lakes. A complete, coherent picture of data lake challenges and solutions is still missing. This survey reviews the development, architectures, and systems of data lakes. We provide a comprehensive overview of research questions for designing and building data lakes. We classify the existing approaches and systems based on their provided functions for data lakes, which makes this survey a useful technical reference for designing, implementing and deploying data lakes. We hope that the thorough comparison of existing solutions and the discussion of open research challenges in this survey will motivate the future development of data lake research and practice.
+ER  - 
+
+

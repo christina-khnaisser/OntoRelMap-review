@@ -1,0 +1,1451 @@
+TY  - CONF
+TI  - Query Transformation in Ontology-Based Relational Data Integration
+T2  - 2010 Asia-Pacific Conference on Wearable Computing Systems
+SP  - 303
+EP  - 306
+AU  - J. Wang
+AU  - Y. Zhang
+AU  - Z. Miao
+AU  - J. Lu
+PY  - 2010
+DO  - 10.1109/APWCS.2010.83
+JO  - 2010 Asia-Pacific Conference on Wearable Computing Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 Asia-Pacific Conference on Wearable Computing Systems
+Y1  - 17-18 April 2010
+AB  - The emergence of the Semantic Web brings new paradigm shift of computing in data integration research where data is heterogeneous and distributed. Ontology-based heterogeneous relational data integration has recently attracted many diverse contributions, since most of the information is still stored in relational databases. This paper focuses on the query transformation problem in such an integration scenario. To bridge the semantic gap between the express power of SPARQL and SQL, we describe the semantic of SPARQL graph patterns using relational algebra, which is intended to bring formality and generality to manipulability of SPARQL query. The semantic equivalence of this SPARQL relational algebra is further discussed and a SPARQL to SQL query transforming algorithm is presented.
+ER  - 
+
+TY  - CONF
+TI  - Ontology-Based Data Access and Visualization of Big Vector and Raster Data
+T2  - IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium
+SP  - 407
+EP  - 410
+AU  - K. Bereta
+AU  - G. Stamoulis
+AU  - M. Koubarakis
+PY  - 2018
+DO  - 10.1109/IGARSS.2018.8518255
+JO  - IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-7003
+VO  - 
+VL  - 
+JA  - IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium
+Y1  - 22-27 July 2018
+AB  - We present an Ontology-based data access technique for the integration of geospatial data from different sources and different formats using ontologies and mappings. Our technique is implemented in the system Ontop-spatial, which enables the execution of GeoSPARQL queries over geospatial relational databases storing vector or raster data by performing on-the-fiy GeoSPARQL-to-SQL translation using ontologies and mappings. Ontop-spatial is generally more efficient than traditional geospatial RDF stores. Linked geospatial data can then be visualised on the map using Sextant, an online tool for browsing and visualisation of linked geospatial data.
+ER  - 
+
+TY  - CONF
+TI  - Semantic Integration of Relational Data Using SPARQL
+T2  - 2008 Second International Symposium on Intelligent Information Technology Application
+SP  - 422
+EP  - 426
+AU  - J. Wang
+AU  - Z. Miao
+AU  - Y. Zhang
+AU  - J. Lu
+PY  - 2008
+DO  - 10.1109/IITA.2008.72
+JO  - 2008 Second International Symposium on Intelligent Information Technology Application
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2008 Second International Symposium on Intelligent Information Technology Application
+Y1  - 20-22 Dec. 2008
+AB  - Data integration is the main problem encountered by applications that need to query across multiple autonomous and heterogeneous data sources. This paper addresses this problem using logic-based approach. We present a semantic integration infrastructure for relational data. In this integration infrastructure, ontology is used as the mediated schema. The formal semantics of SPARQL is defined according to the W3C candidate recommendation and translation algorithm from SPARQL to datalog is provided. A query rewriting algorithm based on datalog is also provided for heterogeneous data integration.
+ER  - 
+
+TY  - CONF
+TI  - Query processing for heterogeneous relational data integration
+T2  - 2010 International Conference on Intelligent Computing and Integrated Systems
+SP  - 777
+EP  - 781
+AU  - J. Wang
+AU  - Y. Zhang
+AU  - J. Lu
+AU  - Zhuang Miao
+AU  - Bo Zhou
+PY  - 2010
+DO  - 10.1109/ICISS.2010.5657113
+JO  - 2010 International Conference on Intelligent Computing and Integrated Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Intelligent Computing and Integrated Systems
+Y1  - 22-24 Oct. 2010
+AB  - The emergence of the Semantic Web has given rise to researches on semantic integration of heterogeneous relational databases using ontology. Semantic-based heterogeneous relational data integration is recently attracting many diverse attentions, since most of the information is still stored in relational databases. This paper focuses on the query processing problem in semantic-based heterogeneous relational databases integration systems. The semantic of query rewriting is defined and algorithms for query decomposing, rewriting and transforming are presented. SPARQL queries over global schema are rewritten into local SQL queries that can be executed on heterogeneous relational databases. The experiment results show that the approach we proposed has nice performance and scalability.
+ER  - 
+
+TY  - CONF
+TI  - Ontology based data integration of NoSQL datastores
+T2  - 2014 9th International Conference on Industrial and Information Systems (ICIIS)
+SP  - 1
+EP  - 6
+AU  - V. K. Kiran
+AU  - R. Vijayakumar
+PY  - 2014
+DO  - 10.1109/ICIINFS.2014.7036545
+JO  - 2014 9th International Conference on Industrial and Information Systems (ICIIS)
+IS  - 
+SN  - 2164-7011
+VO  - 
+VL  - 
+JA  - 2014 9th International Conference on Industrial and Information Systems (ICIIS)
+Y1  - 15-17 Dec. 2014
+AB  - NoSQL databases are suitable for network traffic loads experienced by today's websites. The important attributes that make them a favorable choice are inherent distributed nature, horizontal scalability and flexibility in data models. Hence, more data is now getting handled through NoSQL databases and sensible information extraction from these data stores is becoming a requirement. Information extraction may require sourcing data from multiple data sources, establishing relationship among them and querying across these data sources together. Ontology based semantic integration systems for Relational Database Management Systems (RDBMS) already exist that satisfies the above requirement. Many commercial systems are operational based on the above technique and tools and solutions for the above approach are very much mature. Hence, mapping the processing done in each stage of RDBMS based semantic integration systems to that of NoSQL systems can facilitate usage of existing tools and frameworks. The purpose of this work is to develop ontology based semantic integration system for a column-oriented NoSQL data store like HBase which is similar in architectural design to RDBMS.
+ER  - 
+
+TY  - CONF
+TI  - An r2rml-based Approach to Map Dengue Patient Database to Ontology
+T2  - 2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)
+SP  - 790
+EP  - 795
+AU  - R. Devi
+AU  - D. Mehrotra
+AU  - H. Baazaoui-Zghal
+PY  - 2020
+DO  - 10.1109/ICRITO48877.2020.9197823
+JO  - 2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)
+Y1  - 4-5 June 2020
+AB  - Integrating Dengue patients' data in semantic web from “deep web” facilitates interoperability amongst healthcare systems. Mapping dengue patients' data that exist in relational databases with the existing machine-readable and interoperable Dengue knowledge-base is crucial towards providing interoperability through linked data network amongst Electronic Health Record(EHR) systems. An RDB to RDF mapping language(R2RML) based approach that maps dengue patients' information maintained in legacy system(Relational database) to an existing dengue patients' ontology is proposed in this paper. Mapping file is generated using R2RML for the database which is subsequently customized and mapped with the existing ontology. Finally RDF model is generated using R2RML processor based on the customized ontology and Simple Protocol and RDF Query Language (SPARQL) query is also executed that demonstrates ontology mapped patients triples.
+ER  - 
+
+TY  - CONF
+TI  - Querying Heterogeneous Relational Database using SPARQL
+T2  - 2009 Eighth IEEE/ACIS International Conference on Computer and Information Science
+SP  - 475
+EP  - 480
+AU  - J. Wang
+AU  - Z. Miao
+AU  - Y. Zhang
+AU  - B. Zhou
+PY  - 2009
+DO  - 10.1109/ICIS.2009.11
+JO  - 2009 Eighth IEEE/ACIS International Conference on Computer and Information Science
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 Eighth IEEE/ACIS International Conference on Computer and Information Science
+Y1  - 1-3 June 2009
+AB  - The emergence of the semantic Web has given rise to several researches on semantic integration of heterogeneous relational databases using ontology. This paper studies the query rewriting problem in such an integration scenario. RDFpsilas graph model lends itself well to expressing relational data. To model the relational schema, we propose a data source describing method based on SPARQL graph patterns and give some principles for semantic mapping between relational schema and RDF ontology. The semantic of query rewriting is further discussed and a query rewriting algorithm is presented so that SPARQL can access heterogeneous relational databases without converting the data into physical triples.
+ER  - 
+
+TY  - CONF
+TI  - On the Potential Integration of an Ontology-Based Data Access Approach in NoSQL Stores
+T2  - 2012 Third International Conference on Emerging Intelligent Data and Web Technologies
+SP  - 166
+EP  - 173
+AU  - O. Curé
+AU  - F. Kerdjoudj
+AU  - D. Faye
+AU  - C. Le Duc
+AU  - M. Lamolle
+PY  - 2012
+DO  - 10.1109/EIDWT.2012.27
+JO  - 2012 Third International Conference on Emerging Intelligent Data and Web Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 Third International Conference on Emerging Intelligent Data and Web Technologies
+Y1  - 19-21 Sept. 2012
+AB  - No SQL stores are emerging as an efficient alternative to relational database management systems in the context of big data. Many actors in this domain consider that to gain a wider adoption, several extensions have to be integrated. Some of them focus on the ways of proposing more schema, supporting adapted declarative query languages and providing integrity constraints in order to control data consistency and enhance data quality. We consider that these issues can be dealt with in the context of Ontology Based Data Access (OBDA). OBDA is a new data management paradigm that exploits the semantic knowledge represented in ontologies when querying data stored in a database. We provide a proof of concept of OBDA's ability to tackle these three issues in a social application related to the medical domain.
+ER  - 
+
+TY  - CONF
+TI  - Morph-Skyline: Virtual Ontology-Based Data Access for Skyline Queries
+T2  - 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+SP  - 299
+EP  - 307
+AU  - M. Goncalves
+AU  - D. Chaves-Fraga
+AU  - O. Corcho
+PY  - 2020
+DO  - 10.1109/WIIAT50758.2020.00043
+JO  - 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+Y1  - 14-17 Dec. 2020
+AB  - Skyline queries are being used in decision-making applications to help stakeholders find the set of data that satisfies certain criteria, whose weight may not be assigned beforehand. Given the wide availability of heterogeneous datasets that are being published following Open Data initiatives, combining skyline queries with query processing approaches such as Ontology-Based Data Access (OBDA), may help stakeholders to improve their decisions exploiting and integrating multiple and heterogeneous data sources. In this paper, we address the problem of evaluating SPARQL skyline queries over an OBDA approach. Our approach implements two different techniques: rewriting skyline queries into SPARQL 1.0 and then translating to SQL, or translating them directly into queries that can be evaluated by the relational database. Our experimental results suggest that the execution time can be reduced by up two orders of magnitude in comparison to current approaches scaling up to larger datasets while identifying precisely the skyline set.
+ER  - 
+
+TY  - CONF
+TI  - An R2RML-based Mapping System from Metal Materials Database to Ontology
+T2  - 2013 Ninth International Conference on Semantics, Knowledge and Grids
+SP  - 186
+EP  - 189
+AU  - C. Dong
+AU  - X. Zhang
+AU  - W. Zhou
+PY  - 2013
+DO  - 10.1109/SKG.2013.37
+JO  - 2013 Ninth International Conference on Semantics, Knowledge and Grids
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 Ninth International Conference on Semantics, Knowledge and Grids
+Y1  - 3-4 Oct. 2013
+AB  - Semantic Web and ontology play an important role in various research fields today, but are rarely used in the materials science domain. In this paper we propose an approach to find a mapping method from metal materials database to an ontology. The proposed method refers to the latest W3C standard DM and R2RML. The goal of the mapping system is to transform Relational Database (RDB) to the Resource Description Framework (RDF). R2RML mapping documents (TTL files) are used to record and organize mapping results manually selected by users. An algorithm which simulates the R2RML processor is designed to process the TTL files so as to finally generate RDF. An experimental prototype is developed to implement the algorithm and demonstrate our approach.
+ER  - 
+
+TY  - CONF
+TI  - Ontology Automatic Constructing Based on Relational Database
+T2  - 2010 Ninth International Conference on Grid and Cloud Computing
+SP  - 412
+EP  - 415
+AU  - P. Liu
+AU  - X. Wang
+AU  - A. Bao
+AU  - X. Wang
+PY  - 2010
+DO  - 10.1109/GCC.2010.86
+JO  - 2010 Ninth International Conference on Grid and Cloud Computing
+IS  - 
+SN  - 2160-4916
+VO  - 
+VL  - 
+JA  - 2010 Ninth International Conference on Grid and Cloud Computing
+Y1  - 1-5 Nov. 2010
+AB  - Ontologies are often used to achieve interoperability between the nodes in the grid and the cloud. At present, most ontologies are built manually by the experts in the field. A new method aiming at ontology learning based on relational database is proposed. By analyzing the schema of relational database, a group of rules of transition from relational schema to OWL are established. Then a framework for extracting ontology from relational database is proposed. Based on the above work, a heterogeneous data integration based semantic prototype system is designed and implemented. Finally, strong and firm support to applications has been provided.
+ER  - 
+
+TY  - CONF
+TI  - WF2OML: A Modeling Language for Mapping Web Forms to Ontology
+T2  - 2013 10th Web Information System and Application Conference
+SP  - 456
+EP  - 461
+AU  - L. Chen
+AU  - Z. Xu
+AU  - L. Ni
+PY  - 2013
+DO  - 10.1109/WISA.2013.92
+JO  - 2013 10th Web Information System and Application Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 10th Web Information System and Application Conference
+Y1  - 10-15 Nov. 2013
+AB  - Deep Web databases contain huge amounts of data that can only be accessed via the front-end Web form queries. Since query clients cannot directly issue SPARQL queries against the Deep Web databases, Semantic Web applications cannot take advantage of this information resource. Recently, many RDB2RDF mapping tools, relying on mapping languages such as W3C's R2RML, provide the ability to view existing relational databases in the RDF model, and offer a virtual SPARQL endpoint over the mapped relational data. However, these mapping languages require the information provider to expose the underlying information structure, and to reconstruct the Web site. In this paper we propose a modeling language, WF2OML, for mapping Web forms to OWL or RDFS ontologies. Based on the WF2OML mapping, SPARQL endpoint queries against the back-end database of the Web form can be achieved. We introduce WF2OML, propose the architecture and algorithm design ideas of a WF2OML-based SPARQL query system, and demonstrate a mapping example using our implemented prototype. The experimental results on real-life Web form query sites (e.g., Amazon.com) confirm the feasibility of the proposed method.
+ER  - 
+
+TY  - CONF
+TI  - Online querying relational data based on closure
+T2  - 2010 Second International Conference on Computational Intelligence and Natural Computing
+SP  - 382
+EP  - 385
+AU  - Miao Zhuang
+AU  - Li Jie
+AU  - Wang Jinpeng
+AU  - Zhou Bo
+PY  - 2010
+DO  - 10.1109/CINC.2010.5643813
+JO  - 2010 Second International Conference on Computational Intelligence and Natural Computing
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2010 Second International Conference on Computational Intelligence and Natural Computing
+Y1  - 13-14 Sept. 2010
+AB  - Semantic Web has promoted researches on semantic integration of heterogeneous relational databases. Ontology-based heterogeneous relational data integration is recently attracting many diverse attentions, since most of the information is still stored in relational databases. This paper focuses on the query efficiency problem of ontology-based heterogeneous relational databases querying. To improve the query efficiency, we presented an approach for semantic-based querying of relational data. Global schema is described in RDF(S) and can be abstracted as graph. SPARQL queries over global schema are executed by graph mapping. Rounder graph of global schema is generated offline by calculating the RDFS closure of the schema. Our approach has decreased time cost of online querying and improved the efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Pubworld-A R2rml Mapping Driven Approach To Transform Relational Database Data Into Shareable Format
+T2  - 2018 IEEE 8th International Advance Computing Conference (IACC)
+SP  - 221
+EP  - 227
+AU  - R. Devi
+AU  - D. Mehrotra
+AU  - H. Baazaoui-Zghal
+PY  - 2018
+DO  - 10.1109/IADCC.2018.8692085
+JO  - 2018 IEEE 8th International Advance Computing Conference (IACC)
+IS  - 
+SN  - 2473-3571
+VO  - 
+VL  - 
+JA  - 2018 IEEE 8th International Advance Computing Conference (IACC)
+Y1  - 14-15 Dec. 2018
+AB  - Availability of publications data is significant in research development and a global publications data in semantic web will help research community in great manner. W3C has provided a semantic web standard termed as RDB to RDF Mapping Language(R2RML). R2RML allows us to express mappings to be customized from relational database to RDF database. This paper discusses a convergence approach-PubWorld using R2RML that generate r2rml mapping files from three disparate relational databases- two for publication and one for world database. Publications data are made shareable directly from mapping file by converting into local ontologies and merging the local ontologies along with one existing ontology into one global ontology. The Header-Dictionary-Triples(HDT) compression technique is used for storing the global ontology to achieve large spatial savings. Simple Protocol and RDF Query Language(SPARQL) queries using Jena ARQ(And RDF Query) on both RDF and HDT version shows similar running time.
+ER  - 
+
+TY  - CONF
+TI  - A Hybrid Approach of Mapping Relational Database Schema to Ontology
+T2  - 2012 International Conference on Computer Science and Service System
+SP  - 113
+EP  - 118
+AU  - H. Liu
+AU  - H. Ning
+AU  - T. Wang
+PY  - 2012
+DO  - 10.1109/CSSS.2012.36
+JO  - 2012 International Conference on Computer Science and Service System
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 International Conference on Computer Science and Service System
+Y1  - 11-13 Aug. 2012
+AB  - Mapping relational database schema to ontology is a critical task for ontology-based heterogeneous database integration. This paper proposes a hybrid approach combining element-level and structure-level techniques to discover the correspondences between relational database schema and ontology. In the process of element-level matching, string-based and Word Net sense-based techniques are combined to calculate the name similarity between elements. This paper analyzes different characteristics exhibited by matching element pairs of various types and describes how to use these characteristics to calculate the structure similarity. A series of experiments indicate that our approach performs better than the previous ones.
+ER  - 
+
+TY  - CONF
+TI  - Fast and easy mapping of relational data to RDF for rapid learning health care
+T2  - 2018 IEEE 14th International Conference on e-Science (e-Science)
+SP  - 382
+EP  - 383
+AU  - M. de Vos
+AU  - B. Weel
+AU  - A. M. Mendrik
+AU  - A. Dekker
+AU  - J. Van Soest
+PY  - 2018
+DO  - 10.1109/eScience.2018.00110
+JO  - 2018 IEEE 14th International Conference on e-Science (e-Science)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 14th International Conference on e-Science (e-Science)
+Y1  - 29 Oct.-1 Nov. 2018
+AB  - This abstract describes a system that supports the creation and validation of relational data to ontologies. The proposed system is developed for rapid learning health care (RLHC), i.e., an evidence based approach to train cancer prediction models on clinical care data that is stored in multiple networked hospitals. Since clinical care data cannot leave the hospital due to privacy issues, distributed (machine) learning can be used, where the models are transferred, rather than the actual patient data. This requires clinical care data to be represented in a findable, accessible, interoperable and reusable (FAIR) manner. The proposed system uses an approach called Ontology Based Data Access (OBDA) to query the hospital data. To this end the relational data is mapped to a conceptual layer in the form of ontologies, i.e., shared vocabularies. These ontologies represent the meaning and values of the data while hiding the complicated structure of the original data sources. Currently, the creation of these mappings forms an obstacle in RLHC, as it requires considerable effort and knowledge from users, and validation of the mappings is difficult.
+ER  - 
+
+TY  - CONF
+TI  - Sharing Data on the Grid using Ontologies and distributed SPARQL Queries
+T2  - 18th International Workshop on Database and Expert Systems Applications (DEXA 2007)
+SP  - 450
+EP  - 454
+AU  - A. Langegger
+AU  - M. Blochl
+AU  - W. Woss
+PY  - 2007
+DO  - 10.1109/DEXA.2007.129
+JO  - 18th International Workshop on Database and Expert Systems Applications (DEXA 2007)
+IS  - 
+SN  - 2378-3915
+VO  - 
+VL  - 
+JA  - 18th International Workshop on Database and Expert Systems Applications (DEXA 2007)
+Y1  - 3-7 Sept. 2007
+AB  - The vision of the semantic Web is to make Web content machine-readable. To describe data, the resource description framework has been extended with a schema-level and description logics (e.g. RDF-S and OWL DL). To successfully retrieve data described by RDF -based ontologies, the query language SPARQL is currently being developed at W3C. However, although SPARQL also provides a client/server protocol, currently queries are targeted to single sites only. For a large-scale data integration, which is the scope of a middleware developed within the Austrian grid project, it is necessary to execute queries on distributed data nodes. Because of the large amount of research undertaken in the field of relational database systems, it is reasonable to apply relational algebra to SPARQL query processors. In fact, most RDF triple stores are based on relational database systems. In this paper, several concepts are proposed to enable the integration of heterogeneous, distributed data sources with SPARQL.
+ER  - 
+
+TY  - CONF
+TI  - Development of a Novel Semantic-Based System Integration Framework
+T2  - 2013 3rd Eastern European Regional Conference on the Engineering of Computer Based Systems
+SP  - 18
+EP  - 24
+AU  - A. Bánhalmi
+AU  - D. Paczolay
+AU  - Á. Z. Végh
+AU  - G. Antal
+AU  - V. Bilicki
+PY  - 2013
+DO  - 10.1109/ECBS-EERC.2013.11
+JO  - 2013 3rd Eastern European Regional Conference on the Engineering of Computer Based Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 3rd Eastern European Regional Conference on the Engineering of Computer Based Systems
+Y1  - 29-30 Aug. 2013
+AB  - It is a frequent problem in system development when various different systems with similar functionality have to be integrated together. System integration generally means accessing, sharing and exchanging data among applications. This data sharing can be achieved by implementing interfaces for communication and data exchange, and services for all the applications to be integrated. However, this solution requires a large amount of human resources for software development and refactoring. Here, a novel framework is proposed for data integration that makes the process much simpler by generating all the source code needed for querying data of an integrated system. The proposed framework is based on two ontology mediators, namely, a local ontology generated for the data source to be integrated, and a global or central ontology for the common query interface. This way, the integration process is reduced to finding automatically or semi-automatically the mapping between the concepts of local and global ontologies. If this semantic matching is performed, then all the predefined SPARQL queries of global ontology will be rewritten automatically to queries belonging to data sources to be integrated. Hence, the differences between the systems to be integrated will appear just in the DAO (Data Access Object) layer that is generated according to the ontology alignments. The proposed integration technique does not need any program coding in practice (only visual concept matching has to be done semi-automatically), so the productivity of integration software development can be improved significantly. To demonstrate our concept, our novel framework is applied to real-world integration tasks. In this paper, the framework, methodology, experiences and some measurements relating to the productivity will be presented and discussed.
+ER  - 
+
+TY  - CONF
+TI  - Exclusive technique for stocking and probing data table integration using the Internet
+T2  - International Conference on Information Communication and Embedded Systems (ICICES2014)
+SP  - 1
+EP  - 5
+AU  - T. Divya
+AU  - M. Nithya
+PY  - 2014
+DO  - 10.1109/ICICES.2014.7033787
+JO  - International Conference on Information Communication and Embedded Systems (ICICES2014)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Conference on Information Communication and Embedded Systems (ICICES2014)
+Y1  - 27-28 Feb. 2014
+AB  - The highly successful architecture and protocols of today's Internet may operate poorly in environments characterized by very long delay paths. People are great sources of unique information, especially that which is location-specific, community-specific and time-specific. We extant the design of ONDINE system which allows the loading and the querying of a data warehouse opened on the Web, directed by an Ontological and Terminological Resource (OTR). The ONtology-based Data INtEgration (ONDINE), using the semantic Web framework and language recommendations, which implement the entire management system, to supplement existing local data sources with data tables which have been extracted from Web documents. ONDINE system trusts on an Ontological and Terminological Resource (OTR). In Chief, we present the main steps of our semiautomatic method to annotate data tables driven by an OTR. The output of this method is an XML/RDF data warehouse composed of XML documents representing data tables with their fuzzy RDF annotations. This system relies on SPARQL and allows approximate answers to be retrieved. to compare old and new data, if there is any modification occurs, then the new document updated as the RDF file.
+ER  - 
+
+TY  - CONF
+TI  - Combination of DM and OBDA for Ontology Generation from Relational Database
+T2  - 2013 IEEE 11th International Conference on Dependable, Autonomic and Secure Computing
+SP  - 386
+EP  - 393
+AU  - W. Rong
+AU  - R. Li
+AU  - H. Sheng
+AU  - Y. Ouyang
+AU  - Z. Xiong
+PY  - 2013
+DO  - 10.1109/DASC.2013.94
+JO  - 2013 IEEE 11th International Conference on Dependable, Autonomic and Secure Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 11th International Conference on Dependable, Autonomic and Secure Computing
+Y1  - 21-22 Dec. 2013
+AB  - Nowadays a large amount of data on the web are stored in relational database (RDB). How to effectively map these data to ontology has become one of the most important challenges in semantic web. Several efforts have been conducted in this area and direct mapping (DM) is a notable one as the W3C candidate recommendation. Though DM has shown its effectiveness, it still faces a lot of challenges. Its performance in term of storage space and time complexity will become worse when RDBS is becoming big and updating frequently. Furthermore, it cannot satisfy monotonicity and semantics preservation at the same time. In this paper, inspired by the idea of ontology-based data access (OBDA), a mechanism is proposed where database is accessed via description logic (DL) ontology and a real TBox and mapping file will be generated accordingly. This method can achieve similar function compared to standard ontology like OWL. The experimental study has shown that it can provide better performance with regard to the storage space and ontology generation time. It has also shown its capability in supporting rapid query process. Different from the other methods which generate virtue RDF data, the proposed approach can also support adding rules, which will enhance the semantic expression ability of the knowledge base.
+ER  - 
+
+TY  - CONF
+TI  - A semantic integration system for heterogeneous bioinformatics data
+T2  - Proceedings of 2012 2nd International Conference on Computer Science and Network Technology
+SP  - 1072
+EP  - 1076
+AU  - W. Dai
+AU  - J. Cheng
+AU  - Q. Wang
+PY  - 2012
+DO  - 10.1109/ICCSNT.2012.6526111
+JO  - Proceedings of 2012 2nd International Conference on Computer Science and Network Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of 2012 2nd International Conference on Computer Science and Network Technology
+Y1  - 29-31 Dec. 2012
+AB  - A data integrating system, designed to provide unified access to multiple, heterogeneous biological and medical data sources, is proposed in this paper. Compared with other analogous systems, a linear regression model is used to improve the efficient of ontology alignment by results of string-based ontology alignment algorithms. We build domain ontology from object-oriented perspective to integrate bioinformatics information stored in relational databases, and describe the detailed process of heterogeneous data integration.
+ER  - 
+
+TY  - CONF
+TI  - Querying XML Data using Description Logics
+T2  - 2019 4th International Conference on Mechanical, Control and Computer Engineering (ICMCCE)
+SP  - 699
+EP  - 6993
+AU  - Y. Liu
+AU  - X. Li
+AU  - Z. Zhu
+PY  - 2019
+DO  - 10.1109/ICMCCE48743.2019.00162
+JO  - 2019 4th International Conference on Mechanical, Control and Computer Engineering (ICMCCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 4th International Conference on Mechanical, Control and Computer Engineering (ICMCCE)
+Y1  - 24-26 Oct. 2019
+AB  - Recently, ontology-based data access is more and more employed in the context of data integration. That is, to the usual data layer of an information system we superimpose a conceptual layer to be exposed to the client. In this paper, we discuss a way to query XML data over conceptual layer using Description Logics. Given a XML data file, we first map the XML DTD to a corresponding relational schema preserving the original semantics of the XML DTD, and at the meantime, we store the XML data into the relational database. After that, we create an ontology described in Description Logics with respect to the relational schema. When a Description Logic query is posted to the ontology TBox, we map it to SQL query with respect to the relational database. In this way, we can query XML data using Description Logics. The main contribution of this thesis can be seen as the following two parts: 1. We proposed a mapping from XML DTD to relational schema with constraints preserving the original XML DTD semantics. 2. We described a framework of querying XML data using Description Logics, more precisely, the DL-LiteA logic.
+ER  - 
+
+TY  - CONF
+TI  - Implementing Ubiquitous Information services with ontologies: Methodology and case study
+T2  - 2012 Federated Conference on Computer Science and Information Systems (FedCSIS)
+SP  - 911
+EP  - 914
+AU  - A. Costanzo
+AU  - A. Faro
+AU  - D. Giordano
+AU  - C. Spampinato
+PY  - 2012
+DO  - 
+JO  - 2012 Federated Conference on Computer Science and Information Systems (FedCSIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 Federated Conference on Computer Science and Information Systems (FedCSIS)
+Y1  - 9-12 Sept. 2012
+AB  - Currently, data integration in Ubiquitous Information Systems (UISs) is achieved by a centralized relational database where all the information coming from the remote servers is stored. To improve such architecture we proposed to convert in each server the relational archives into an RDF triple stores where data are represented by standard terms interrelated by subject-predicate-object relations (also called data ontology). In this way, UISs could be developed by a distributed approach, where data integration is achieved by an shared RDF format although data used on the remote servers follow a proprietary format. Also, the paper proposes to implement such UISs per use stories, defined according to task ontologies, to facilitate implementation from specifications. A case study illustrates how software environments based on the paradigm Model-View-Controller, e.g., Ruby on Rails powered by JQMobile, facilitate the implementation of the methodology.
+ER  - 
+
+TY  - CONF
+TI  - Visualizing Semantic Mapping Based on View Graph
+T2  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+SP  - 124
+EP  - 127
+AU  - F. Tang
+AU  - L. Yao
+AU  - Y. Sun
+AU  - M. Qian
+PY  - 2009
+DO  - 10.1109/KAM.2009.318
+JO  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+Y1  - 30 Nov.-1 Dec. 2009
+AB  - Semantic mappings between relational database and ontology are very useful in ontology-based relational data integration system. However, managing those semantic mappings is an arduous work in an open and dynamic environment. Aiming at facilitating the work of managing semantic mappings, a model named view graph is proposed in this paper. View graph retains the semantics discovered during the process of mapping construction, and these semantics may be reused in maintaining mappings. What's more, visualizing mappings based on view graph illustrates the semantics implicated in mappings, and this will help us understand those mappings.
+ER  - 
+
+TY  - CONF
+TI  - Ontology-driven tunnel construction information retrieval and extraction
+T2  - The 26th Chinese Control and Decision Conference (2014 CCDC)
+SP  - 4741
+EP  - 4746
+AU  - H. Min
+AU  - H. Zhewen
+PY  - 2014
+DO  - 10.1109/CCDC.2014.6853021
+JO  - The 26th Chinese Control and Decision Conference (2014 CCDC)
+IS  - 
+SN  - 1948-9447
+VO  - 
+VL  - 
+JA  - The 26th Chinese Control and Decision Conference (2014 CCDC)
+Y1  - 31 May-2 June 2014
+AB  - Integration of data from heterogeneous data sources is one of several technical challenges during the tunnel construction. BIM and relational database have maken their efforts for tunnel data organization, but they are not qualified for tunnel problem reasoning. This paper proposes a tunnel data organization method driven by Ontology, which is suitable for data reorganization as well as reasoning. In this mechanism, a tunnel domian ontology center is built by experts for accepting information from BIM and database. Combined with expert knowledge, the ontology is used for problem sloving and analysis. The ontology-driven system has been successfully applied in Shanghai HongMei South Tunnel Project, which improved the tunnel construction quality and helped avoid risks.
+ER  - 
+
+TY  - CONF
+TI  - Rewriting queries using views for RDF-based relational data integration
+T2  - 17th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'05)
+SP  - 5 pp.
+EP  - 264
+AU  - Huajun Chen
+AU  - Zhaohui Wu
+AU  - Yuxin Mao
+PY  - 2005
+DO  - 10.1109/ICTAI.2005.109
+JO  - 17th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'05)
+IS  - 
+SN  - 2375-0197
+VO  - 
+VL  - 
+JA  - 17th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'05)
+Y1  - 14-16 Nov. 2005
+AB  - We study the problem of answering queries through a target RDF ontology, given a set of view-based mappings between one or more source relational schemas and this target ontology. We design a novel query rewriting algorithm that can efficiently rewrites a RDF query into relational queries using a set of RDF views. With our approach, we highlight the important role played by RDF blank node in representing incomplete semantics of relational data when integrating them using RDF.
+ER  - 
+
+TY  - CONF
+TI  - Framework for automatically construct ontology knowledge base from semi-structured datasets
+T2  - 2015 10th International Conference for Internet Technology and Secured Transactions (ICITST)
+SP  - 152
+EP  - 157
+AU  - G. -h. Baek
+AU  - S. -k. Kim
+AU  - K. -h. Ahn
+PY  - 2015
+DO  - 10.1109/ICITST.2015.7412077
+JO  - 2015 10th International Conference for Internet Technology and Secured Transactions (ICITST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 10th International Conference for Internet Technology and Secured Transactions (ICITST)
+Y1  - 14-16 Dec. 2015
+AB  - This paper propose the method to dynamically construct optimized ontology knowledge base (KB) using ontology schema model from semi-structured datasets based RDM (relational data model). In order to enhance a big data analysis ability, it must be provided classification or analysis method based on context and meaning. Also recently, for providing high-level services on IoT environment, necessity of a semantic interaction between objects is emphasizing. An existing RDB is difficult to share or interact a various data. Besides, they are impediment in a contextual big data analysis or an interaction between individuals of IoT environment, because they has been operating by features of RDM that constructed a metadata or schema about domain. Therefore, a studies in constructing ontology KB that is possible contextual and semantic representation from existing RDB is in progress, as a result, typically, R2RML was published by W3C RDB2RDF Working Group. But, existing a mapping language can be limited, when RDB is not normalized (such as, 1NF), or when a semi-structured data provided (e.g. spreadsheet, text of key-value type (such as JSON), text of XML type etc.). Therefore, it has been requiring method that construct ontology KB from semi-structured datasets. We proposed a CVI (Cell-Value Importer) and a TTG (Transformation Table Generator) for dynamically importing value at semi-structured data. Also, we defined a Property Expression (PropertyExp) for describing mapping information by intuitive and concise sentence. Finally, we show that our design satisfied 10 of all 14 possible features of mapping languages [1] through testing by that constructed ontology KB from research equipment semi-structured dataset, after we implement prototype of this framework based JDK Environment.
+ER  - 
+
+TY  - CONF
+TI  - Deep Semantic Integration for Information System
+T2  - 2009 International Conference on Computational Intelligence and Natural Computing
+SP  - 292
+EP  - 295
+AU  - Z. Qu
+AU  - S. Tang
+PY  - 2009
+DO  - 10.1109/CINC.2009.94
+JO  - 2009 International Conference on Computational Intelligence and Natural Computing
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2009 International Conference on Computational Intelligence and Natural Computing
+Y1  - 6-7 June 2009
+AB  - When applied semantic integration technology to databases, common method is to rewrite semantic query into SQL statements, while only RDFs vocabularies are supported at most. Semantics having been realized is weak. A more perfect algorithm inherited from the idea of rewriting semantic query is proposed, a sub set of OWL is supported, and semantics having been supported is more deep than ever. Ontology and query all are transformed into graphs, semantic match is done. Applying breadth-first search on match result, SQL statements will be generated. A case is designed to exemplify it, which shows that some OWL constructors have been supported.
+ER  - 
+
+TY  - CONF
+TI  - Data Integration at Scale: From Relational Data Integration to Information Ecosystems
+T2  - 2010 24th IEEE International Conference on Advanced Information Networking and Applications
+SP  - 2
+EP  - 3
+AU  - M. L. Brodie
+PY  - 2010
+DO  - 10.1109/AINA.2010.184
+JO  - 2010 24th IEEE International Conference on Advanced Information Networking and Applications
+IS  - 
+SN  - 2332-5658
+VO  - 
+VL  - 
+JA  - 2010 24th IEEE International Conference on Advanced Information Networking and Applications
+Y1  - 20-23 April 2010
+AB  - Our world is increasingly data-driven. The growth and value of data continue to exceed all predictions. Potential for business opportunity, economic growth, scientific discovery, and even national security lie hidden in the vast and growing data collections distributed across our Digital Universe. Harvesting the value of data requires finding, integrating, and analyzing data distributed across our Digital Universe. Failing to integrate data could be as mild as losing business through a lack of an integrated view of relevant business opportunities and threats or as serious as not anticipating the most serious terrorist attack on America through an inability to integrate relevant information distributed across 17 US intelligence agencies and 28 intelligence databases. Due to data being distributed across both entities and data repositories, data integration has become perhaps the most important data operation but certainly the most costly accounting for up to 40% of data processing budgets. Data integration requirements are growing dramatically due to astounding growth in semantics (i.e., increasingly sophisticated application and data modeling requirements) and scale (i.e., web-scale data and transaction types, volumes, and distribution). Since the mid-1980's the Relational Data Model has been the bedrock of business data processing providing a simple, elegant, and powerful basis for storing, finding, and integrating data based on simplifying assumptions. First, business data is naturally tabular; second, tabular business data follows relational principles; and third, assuming that there is a single source of truth, data views can be integrated into a single view under a global schema and that views of the same information are mutually consistent. To the extent that application data and operations fit naturally and meaningfully into the relational model and follow the three assumptions, Relational Database Management Systems (RDBMSs) provide the most efficient and cost effective data integration solution on the planet and will continue to do so through hardware and engineering advances. As semantic and scale requirements of business data grew in the 1990's relational integration had to be extended ideally internal to the relational database engine, otherwise externally in data integration tools. This led to a plethora of data integration tools and supporting infrastructures with sales exceeding $3.3 billion in 2009 with an expected annual grow rate of 8%. These integration solutions are typically less efficient than relational integration and considerably more costly to acquire and more complex to deploy, yet respond to genuine, if esoteric, data integration requirements. While relational integration in RDBMSs augmented by integration tools meet the requirements of many large-scale applications, they are increasingly less applicable to a growing class of very-large-scale Information Ecosystems that can involve thousands of information systems and databases. Most Fortune 500 companies have ten or more major organizations Corporate Management, Sales, Marketing, Engineering, Product Development, etc. each requiring it's own view of the enterprise from it's unique perspective. Such views are often derived (i.e., integrated) from 5,000-10,000 databases. The Information Ecosystem is the information systems, databases, workflows, people, and infrastructure required to build, maintain, and dynamically update (i.e., integrate) the myriad organizational views. While the relational model and some combination of the three simplifying assumptions may apply to each component information system or database, the Information Ecosystem does not. While an individual information system may be designed to simplify the semantics of the real world application that it represents, the complexity of the real world or of the interactions between 1,000's of information systems cannot be as readily simplified. That is, relational integration and integration tools may apply to an individual or to a small number of information systems, but they are less applicable to large numbers of information systems such as occur in Information Ecosystems. Relational technology is one of the most successful computing technologies in history based in part on the elegance, simplicity, and power of the Relational Data Model. It established a prototype for the next thirty years of database developments. Until the .comand Web-fuelled expansion of our Digital Universe, the majority of data intensive applications were built on the bedrock of relational technology. Applications that did not fit or could not be forced into relational databases were built as extensions to relational technology or as entirely separate solutions. Both methods were not successful such as the rise and fall of objectoriented databases. It now appears that the Relational Data Universe is less than 15% of the Digital Universe. Yet harvesting the value of data in our Digital Universe still requires finding, integrating, and analyzing data distributed across the Digital Universe. If relational integration applies to less than 15%, what data integration solutions are required for the other 85%? The rapid expansion of our Digital Universe both by amazing applications spawned by the Web and by phenomenal advances in hardware speeds and costs led to a continuous stream of semantic and scale requirements that far outpaced data integration solutions and has spawned or been spawned by new technologies such as Web search, Collaborative Filtering, MapReduce, the Semantic Web, Ontologies, Cloud computing, and a dizzying array of others. This talk surveys the evolution of data integration requirements and solutions from the Relational Data Universe to the Digital Universe. It examines data integration solutions in the Relational Data Universe starting with the relational data model and the three simplifying assumptions. It considers the major advances in data integration solutions in terms of semantics; database engine capabilities including data format, data architecture, and data governance; and the integration methods of integration tools. We consider a very-large-scale Information Ecosystem to illustrate limits of data integration solutions in the Relational Data Universe and conclude with review of directions towards data integration beyond the Relational Data Universe including new data models, a profound new direction from the Database Community; Information Ecosystems; Semantic Technologies emerging from the Semantic Web community; and Cloud computing where data integration may reside as Integration-as-a-Service or Informationas-a-Service (IaaS either way!).
+ER  - 
+
+TY  - CONF
+TI  - Mapping ER Schemas to OWL Ontologies
+T2  - 2009 IEEE International Conference on Semantic Computing
+SP  - 324
+EP  - 329
+AU  - I. Myroshnichenko
+AU  - M. C. Murphy
+PY  - 2009
+DO  - 10.1109/ICSC.2009.61
+JO  - 2009 IEEE International Conference on Semantic Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 IEEE International Conference on Semantic Computing
+Y1  - 14-16 Sept. 2009
+AB  - As the Semantic Web initiative gains momentum, a fundamental problem of integrating existing data-intensive WWW applications into the Semantic Web emerges. In order for today's relational database supported Web applications to transparently participate in the Semantic Web, their associated database schemas need to be converted into semantically equivalent ontologies. In this paper we present a solution to an important special case of the automatic mapping problem with wide applicability: mapping well-formed Entity-Relationship (ER) schemas to semantically equivalent OWL Lite ontologies. We present a set of mapping rules that fully capture the ER schema semantics, along with an overview of an implementation of the complete mapping algorithm integrated into the current SFSU ER Design Tools software.
+ER  - 
+
+TY  - CONF
+TI  - A scalable ontology reasoner via incremental materialization
+T2  - Proceedings of the 26th IEEE International Symposium on Computer-Based Medical Systems
+SP  - 221
+EP  - 226
+AU  - F. Rabbi
+AU  - W. MacCaull
+AU  - R. U. Faruqui
+PY  - 2013
+DO  - 10.1109/CBMS.2013.6627792
+JO  - Proceedings of the 26th IEEE International Symposium on Computer-Based Medical Systems
+IS  - 
+SN  - 1063-7125
+VO  - 
+VL  - 
+JA  - Proceedings of the 26th IEEE International Symposium on Computer-Based Medical Systems
+Y1  - 20-22 June 2013
+AB  - Ontology based knowledge management systems have a lot of potential: their applicability ranges from artificial intelligence, e.g., for knowledge representation and natural language processing, to information integration and retrieval systems, requirements analysis, and, most lately, to semantic web applications and workflow management systems. However the huge complexity of reasoning for ontologies with large TBoxes and/or ABoxes is often a barrier to their applicability in real-world settings especially those which are time sensitive. Materialization is a promising solution for scalable reasoning over ontologies with large ABoxes as it derives the implicit knowledge of an ontology and makes it available in a relational database. Although materialization can reduce the query answering time of an ontology, it has limitations in applications which require frequent update to the knowledge base. To overcome this problem, we developed a tool for incremental materialization which identifies the fragment of the ontology that needs to be updated due to the ABox or TBox change, thereby reducing the complexity of the exhaustive forward chaining required.
+ER  - 
+
+TY  - CONF
+TI  - A Method of Building Virtual Datacenter Based on Semantic Views
+T2  - 2011 IEEE 8th International Conference on e-Business Engineering
+SP  - 31
+EP  - 35
+AU  - H. Li
+AU  - C. Ouyang
+PY  - 2011
+DO  - 10.1109/ICEBE.2011.18
+JO  - 2011 IEEE 8th International Conference on e-Business Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE 8th International Conference on e-Business Engineering
+Y1  - 19-21 Oct. 2011
+AB  - Massive data exists in Well-Engineering domain, and they are distributed or heterogeneous. These features lead to difficulties during data integration and global decision making. For this problem, this paper proposes a solution of building virtual data center by means of semantic integration technology. In this method, schemas of data sources are firstly mapped to semantic views on domain ontology, secondly, with translation algorithm, global semantic query is rewritten into series of SQL statements which will be dispatched to relevant data sources and executed on local sites, finally, query results are reorganized and submitted to users. By practical application, this virtual data center can supply semantic-based data support for well production decision.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Framework for agent-enabled Semantic Integration in the design of Distributed Digital Museum
+T2  - 2005 First International Conference on Semantics, Knowledge and Grid
+SP  - 36
+EP  - 36
+AU  - Y. Jie-hua
+AU  - L. Hong-zhe
+AU  - B. Hong
+AU  - X. De
+PY  - 2005
+DO  - 10.1109/SKG.2005.130
+JO  - 2005 First International Conference on Semantics, Knowledge and Grid
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2005 First International Conference on Semantics, Knowledge and Grid
+Y1  - 27-29 Nov. 2005
+AB  - This paper presents a framework for agent-enabled semantic integration in the design of distributed digital museum. In this framework, Web Services provides remote information process services which can be discovered and invoked by middle-layer agent to satisfy multiple needs. Domain Ontology is used to characterize and model the semantics that are embedded in the digital museum. Concept-mapping Agent is deployed to set up the semantic relationships between Domain Ontology and relational databases and feedback to middle-layer agent, in doing so, we can get directly benefit from middle-layer agent. During the user request answer process, middle-layer agent can dynamically and quickly discovered the services, executed the remote calling of services, combined the results and finally feedback to user. Furthermore, the paper gave out a Digital Museum Information Retrieval System (DMIRS) , which is designed, based on this framework and demonstrated to be stable and efficient.
+ER  - 
+
+TY  - CONF
+TI  - Ontology based data integration and mapping for adverse drug reaction
+T2  - 2021 6th International Conference on Signal Processing, Computing and Control (ISPCC)
+SP  - 719
+EP  - 727
+AU  - M. Yadav
+AU  - V. Singh
+AU  - Prachi
+PY  - 2021
+DO  - 10.1109/ISPCC53510.2021.9609499
+JO  - 2021 6th International Conference on Signal Processing, Computing and Control (ISPCC)
+IS  - 
+SN  - 2643-8615
+VO  - 
+VL  - 
+JA  - 2021 6th International Conference on Signal Processing, Computing and Control (ISPCC)
+Y1  - 7-9 Oct. 2021
+AB  - There is an increasing interest to transform and integrate data obtained from variety of sources in the health care domain. This transformation and integration is particularly beneficial in adverse drug reaction (ADR) that may occur due to inhalation of a drug and requires quick treatment to reduce the risk of life. It has been proved in the literature that an expert system based on prior knowledge or supervised learning is beneficial for diagnosis of ADR. A ubiquitous semantic rich knowledge data set is essential for machine learning based clinical expert systems to deal with emergency in case of ADR. This paper highlights the method to integrate heterogeneous data from various clinical sources in ontological format for ADR. Thereafter, the data in ontological format is linked to various standard medical terminologies like SNOMED CT(Systematized Nomenclature of Medicine -Clinical Terms) and MedDRA (Medical Dictionary for Regulatory Activities) in order to make it more general, standardized and semantically rich with the help of TOP SPIN (TopQuadrant SPAQL Inferencing Notation) and SHACL (Shapes Constraint Language) rules. Furthermore the ontology is mapped to domain ontology OAE (Ontology for Adverse Events) to make it more powerful knowledgebase for query retrieval and searching. The objective behind this work is to obtain an integrated ontology or RDF (Resource Description Framework) Turtle format integrated data from heterogeneous resources (XML Data, Relational Data and ASCII Text Data). Further, it ensures linking to medical standards by utilizing different capabilities and plugins of Top Braid Composer maestro edition.
+ER  - 
+
+TY  - CONF
+TI  - Automatic mapping rules and OWL ontology extraction for the OBDA Ontop
+T2  - 10th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing
+SP  - 225
+EP  - 232
+AU  - F. Khazalah
+AU  - Z. Malik
+AU  - A. Rezgui
+PY  - 2014
+DO  - 10.4108/icst.collaboratecom.2014.257493
+JO  - 10th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 10th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing
+Y1  - 22-25 Oct. 2014
+AB  - Extracting Ontop mapping rules and OWL ontology manually from a relational schema is a tedious task. We present an automatic approach for extracting Ontop mappings and OWL ontology from an existing database schema. The end users can access the underlying data source through SPARQL queries. A SPARQL query is written according to the extracted ontology and the end user does not need to know about the underlying data source and its schema. The proposed approach takes into consideration the different relationships between entities of the database schema. Instead of extracting a flat ontology that is an exact copy of the database schema, it extracts a rich ontology. The extracted ontology can also be used as an intermediate between a domain ontology and the underlying database schema. The experiment results indicate that the extracted mappings and ontology are accurate. i.e., end users can query all data (using SPARQL) from the underlying database source in the same way as if they have written SQL queries.
+ER  - 
+
+TY  - CONF
+TI  - InfoSleuth: agent-based system for data integration and analysis
+T2  - 25th Annual International Computer Software and Applications Conference. COMPSAC 2001
+SP  - 474
+EP  - 476
+AU  - T. Ksiezyk
+AU  - G. Martin
+AU  - Qing Jia
+PY  - 2001
+DO  - 10.1109/CMPSAC.2001.960655
+JO  - 25th Annual International Computer Software and Applications Conference. COMPSAC 2001
+IS  - 
+SN  - 0730-3157
+VO  - 
+VL  - 
+JA  - 25th Annual International Computer Software and Applications Conference. COMPSAC 2001
+Y1  - 8-12 Oct. 2001
+AB  - InfoSleuth is an agent-based system that automates the gathering and analysis of dynamic, distributed data accessible over the web. To gather data, a user specifies an SQL query which references elements from a common domain ontology (i.e., terminology). Agents then locate resources that have advertised having data relevant to these elements and translate the ontology-based query into queries referencing elements in the different schemas of the identified local databases. Other agents then integrate the results returned from these multiple resources and express them in terms of the common ontology. The large amount of data returned may be overwhelming, and so analysis agents serve to filter and interpret it. InfoSleuth is implemented in Java, and includes a common agent shell and specializations of the shell. The system was developed within a research environment over the course of 5 years and is now being hardened for commercial applications.
+ER  - 
+
+TY  - CONF
+TI  - Tools for mapping ontologies to relational databases: A comparative evaluation
+T2  - 2015 IEEE International Conference on Intelligent Computer Communication and Processing (ICCP)
+SP  - 77
+EP  - 83
+AU  - D. Moldovan
+AU  - M. Antal
+AU  - D. Valea
+AU  - C. Pop
+AU  - T. Cioara
+AU  - I. Anghel
+AU  - I. Salomie
+PY  - 2015
+DO  - 10.1109/ICCP.2015.7312609
+JO  - 2015 IEEE International Conference on Intelligent Computer Communication and Processing (ICCP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Intelligent Computer Communication and Processing (ICCP)
+Y1  - 3-5 Sept. 2015
+AB  - This paper presents an analysis of the state of the art solutions for mapping a relational database and an ontology by adding reasoning capabilities and offering the possibility to query the inferred information. We analyzed four approaches: Jena with D2RQ, Jena with R2RML, KAON2 and OWL API. In order to highlight the differences between the four approaches, we used a nutrition diagnostics related ontology for the definition of the concepts and of the rules, and a relational database for the storage of the individuals. As performance evaluation, we focused on the time required to map the relational database to the ontology, and the time required to retrieve the information that is inferred about the diagnostics of a number of people. The obtained results show that the best performance in both cases is given by KAON2.
+ER  - 
+
+TY  - CONF
+TI  - A Novel Approach for Multi-source Heterogeneous Database Integration
+T2  - 2013 International Conference on Machine Intelligence and Research Advancement
+SP  - 184
+EP  - 190
+AU  - V. M. Shelake
+AU  - V. S. Bhojane
+PY  - 2013
+DO  - 10.1109/ICMIRA.2013.42
+JO  - 2013 International Conference on Machine Intelligence and Research Advancement
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Machine Intelligence and Research Advancement
+Y1  - 21-23 Dec. 2013
+AB  - Currently, there are different database management systems (DBMS) available and the integration between different database systems is required. There are tools and techniques available for schema matching, but most of them require manual intervention. However, in this paper, a new algorithm named as Multi-Source Heterogeneous Database Integration (MSHDI) is proposed which effectively performs 1:1 and M:1 database integration and determines semantic matches automatically. This paper introduces a novel experimentation with existing heterogeneous database systems such as Oracle, Microsoft SQL Server and Microsoft Excel for schema matching and data integration. In comparison with existing algorithms, this approach achieves full automation and better results on any real-world databases of same domain.
+ER  - 
+
+TY  - CONF
+TI  - Generating OWL Ontology for Database Integration
+T2  - 2009 Third International Conference on Advances in Semantic Processing
+SP  - 22
+EP  - 31
+AU  - N. Alalwan
+AU  - H. Zedan
+AU  - F. Siewe
+PY  - 2009
+DO  - 10.1109/SEMAPRO.2009.21
+JO  - 2009 Third International Conference on Advances in Semantic Processing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 Third International Conference on Advances in Semantic Processing
+Y1  - 11-16 Oct. 2009
+AB  - Today, databases provide the best technique for storing and retrieving data, but they suffer from the absence of a semantic perspective, which is needed to reach global goals such as the semantic web and data integration. Using ontologies will solve this problem by enriching databases semantically. Since building an ontology from scratch is a very complicated task, we propose an automatic transformation system to build Web Ontology Language OWL ontologies from a relational model written in Structured Query Language SQL. Our system also uses metadata, which helps to extract some semantic aspects which could not be inferred from the SQL. Our system analyzes database tuples to capture these metadata. Finally, the outcome ontology of the system is validated manually by comparing it with a conceptual model of the database (E/R diagram) in order to obtain the optimal ontology.
+ER  - 
+
+TY  - CONF
+TI  - Querying Fuzzy Spatiotemporal RDF Data Using R2RML Mappings
+T2  - 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+SP  - 1
+EP  - 8
+AU  - L. Bai
+AU  - J. Lu
+AU  - S. Wang
+PY  - 2020
+DO  - 10.1109/FUZZ48607.2020.9177656
+JO  - 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+IS  - 
+SN  - 1558-4739
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+Y1  - 19-24 July 2020
+AB  - With the development of Internet technology, information management has shown a spurt of growth. In real-life applications, information usually includes spatial, temporal, or spatiotemporal features. Spatiotemporal data has temporal and spatial attributes, and these attributes are often fuzzy. Due to the great significance of fuzzy spatiotemporal data management, how to query fuzzy spatiotemporal data efficiently and effectively has become an important research issue. In that case, this paper formally proposes a new implementation method, which is the query processing of fuzzy spatiotemporal data. In view of the advantages of the most advanced mapping method (R2RML) in data transformation, three algorithms are proposed to transform fuzzy spatiotemporal data from relational database into fuzzy RDF data based on R2RML. On this basis, according to the characteristics of fuzzy RDF data, we give three different fuzzy quantifiers (extreme fuzzy quantifier, range fuzzy quantifier, degree fuzzy quantifier) to represent fuzzy spatiotemporal RDF data. Since SPARQL plays an important role in querying RDF data, it is used for the query of fuzzy spatiotemporal RDF data. In addition, three kinds of fuzzy quantifiers are designed, and the experimental results show the superiority of this method by analyzing experiments in the aspects of the recall and precision.
+ER  - 
+
+TY  - CONF
+TI  - An Information Flow Based Approach to Semantic Integration of Distributed Digital Museums
+T2  - 2006 International Conference on Machine Learning and Cybernetics
+SP  - 4430
+EP  - 4437
+AU  - H. -z. Liu
+AU  - H. Bao
+AU  - J. Wu
+AU  - J. -k. Feng
+PY  - 2006
+DO  - 10.1109/ICMLC.2006.259097
+JO  - 2006 International Conference on Machine Learning and Cybernetics
+IS  - 
+SN  - 2160-1348
+VO  - 
+VL  - 
+JA  - 2006 International Conference on Machine Learning and Cybernetics
+Y1  - 13-16 Aug. 2006
+AB  - The distribution of data and knowledge of a huge amount of cultural heritage and the desire to make them available readily to people geographically scattered gives rise to the challenge of semantic integration of distributed digital museums. In order to make this difficult task tractable, how the participant museums are linked conceptually must be looked at first before any implementation issues for links of more a physical nature can be considered. One promising avenue to this end seems to characterize what we call `informational relationship' between participant museums, which are seen within a (notional) distributed system. And this characterization including reasoning about this relationship should be carried out in both a meaningful and a principled way. In this paper, we describe how to derive semantics in legacy relational database to form local ontology, and present an information flow based approach to mathematically model the relationship among multiple distributed local ontologies in terms of an information channel construction, which involves the construction of classifications and local logics and infomorphisms between them, thus global ontology construction and token connection discovery, To help the establishment of semantic correspondences between various components of the distributed system, which is necessary for the task, the cultural heritage domain ontology CIDOC Conceptual Reference Model (CRM) is deployed as a bridge ontology. The soundness and completeness of the local ontologies is preserved in the global ontology developed in this way.
+ER  - 
+
+TY  - CONF
+TI  - Towards processing and reasoning streams of events in knowledge-driven manufacturing execution systems
+T2  - 2015 IEEE 13th International Conference on Industrial Informatics (INDIN)
+SP  - 1075
+EP  - 1080
+AU  - B. R. Ferrer
+AU  - S. Iarovyi
+AU  - A. Lobov
+AU  - J. L. M. Lastra
+PY  - 2015
+DO  - 10.1109/INDIN.2015.7281884
+JO  - 2015 IEEE 13th International Conference on Industrial Informatics (INDIN)
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - 2015 IEEE 13th International Conference on Industrial Informatics (INDIN)
+Y1  - 22-24 July 2015
+AB  - The incessant need of the industry to optimize processes due to market demands derived in a huge investment on information communication technologies implementation during last decades, in the industrial automation domain. This caused the implementation of paradigms as service-oriented or event-driven architectures in factories, used for wide data integration. Moreover, the use of knowledge representation, within ontologies, permitted the description of system status in knowledge bases, which can be queried and updated at runtime. Due to the massive occurrence of events at any location of the enterprise, complex event processing (CEP) technologies can be used for anticipating facts that can compromise the production at shop floors. In fact, recent implementations on processing and reasoning streams of events in the Semantic Web can be applied also in the industrial automation domain because they combine CEP and SPARQL, which are technologies nowadays used by factory systems. This article describes how these technologies can support the study of the ontological system models evolution through time and an approach to bring predictability to current knowledge-based systems.
+ER  - 
+
+TY  - CONF
+TI  - A federation model to support semantic SPARQL queries for enterprise data governance
+T2  - 2016 Eleventh International Conference on Digital Information Management (ICDIM)
+SP  - 96
+EP  - 100
+AU  - A. Corradi
+AU  - L. Foschini
+AU  - A. Zanni
+AU  - M. Casoni
+AU  - S. Monti
+AU  - F. Sprotetto
+PY  - 2016
+DO  - 10.1109/ICDIM.2016.7829778
+JO  - 2016 Eleventh International Conference on Digital Information Management (ICDIM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 Eleventh International Conference on Digital Information Management (ICDIM)
+Y1  - 19-21 Sept. 2016
+AB  - Data Governance and Federation in large complex organizations poses non-trivial challenges due to the integration of heterogeneous, distributed data sources. Semantic Web, and its de-facto standard query language - SPARQL - have proven to be key in defining and searching semantic over any sort of content on the Web, thus easily letting content clients discover hidden relationships among disparate data. However, current SPARQL support of Data Federation is fairly limited, making it impractical for real-world scenarios. Our work proposes an open and autonomous platform for Data Federation that overcome traditional SPARQL limitations and opens up unprecedented opportunities for Data Governance in large organizations.
+ER  - 
+
+TY  - CONF
+TI  - Supporting Geosciences Web Services Metadata Management and Discovery
+T2  - 2010 IEEE International Conference on Services Computing
+SP  - 625
+EP  - 626
+AU  - P. Brazier
+AU  - A. Chebotko
+AU  - E. Gonzalez
+AU  - A. Kashlev
+AU  - A. Piazza
+PY  - 2010
+DO  - 10.1109/SCC.2010.27
+JO  - 2010 IEEE International Conference on Services Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE International Conference on Services Computing
+Y1  - 5-10 July 2010
+AB  - Geosciences Web portals are becoming increasingly important for supporting geoscientists in their research. The GEO-SEED portal is a repository of geosciences web services metadata, represented in Resource Description Framework (RDF), which supports management and discovery by machines and automated agents. This project uses SPARQL, the W3C standard for querying RDF, to support discovery of web services. SPARQL query performance becomes more critical as the amount of RDF metadata in the repository increases. Most existing RDF storage systems are based on relational database technology. The problem with most of these systems is that their query performance is limited by the use of fixed schema mapping strategies. In this paper, we present our system, called S2ST, which addresses this issue in the context of geosciences web services metadata management. Our experiments show that S2ST provides better SPARQL performance than existing relational RDF storage systems.
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of NoSQL graph databases for querying and versioning of engineering data in multi-disciplinary engineering environments
+T2  - 2015 IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA)
+SP  - 1
+EP  - 8
+AU  - R. Mordinyi
+AU  - P. Schindler
+AU  - S. Biffl
+PY  - 2015
+DO  - 10.1109/ETFA.2015.7301486
+JO  - 2015 IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2015 IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA)
+Y1  - 8-11 Sept. 2015
+AB  - In the context of large engineering projects the effective and efficient exchange and versioning of information from different engineering disciplines is essential. Semantic data integration approaches provide the necessary means to overcome the gap between heterogeneous local engineering tool concepts and common project-level concepts which enable the mapping of engineering data coming from different disciplines. However, evaluations have shown that ontology-based stores do not satisfy versioning and query performance criteria in case of large multi-disciplinary engineering projects. In this paper, we present an architecture solution that uses ontologies to describe engineering models and a NoSQL graph database to version individuals. We evaluate the software architectures according to quality attributes, i.e., performance and scalability, in the context of an industrial scenarios, and compare it with related approaches. Main results suggest that the architecture outperforms ontology stores and match solutions relying on relational databases.
+ER  - 
+
+TY  - CONF
+TI  - A Cloud-Based Framework for Collaborative Data Management in the VPH-Share Project
+T2  - 2013 27th International Conference on Advanced Information Networking and Applications Workshops
+SP  - 1203
+EP  - 1210
+AU  - S. Benkner
+AU  - C. Borckholder
+AU  - M. Bubak
+AU  - Y. Kaniovskyi
+AU  - R. Knight
+AU  - M. Koehler
+AU  - S. Koulouzis
+AU  - P. Nowakowski
+AU  - S. Wood
+PY  - 2013
+DO  - 10.1109/WAINA.2013.58
+JO  - 2013 27th International Conference on Advanced Information Networking and Applications Workshops
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 27th International Conference on Advanced Information Networking and Applications Workshops
+Y1  - 25-28 March 2013
+AB  - The VPH-Share project objective is to store, share, integrate, and link data, information, knowledge, and wisdom about the physiopathology of the human body to enable their reuse within the virtual physiological human community. Therefore, the projects develops a modular and generic data management platform on top of a distributed Cloud infrastructure. The data management platform enables the ontological annotation of VPH-relevant datasets, their provisioning in the Cloud, and supports different data integration approaches. In this paper we present the architecture and implementation of this VPH-Share Cloud and data management platform and we go into detail about two different data integration approaches: relational data mediation, which has been realized on top of a distributed data mediation engine, and semantic data integration, which is supported on the basis of the SPARQL federation extension. Both approaches are examined on top of a project-specific scenario executed in the VPH-Share Cloud environment.
+ER  - 
+
+TY  - CONF
+TI  - An ontology-based MicroRNA knowledge sharing and acquisition framework
+T2  - 2012 IEEE International Conference on Bioinformatics and Biomedicine Workshops
+SP  - 740
+EP  - 747
+AU  - J. Huang
+AU  - X. Lu
+AU  - D. Dou
+AU  - W. T. Gerthoffer
+AU  - J. Dang
+AU  - J. A. Blake
+AU  - M. Tan
+PY  - 2012
+DO  - 10.1109/BIBMW.2012.6470228
+JO  - 2012 IEEE International Conference on Bioinformatics and Biomedicine Workshops
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Conference on Bioinformatics and Biomedicine Workshops
+Y1  - 4-7 Oct. 2012
+AB  - MicroRNAs (miRNAs) play important roles in various biological processes by regulating their target genes. Therefore, miRNAs are closely associated with development, diagnosis, and prognosis for many diseases. The prediction of miRNA targets remains a challenging task for biologists because it involves an extremely large amount of data sources to be explored: to manually integrate information of identified targets and related information from various sources is time-consuming and error-prone; most of all, it is subject to biologists' limited prior knowledge. In this paper we investigated an ontology-based knowledge sharing framework to assist biologists in unraveling important roles of miRNAs in human disease in an automated and more efficient manner, (i) We developed the very first domain-specific ontologies in the miRNA field, Ontology for MicroRNA Target (OMIT), (ii) According to the global metadata model defined in ontologies, heterogeneous data sources were annotated and seamlessly integrated and stored into a central Resource Description Framework (RDF) data repository, (iii) We then enabled ontology-based queries, instead of traditional SQL queries, by inferring new statements from RDF data triples. Consequently we were able to acquire hidden knowledge originally implicit and unclear, yet critical, to biologists.
+ER  - 
+
+TY  - CONF
+TI  - A semantic web application in business data integration
+T2  - 2017 6th International Conference on Software Process Improvement (CIMPS)
+SP  - 1
+EP  - 9
+AU  - J. Gonzalez
+AU  - O. Velez-Langs
+PY  - 2017
+DO  - 10.1109/CIMPS.2017.8169946
+JO  - 2017 6th International Conference on Software Process Improvement (CIMPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 6th International Conference on Software Process Improvement (CIMPS)
+Y1  - 18-20 Oct. 2017
+AB  - One of the needs in the problem of data centralization of companies is that they handle various applications (software) for each process they perform (HR Accounting Inventories etc.) This leads to not be able to unify the information. With our idea it begins to raise a technological solution to centralize and migrate information from the databases of various applications regardless of the engine they use (MySQL SQL Server Sybase Oracle etc.) by means of CSV files and Semantic Web techniques that is a web extension endowed with greater meaning in which any user can find answers to their questions more quickly and easily thanks to a better defined information.
+ER  - 
+
+TY  - JOUR
+TI  - Fuzzy Web Data Tables Integration Guided by an Ontological and Terminological Resource
+T2  - IEEE Transactions on Knowledge and Data Engineering
+SP  - 805
+EP  - 819
+AU  - P. Buche
+AU  - J. Dibie-Barthelemy
+AU  - L. Ibanescu
+AU  - L. Soler
+PY  - 2013
+DO  - 10.1109/TKDE.2011.245
+JO  - IEEE Transactions on Knowledge and Data Engineering
+IS  - 4
+SN  - 1558-2191
+VO  - 25
+VL  - 25
+JA  - IEEE Transactions on Knowledge and Data Engineering
+Y1  - April 2013
+AB  - In this paper, we present the design of ONDINE system which allows the loading and the querying of a data warehouse opened on the Web, guided by an Ontological and Terminological Resource (OTR). The data warehouse, composed of data tables extracted from Web documents, has been built to supplement existing local data sources. First, we present the main steps of our semiautomatic method to annotate data tables driven by an OTR. The output of this method is an XML/RDF data warehouse composed of XML documents representing data tables with their fuzzy RDF annotations. We then present our flexible querying system which allows the local data sources and the data warehouse to be simultaneously and uniformly queried, using the OTR. This system relies on SPARQL and allows approximate answers to be retrieved by comparing preferences expressed as fuzzy sets with fuzzy RDF annotations.
+ER  - 
+
+TY  - CONF
+TI  - Evaluating software architectures using ontologies for storing and versioning of engineering data in heterogeneous systems engineering environments
+T2  - Proceedings of the 2014 IEEE Emerging Technology and Factory Automation (ETFA)
+SP  - 1
+EP  - 10
+AU  - R. Mordinyi
+AU  - E. Serral
+AU  - D. Winkler
+AU  - S. Biffl
+PY  - 2014
+DO  - 10.1109/ETFA.2014.7005237
+JO  - Proceedings of the 2014 IEEE Emerging Technology and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - Proceedings of the 2014 IEEE Emerging Technology and Factory Automation (ETFA)
+Y1  - 16-19 Sept. 2014
+AB  - Large systems engineering projects involve the cooperation of various stakeholders from different engineering disciplines. Individual stakeholders apply various tools and related data storage approaches that (a) might hinder seamless interoperability and (b) include limited capability to support data versioning. Project-level concepts enable the mapping of engineering data coming from different disciplines. However, it remains open how to store data on project level that enable flexible and efficient data access from different disciplines in different environments and enable backtracking to previous versions in case of defects and/or human errors. While semantic data integration provides fundamental solutions for bridging semantic gaps between common project-level concepts and the local tool concepts used by each discipline, semantic storages have been developed to query and reason over gathered data rather than versioning frequent instance changes inherent to such engineering projects in distributed and heterogeneous environments. In this paper we evaluate three software architectures using ontologies in different ways and compare selected quality attributes, i.e., performance and scalability, in the context of an industrial scenarios. Main results suggest that architectures relying on a relational database for versioning individuals still outperforms traditional ontology storages.
+ER  - 
+
+TY  - CONF
+TI  - Semantic Query for Integrated Heterogeneous Database Systems
+T2  - 2008 First International Conference on Intelligent Networks and Intelligent Systems
+SP  - 741
+EP  - 744
+AU  - P. Liang
+AU  - Y. Liu
+AU  - S. Liang
+AU  - H. Chen
+PY  - 2008
+DO  - 10.1109/ICINIS.2008.166
+JO  - 2008 First International Conference on Intelligent Networks and Intelligent Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 First International Conference on Intelligent Networks and Intelligent Systems
+Y1  - 1-3 Nov. 2008
+AB  - To enable accessing deep web information at semantic level, this paper develops a semantic query rewriting mechanism on heterogeneous database enabled web information system with complex ontology mapping technology. It discusses the procedure of converting database schema and instances to ontologies at first, and then the patterns of complex ontology mappings, and the ontology-based query planning in Mediator-Wrapper based environment with GAV style querying request. The relational algebra rewriting is discussed in detail.
+ER  - 
+
+TY  - CONF
+TI  - Data Management Issues on the Semantic Web
+T2  - 2012 IEEE 28th International Conference on Data Engineering
+SP  - 1204
+EP  - 1206
+AU  - O. Hassanzadeh
+AU  - A. Kementsietsidis
+AU  - Y. Velegrakis
+PY  - 2012
+DO  - 10.1109/ICDE.2012.141
+JO  - 2012 IEEE 28th International Conference on Data Engineering
+IS  - 
+SN  - 2375-026X
+VO  - 
+VL  - 
+JA  - 2012 IEEE 28th International Conference on Data Engineering
+Y1  - 1-5 April 2012
+AB  - We provide an overview of the current data management research issues in the context of the Semantic Web. The objective is to introduce the audience into the area of the Semantic Web, and to highlight the fact that the area provides many interesting research opportunities for the data management community. A new model, the Resource Description Framework (RDF), coupled with a new query language, called SPARQL, lead us to revisit some classical data management problems, including efficient storage, query optimization, and data integration. These are problems that the Semantic Web community has only recently started to explore, and therefore the experience and long tradition of the database community can prove valuable. We target both experienced and novice researchers that are looking for a thorough presentation of the area and its key research topics.
+ER  - 
+
+TY  - CONF
+TI  - A semantic approach to polystores
+T2  - 2016 IEEE International Conference on Big Data (Big Data)
+SP  - 2565
+EP  - 2573
+AU  - E. Kharlamov
+AU  - T. Mailis
+AU  - K. Bereta
+AU  - D. Bilidas
+AU  - S. Brandt
+AU  - E. Jimenez-Ruiz
+AU  - S. Lamparter
+AU  - C. Neuenstadt
+AU  - O. Özçep
+AU  - A. Soylu
+AU  - C. Svingos
+AU  - G. Xiao
+AU  - D. Zheleznyakov
+AU  - D. Calvanese
+AU  - I. Horrocks
+AU  - M. Giese
+AU  - Y. Ioannidis
+AU  - Y. Kotidis
+AU  - R. Moller
+AU  - A. Waaler
+PY  - 2016
+DO  - 10.1109/BigData.2016.7840898
+JO  - 2016 IEEE International Conference on Big Data (Big Data)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Conference on Big Data (Big Data)
+Y1  - 5-8 Dec. 2016
+AB  - In the database community Polystores is an emerging and promising approach for data federation that aims at designing a unified querying layer over multiple data models. In the Semantic Web community a similar in spirit approach of Ontology-Based Data Access (OBDA) has been recently proposed, attracted a lot of attention, and proved its success in several industrial scenarios. In this paper we discuss a semantic approach to building polystores using the OBDA paradigm. We also present our system Optique that is utilized in an industrial application of performing turbine diagnostics in Siemens.
+ER  - 
+
+TY  - CONF
+TI  - Synthesis of Semantic Model of Subject Area at Integration of Relational Databases
+T2  - 2019 IEEE 8th International Conference on Advanced Optoelectronics and Lasers (CAOL)
+SP  - 598
+EP  - 601
+AU  - V. Filatov
+AU  - V. Semenets
+AU  - O. Zolotukhin
+PY  - 2019
+DO  - 10.1109/CAOL46282.2019.9019532
+JO  - 2019 IEEE 8th International Conference on Advanced Optoelectronics and Lasers (CAOL)
+IS  - 
+SN  - 2160-1534
+VO  - 
+VL  - 
+JA  - 2019 IEEE 8th International Conference on Advanced Optoelectronics and Lasers (CAOL)
+Y1  - 6-8 Sept. 2019
+AB  - The article considers the problem of synthesizing a semantic model of the subject area at integration of heterogeneous information resources. In this case, emphasis is placed on ensuring the universality of the means of description, without regard to artificial limitations on the data typification and categorization. Two types of logical existence rules are introduced: functional and structural ones, which allow analyzing not only explicitly defined, but also logically deducible information objects, that is, determining the boundary of the subject area. Information about all possible information objects of the subject area makes it possible to determine the area of intersection of the integrable data semantics.
+ER  - 
+
+TY  - CONF
+TI  - Knowledge Base Construction Process for Smart-City Services
+T2  - 2014 19th International Conference on Engineering of Complex Computer Systems
+SP  - 186
+EP  - 189
+AU  - P. Bellini
+AU  - P. Nesi
+AU  - N. Rauch
+PY  - 2014
+DO  - 10.1109/ICECCS.2014.33
+JO  - 2014 19th International Conference on Engineering of Complex Computer Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 19th International Conference on Engineering of Complex Computer Systems
+Y1  - 4-7 Aug. 2014
+AB  - Presently a very large number of public and private data sets are available around the local governments. In most cases, they are not semantically interoperable and a huge human effort is needed to create integrated ontologies and knowledge base for smart city. In this paper, a system for the ingestion of data for smart city related aspects as road graph, services available on the roads, traffic sensors etc., is proposed. The system allows to manage a big volume of data coming from a variety of sources considering both static and dynamic data, these data are then mapped to a smart-city and mobility ontology and stored into an RDF-Store where this data are available for applications via SPARQL queries to provide new services to the users. The paper presents the knowledge base and the mechanisms adopted for the verification, reconciliation and validation. Some examples about the possible usage of the knowledge base produced are also offered and are accessible from the RDF-Store.
+ER  - 
+
+TY  - CONF
+TI  - Ontology of Western Australian petroleum data for effective data warehouse design and data mining
+T2  - INDIN '05. 2005 3rd IEEE International Conference on Industrial Informatics, 2005.
+SP  - 584
+EP  - 592
+AU  - S. L. Nimmagadda
+AU  - H. Dreher
+AU  - Amit Rudra
+PY  - 2005
+DO  - 10.1109/INDIN.2005.1560442
+JO  - INDIN '05. 2005 3rd IEEE International Conference on Industrial Informatics, 2005.
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - INDIN '05. 2005 3rd IEEE International Conference on Industrial Informatics, 2005.
+Y1  - 10-12 Aug. 2005
+AB  - Volumes of petroleum resources data are archived in different companies. These are of heterogeneous form - either in relational, hierarchical or network structures. With the widespread use of these databases and explosive growth in their sizes, petroleum businesses face a problem of information overload. Effectively utilizing these data volumes is a major challenge for this type of industry. Data search becomes tedious, at times when specific queries are made, due to data accumulated in several geographic locations. In this research work, we revisit these data and propose to simplify these heterogeneous data structures through an ontological data modelling approach particularly to address the issues of data integration and information sharing. Various ontological models have been described in the context of Western Australian petroleum systems. An ontological framework, with a mechanism to integrate petroleum resources data in a warehouse environment has been investigated. Ontology design benefits and its impacts on designing data mining algorithms are discussed. Ontology approach ensures petroleum data validity that supports petroleum knowledge mining process.
+ER  - 
+
+TY  - CONF
+TI  - Two-phase schema matching in real world relational databases
+T2  - 2008 IEEE 24th International Conference on Data Engineering Workshop
+SP  - 290
+EP  - 296
+AU  - N. Bozovic
+AU  - V. Vassalos
+PY  - 2008
+DO  - 10.1109/ICDEW.2008.4498334
+JO  - 2008 IEEE 24th International Conference on Data Engineering Workshop
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE 24th International Conference on Data Engineering Workshop
+Y1  - 7-12 April 2008
+AB  - We propose a new approach to the problem of schema matching in relational databases that merges the hybrid and composite approach of combining multiple individual matching techniques. In particular, we propose assigning individual matchers to two categories, “strong” matchers that provide apriori higher quality matches, and “weak” matchers that may be more sensitive to the inputs and are less reliable but can still help generate some matches. Matching is correspondingly done in two phases, with strong “matches” being produced by strong matchers being combined using a simple voting combiner, and weak matchers providing additional evidence for attributes left unmatched (again using a voting combiner). We observe that, while many recent advances in schema matching [2][5][7][11] use composite schema matching and rely on the existence of training schemas to train combiners, in many real-world situations it is not feasible to employ learning techniques because of the unavailability of training data (i.e., schemas or instance data.) We hypothesize that “weak” matchers can often hurt overall accuracy if used in a “single-phase” composite matcher that does not employ learning techniques. We implement our two-stage approach in the ASID system and evaluate it using real life schemas. The experiments validate our hypothesis regarding the negative effect of “weak” matchers and also show ASID performs comparably to state of the art systems while requiring no training schemas. We also demonstrate the benefits of a simple documentation-based matcher. Our experimental data included schemas ranging from 20 to 120 attributes. Note that schemas with 120 attributes are as large or larger than other published evaluations of relational schema matching.
+ER  - 
+
+TY  - CONF
+TI  - Resource capability discovery and description management system for bioinformatics Data and service Integration - an experiment with gene regulatory networks
+T2  - 2008 11th International Conference on Computer and Information Technology
+SP  - 56
+EP  - 61
+AU  - E. Ahmed
+PY  - 2008
+DO  - 10.1109/ICCITECHN.2008.4802991
+JO  - 2008 11th International Conference on Computer and Information Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 11th International Conference on Computer and Information Technology
+Y1  - 24-27 Dec. 2008
+AB  - Traditional legacy HTML based web sites/ page can be thought of as web services because the dynamic web pages can take user input argument via web forms and response to user query. The ability of agents and services to automatically locate and interact with unknown partners is a goal for Web based Data Integration system. This ldquoserendipitous interoperabilityrdquo is hindered by the lack of an explicit means of describing what web pages are able to do and in order to do it what input it takes and what output it produces, that is what is their capabilities [1]. The tremendous success of the WWW is countervailed by the efforts needed to search and find relevant information. For tabular structures embedded in HTML documents, typical keyword or link-analysis based search fails. The next phase envisioned for the WWW is automatic ad-hoc interaction between intelligent agents, web services, databases and semantic web enabled applications. A large amount of information available on the Web is formatted in HTML tables, which are mainly presentation oriented and are not suited for database applications. As a result, how to capture information in HTML tables semantically and integrate relevant information is a challenge. We are envisioning another layer of web abstraction where user can query intra web document table like structure. Our prototype application is based on WebFusion and an ad hoc query language BioFlow [2], [3], [4], [5], [6] a software agent that can simulate a person interacting with web search forms and extracting information from the resulting pages by means of an API. We need to develop a framework which is able to query search web forms and the web page tables in a SQL way. In this context we also report a Java based implementation for integrating Flybase and AlignACE site.
+ER  - 
+
+TY  - CONF
+TI  - Linked REST APIs: A Middleware for Semantic REST API Integration
+T2  - 2017 IEEE International Conference on Web Services (ICWS)
+SP  - 138
+EP  - 145
+AU  - D. Serrano
+AU  - E. Stroulia
+AU  - D. Lau
+AU  - T. Ng
+PY  - 2017
+DO  - 10.1109/ICWS.2017.26
+JO  - 2017 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Web Services (ICWS)
+Y1  - 25-30 June 2017
+AB  - Over the last decade, an exponentially increasing number of REST services have been providing a simple and straightforward syntax for accessing rich data resources. To use these services, however, developers have to understand "information-use contracts" specified in natural language, and, to build applications that benefit from multiple existing services they have to map the underlying resource schemas in their code. This process is difficult and error-prone, especially as the number and overlap of the underlying services increases, and the mappings become opaque, difficult to maintain, and practically impossible to reuse. The more recent advent of the Linked Data formalisms can offer a solution to the challenge. In this paper, we propose a conceptual framework for REST-service integration based on Linked Data models. In this framework, the data exposed by REST services is mapped to Linked Data schemas, based on these descriptions, we have developed a middleware that can automatically compose API calls to respond to data queries (in SPARQL). Furthermore, we have developed a RDF model for characterizing the access-control protocols of these APIs and the quality of the data they expose, so that our middleware can develop "legal" compositions with desired qualities. We report our experience with the implementation of a prototype that demonstrates the usefulness of our framework in the context of a research-data management application.
+ER  - 
+
+TY  - CONF
+TI  - Bioinformatics and computational systems biology: at the cross roads of biology, engineering and computation
+T2  - The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+SP  - 5458
+EP  - 
+AU  - S. Subramaniam
+PY  - 2004
+DO  - 10.1109/IEMBS.2004.1404527
+JO  - The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+Y1  - 1-5 Sept. 2004
+AB  - Summary form only given. We are witnessing the emergence of the "data rich" era in biology. The myriad data in biology ranging from sequence strings to complex phenotypic and disease-relevant data pose a huge challenge to modern biology. The standard paradigm in biology that deals with hypothesis to experimentation (low throughput data) to models is being gradually replaced by data to hypothesis to models and experimentation to more data and models. And unlike data in physical sciences, that in biological sciences is almost guaranteed to be highly heterogeneous and incomplete. In order to make significant advances in this data rich era, it is essential that there be robust data repositories that allow interoperable navigation, query and analysis across diverse data, and a plug-and-play tools environment that will facilitate seamless interplay of tools and data. Further, the integrated data will enable the reconstruction and modeling of biological systems. This talk with address several of the challenges posed by enormous need for scientific data integration and modeling in biology with specific exemplars and possible strategies. The issues addressed will include: architecture of data and knowledge repositories; flat, relational and object-oriented databases ; ontologies in biology; reduction and analysis of data; legacy knowledge integration with data and systems level modeling in biology.
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic model for schema understanding and matching
+T2  - 2004 IEEE International Conference on Systems, Man and Cybernetics (IEEE Cat. No.04CH37583)
+SP  - 4768
+EP  - 4773 vol.5
+AU  - L. . -A. Ratinov
+AU  - S. E. Shimony
+AU  - E. Gudes
+PY  - 2004
+DO  - 10.1109/ICSMC.2004.1401285
+JO  - 2004 IEEE International Conference on Systems, Man and Cybernetics (IEEE Cat. No.04CH37583)
+IS  - 
+SN  - 1062-922X
+VO  - 5
+VL  - 5
+JA  - 2004 IEEE International Conference on Systems, Man and Cybernetics (IEEE Cat. No.04CH37583)
+Y1  - 10-13 Oct. 2004
+AB  - Schema matching is the problem of finding a correspondence between schemas: relational database schemas or Web repositories. The ad-hoc approaches perform poorly on real-world schemas due to the abundance of non-dictionary abbreviations. Our approach to schema matching is based on deep understanding of the schema, using an integrative probabilistic generative model as a framework for comparing candidate interpretations. In empirical evaluation, the proposed model performed well in interpreting relational schemas and exhibited high resistance to noise in the model parameters
+ER  - 
+
+TY  - CONF
+TI  - A Preliminary Framework for Strategic and Compliance Monitoring
+T2  - 2019 IEEE 23rd International Enterprise Distributed Object Computing Workshop (EDOCW)
+SP  - 75
+EP  - 84
+AU  - E. Cardoso
+AU  - M. Montali
+PY  - 2019
+DO  - 10.1109/EDOCW.2019.00024
+JO  - 2019 IEEE 23rd International Enterprise Distributed Object Computing Workshop (EDOCW)
+IS  - 
+SN  - 2325-6605
+VO  - 
+VL  - 
+JA  - 2019 IEEE 23rd International Enterprise Distributed Object Computing Workshop (EDOCW)
+Y1  - 28-31 Oct. 2019
+AB  - The complexity of modern organisations drives the usage of enterprise architectures models and execution data as suitable tools to manage such complexity. To promote a successful enterprise management, this paper proposes the 2QUEN framework that uses enterprise architecture models to monitor the achievement of enterprise goals. In order to represent the relevant architectural domains, 2QUEN uses abstractions like goals, business processes and normative primitives. In order to gather data to monitor goal achievement, 2QUEN proposes the first steps of a methodology to access and query data of a legacy relational database with the purpose of querying norms states. The methodology starts from normative primitives (commitments, authorisations, prohibitions and powers) and uses the architecture provided by the 2-level version of OBDA [2] (2OBDA), a framework from the Semantic Web community, to semantically represent normative primitives and their states, and subsequently map those norms to the underlying legacy data.
+ER  - 
+
+TY  - CONF
+TI  - Storing and Querying Scientific Workflow Provenance Metadata Using an RDBMS
+T2  - Third IEEE International Conference on e-Science and Grid Computing (e-Science 2007)
+SP  - 611
+EP  - 618
+AU  - A. Chebotko
+AU  - X. Fei
+AU  - C. Lin
+AU  - S. Lu
+AU  - F. Fotouhi
+PY  - 2007
+DO  - 10.1109/E-SCIENCE.2007.70
+JO  - Third IEEE International Conference on e-Science and Grid Computing (e-Science 2007)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Third IEEE International Conference on e-Science and Grid Computing (e-Science 2007)
+Y1  - 10-13 Dec. 2007
+AB  - Provenance management has become increasingly important to support scientific discovery reproducibility, result interpretation, and problem diagnosis in scientific workflow environments. This paper proposes an approach to provenance management that seamlessly integrates the interoperability, extensibility, and reasoning advantages of semantic Web technologies with the storage and querying power of an RDBMS. Specifically, we propose: i) two schema mapping algorithms to map an arbitrary OWL provenance ontology to a relational database schema that is optimized for common provenance queries; ii) two efficient data mapping algorithms to map provenance RDF metadata to relational data according to the generated relational database schema, and iii) a schema-independent SPARQL-to-SQL translation algorithm that is optimized on-the-fly by using the type information of an instance available from the input provenance ontology and the statistics of the sizes of the tables in the database. Experimental results are presented to show that our algorithms are efficient and scalable.
+ER  - 
+
+TY  - CONF
+TI  - Semantic information integration of Health Care Network for Physical-Cyber-Social computing approach
+T2  - 2014 17th International Conference on Computer and Information Technology (ICCIT)
+SP  - 305
+EP  - 313
+AU  - H. H. Rahman
+AU  - S. Chakraborty
+AU  - M. H. Seddiqui
+PY  - 2014
+DO  - 10.1109/ICCITechn.2014.7073104
+JO  - 2014 17th International Conference on Computer and Information Technology (ICCIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 17th International Conference on Computer and Information Technology (ICCIT)
+Y1  - 22-23 Dec. 2014
+AB  - The Health Care Network (HCN ) related information of a country is one of the most influential fields of data sharing and integrating with disparate data sources of physical world and compatible health care organizations on the exponentially growing World Wide Web (WWW ) for improving and maintaining health related services of mass people. Although these accessible HCN related unstructured or semi-structured data in multiple heterogeneous repositories on the web originate challenges to develop a smarter method in finding specific information using traditional keyword-based search engines. Moreover, it is also a formidable task to harmonize spatial data with our HCN for exploring implicit knowledge that assist people in making their decisions regarding of health services and it is getting researchers' attention at a rapid pace. In this regard, we applied the Physical-Cyber-Social (PCS) computing approach on HCN that demonstrates the feasibility of semantic web technologies to represent domain information in the machine understandable format and we also integrate data from accessible Cyber Space Data Sources (CSDSs) to address these challenges. We published our HCN related data using Resource Description Framework (RDF ) to build a knowledge-base. We call this repository as HCN - BD, which is HCN related machine understandable data source of Bangladesh. This yields a huge knowledge graph with 0.25 million nodes, i.e. RDF triples to facilitate reasoning important information pattern by a graph based query language, SPARQL. Furthermore, we integrate this semantic repository with our generic spatial knowledge-base, Geo - Bangladesh, a machine understandable geographic data source related to the administrative structure of Bangladesh, to examine health care locations using SPARQL and therefore, we achieved the semantic interoperability in our Linked Open Data (LOD) application. Moreover, our research effectively addresses nearest health care centers using real time spatial data from Global Positioning System (GPS) and maps these locality to increase searching ability by mass people.
+ER  - 
+
+TY  - CONF
+TI  - Digital patient: Personalized and translational data management through the MyHealthAvatar EU project
+T2  - 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+SP  - 1397
+EP  - 1400
+AU  - H. Kondylakis
+AU  - E. G. Spanakis
+AU  - S. Sfakianakis
+AU  - V. Sakkalis
+AU  - M. Tsiknakis
+AU  - K. Marias
+AU  - X. Zhao
+AU  - H. Q. Yu
+AU  - F. Dong
+PY  - 2015
+DO  - 10.1109/EMBC.2015.7318630
+JO  - 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+IS  - 
+SN  - 1558-4615
+VO  - 
+VL  - 
+JA  - 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Y1  - 25-29 Aug. 2015
+AB  - The advancements in healthcare practice have brought to the fore the need for flexible access to health-related information and created an ever-growing demand for the design and the development of data management infrastructures for translational and personalized medicine. In this paper, we present the data management solution implemented for the MyHealthAvatar EU research project, a project that attempts to create a digital representation of a patient's health status. The platform is capable of aggregating several knowledge sources relevant for the provision of individualized personal services. To this end, state of the art technologies are exploited, such as ontologies to model all available information, semantic integration to enable data and query translation and a variety of linking services to allow connecting to external sources. All original information is stored in a NoSQL database for reasons of efficiency and fault tolerance. Then it is semantically uplifted through a semantic warehouse which enables efficient access to it. All different technologies are combined to create a novel web-based platform allowing seamless user interaction through APIs that support personalized, granular and secure access to the relevant information.
+ER  - 
+
+TY  - CONF
+TI  - RDF/RDFS-based Relational Database Integration
+T2  - 22nd International Conference on Data Engineering (ICDE'06)
+SP  - 94
+EP  - 94
+AU  - Huajun Chen
+AU  - Zhaohui Wu
+AU  - Heng Wang
+AU  - Yuxin Mao
+PY  - 2006
+DO  - 10.1109/ICDE.2006.127
+JO  - 22nd International Conference on Data Engineering (ICDE'06)
+IS  - 
+SN  - 2375-026X
+VO  - 
+VL  - 
+JA  - 22nd International Conference on Data Engineering (ICDE'06)
+Y1  - 3-7 April 2006
+AB  - We study the problem of answering queries through a RDF/RDFS ontology, given a set of view-based mappings between one or more relational schemas and this target ontology. Particularly, we consider a set of RDFS semantic constraints such as rdfs:subClassof, rdfs:subPropertyof, rdfs:domain, and rdfs:range, which are present in RDF model but neither XML nor relational models. We formally define the query semantics in such an integration scenario, and design a novel query rewriting algorithm to implement the semantics. On our approach, we highlight the important role played by RDF Blank Node in representing incomplete semantics of relational data. A set of semantic tools supporting relational data integration by RDF are also introduced. The approach have been used to integrate 70 relational databases at China Academy of Traditional Chinese Medicine.
+ER  - 
+
+TY  - CONF
+TI  - Integration of heterogeneous relational databases: RDF mapping approach
+T2  - 2008 International Symposium on Information Technology
+SP  - 1
+EP  - 7
+AU  - M. A. Ismail
+AU  - M. Yaacob
+AU  - S. A. Kareem
+PY  - 2008
+DO  - 10.1109/ITSIM.2008.4632012
+JO  - 2008 International Symposium on Information Technology
+IS  - 
+SN  - 2155-899X
+VO  - 3
+VL  - 3
+JA  - 2008 International Symposium on Information Technology
+Y1  - 26-28 Aug. 2008
+AB  - Mapping process is important in integrating data and knowledge from multiple heterogeneous relational databases. Mapping from a relational database to a description that uses the Resource Description Framework (RDF) shows promising results where it will not jeopardize the semantics of the data. The integration is also important in realizing simultaneous data query from multiple databases. Thus, this paper defined a practical approach for creating mappings between three relational databases of scholarly content (journal and proceeding) to RDF.
+ER  - 
+
+TY  - CONF
+TI  - A linked data graph approach to integration of immunological data
+T2  - 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 1742
+EP  - 1749
+AU  - S. A. C. Bukhari
+AU  - J. Mandell
+AU  - S. H. Kleinstein
+AU  - K. -H. Cheung
+PY  - 2019
+DO  - 10.1109/BIBM47256.2019.8982986
+JO  - 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 18-21 Nov. 2019
+AB  - Systems biology involves the integration of multiple data types (across different data sources) to offer a more complete picture of the biological system being studied. While many existing biological databases are implemented using the traditional SQL (Structured Query Language) database technology, NoSQL database technologies have been explored as a more relationship-based, flexible and scalable method of data integration. In this paper, we describe how to use the Neo4J graph database to integrate a variety of types of data sets in the context of systems vaccinology. Specifically, we have converted into a common graph model diverse types of vaccine response measurement data from the NIH/NIAID ImmPort data repository, pathway data from Reactome, influenza virus strains from WHO, and taxonomic data from NCBI Taxon. While Neo4J provides a graph-based query language (Cypher) for data retrieval, we develop a web-based dashboard for users to easily browse and visualize data without the need to learn Cypher. In addition, we have prototyped a natural language query interface for users to interact with our system. In conclusion, we demonstrate the feasibility of using a graph-based database for storing and querying immunological data with complex biological relationships. Querying a graph database through such relationships has the potential to reveal novel relationships among heterogeneous biological data.
+ER  - 
+
+TY  - CONF
+TI  - Mapping Between Data Sources on the Web
+T2  - International Workshop on Challenges in Web Information Retrieval and Integration
+SP  - 173
+EP  - 178
+AU  - G. H. L. Fletcher
+AU  - C. M. Wyss
+PY  - 2005
+DO  - 10.1109/WIRI.2005.25
+JO  - International Workshop on Challenges in Web Information Retrieval and Integration
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Workshop on Challenges in Web Information Retrieval and Integration
+Y1  - 8-9 April 2005
+AB  - The data mapping problem is to discover effective mappings between structured representations of data. These mappings are the basic ‘glue’ for facilitating large-scale ad-hoc information sharing between autonomous peers in a dynamic environment. Automating their discovery is one of the fundamental unsolved challenges for information integration and sharing on the Web. We outline a general approach to automating the discovery of mappings between relational data sources which leverages new perspectives on the data mapping problem and report on a prototype implementation. Our approach utilizes heuristic search within a space delineated by basic relational transformation operators. A further novelty of our approach is that these operators include data to metadata transformations (and vice versa), allowing a generalization of previous solutions such as token-based schema matching.
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2016 6th International Conference on IT Convergence and Security (ICITCS)
+SP  - 1
+EP  - 5
+PY  - 2016
+DO  - 10.1109/ICITCS.2016.7740300
+JO  - 2016 6th International Conference on IT Convergence and Security (ICITCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 6th International Conference on IT Convergence and Security (ICITCS)
+Y1  - 26-26 Sept. 2016
+AB  - The following topics are dealt with: power-aware data structure; memory allocation techniques; EPS-based motion recognition systems; secure distance bounding protocol; TH-UWB; cooperative spectrum sensing scheme; femtocell network; video quality; unequal loss protection; Wi-Fi based broadcasting system; example-based retrieval system; human motion data; astronaut virtual training system; layout familiarization training; stereo image correction; 3D optical microscope; UHF RFID; BLE; stereo-based tag association; medical image segmentation; sensitive adaptive thresholding; interactive event recognition; semantic video understanding; Bgslibrary algorithms; traffic surveillance video; CUDA-based acceleration techniques; image filtering; image-based ship detection; AR navigation; augmented reality; vehicle information; head-up display: LiDAR data; classifier performance; people detection; wavelet transform; max-min energy-efficiency optimization; wireless powered communication network; harvest-then-transmit protocol; ARM64bit Server; WeChat text messages service flow traffic classification; machine learning technique; load balancing; WSN; novel Markov decision process based routing algorithm; repulsion-propulsion firefly algorithm; sentence based mathematical problem solving approach; ontology modeling; sentiment analysis; HARN algorithm; real-time road surface condition determination algorithm; automatic weather system; kinematic constraint method; human gesture recognition; weighted dynamic time warping; IT demand governance; business goal structuring notation; software requirement specification; AOP-based approach;decision support system; proactive flood control; context-aware user interface field classification; common vocabulary set; maritime equipment; e-navigation services; genetic algorithm; strategic information systems planning; speech enhancement; ES information; phase-error based filters; holistic service orchestration; distributed micro data center; hierarchical cluster network; wellness sports industry; secure agent based architecture; resource allocation; cloud computing; distributed multi-platform context-aware user interface; parallel prime number labeling; XML data; MapReduce; metadata extension; data presentations; aspect-oriented user interfaces design integration; Angular 2 framework; energy impact; Web user interface technology; mobile devices; JIT compilation-based unified SQL query optimization system; partial materialization; data integration; SQL-on-Hadoop engines; z-transform based encryption algorithm; FARIS; fast and memory-efficient URL filter; domain specific machine; synchronized blind audio watermarking; multilevel DWT; windowed vector modulation; packet length covert channel capacity estimation; flexible authentication protocol; WBAN; SMS-based mobile botnet detection module; full-duplex jamming attack; active eavesdropping; Big Data security analysis; complex security requirements patterns; SSH attacks; SSL/TLS nonintrusive proxy; JSON data; neural stegoclassifier; polymorphic malware detection; linguistic based steganography; lexical substitution; syntactical transformation; holistic-based feature extraction; error correcting code biometric template protection technique; network based IMSI catcher detection; Internet of Things environment; light-weight API-call safety checking; automotive control software; SmartDriver; project management software; model-based testing; exploratory testing; automated ECG beat classification system and convolutional neural networks.
+ER  - 
+
+
